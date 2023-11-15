@@ -1,0 +1,2 @@
+08:30:05 [General][1111][LouLx3] - (Message: /addene 860)
+08:30:13 [General][1111][LouLx3] - (Message: /addagi 500)

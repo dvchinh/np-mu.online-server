@@ -1,0 +1,2 @@
+08:25:28 [DevilSquareMix][Failure][1111][LouLx3] - (ChaosSuccessRate: 70, ChaosMoney: 2000000)
+08:27:09 [BloodCastleMix][Success][1111][LouLx3] - (ChaosSuccessRate: 80, ChaosMoney: 50000)

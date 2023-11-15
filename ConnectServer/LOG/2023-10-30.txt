@@ -1,0 +1,43 @@
+04:23:09 [SocketManager] Server started at port [44405]
+04:23:09 [ServerList] ServerList loaded successfully
+04:23:40 [ServerList] JoinServer online
+04:24:04 [ServerList] GameServer online (GameServer) (20)
+04:24:17 [ServerList] GameServer online (GameServerCS) (19)
+05:22:11 [SocketManager] WSARecv() failed with error: 10053
+05:25:04 [SocketManager] WSARecv() failed with error: 10053
+05:28:50 [ServerList] JoinServer offline
+05:28:50 [ServerList] GameServer offline (GameServerCS) (19)
+05:28:50 [ServerList] GameServer offline (GameServer) (20)
+05:28:51 [ServerList] JoinServer online
+05:28:51 [ServerList] GameServer online (GameServerCS) (19)
+05:28:51 [ServerList] GameServer online (GameServer) (20)
+06:13:17 [SocketManager] WSARecv() failed with error: 10053
+06:48:13 [SocketManager] WSARecv() failed with error: 10053
+06:48:38 [SocketManager] WSARecv() failed with error: 10053
+06:51:45 [SocketManager] WSARecv() failed with error: 10053
+06:53:01 [SocketManager] WSARecv() failed with error: 10053
+07:11:22 [SocketManager] WSARecv() failed with error: 10053
+07:16:00 [SocketManager] WSARecv() failed with error: 10053
+07:18:57 [SocketManager] WSARecv() failed with error: 10053
+07:23:55 [SocketManager] WSARecv() failed with error: 10053
+07:25:42 [SocketManager] WSARecv() failed with error: 10053
+07:31:02 [ServerList] GameServer offline (GameServerCS) (19)
+07:31:02 [ServerList] GameServer offline (GameServer) (20)
+07:31:02 [ServerList] GameServer online (GameServerCS) (19)
+07:31:02 [ServerList] GameServer online (GameServer) (20)
+07:53:05 [SocketManager] Server started at port [44405]
+07:53:05 [ServerList] ServerList loaded successfully
+07:53:36 [ServerList] JoinServer online
+07:54:30 [ServerList] GameServer online (GameServer) (20)
+07:54:41 [ServerList] GameServer online (GameServerCS) (19)
+08:12:18 [ServerList] GameServer offline (GameServerCS) (19)
+08:13:37 [ServerList] GameServer offline (GameServer) (20)
+08:13:56 [ServerList] JoinServer offline
+15:43:23 [SocketManager] Server started at port [44405]
+15:43:25 [ServerList] ServerList loaded successfully
+15:44:25 [ServerList] JoinServer online
+15:44:49 [ServerList] GameServer online (GameServer) (20)
+15:45:04 [ServerList] GameServer online (GameServerCS) (19)
+16:04:13 [ServerList] GameServer offline (GameServerCS) (19)
+16:04:21 [ServerList] GameServer offline (GameServer) (20)
+16:04:21 [ServerList] JoinServer offline

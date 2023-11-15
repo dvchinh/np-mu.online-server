@@ -1,0 +1,59 @@
+07:43:33 [SocketManager] Server started at port [55970]
+07:43:33 [SocketManager] Server started at port [55557]
+07:43:36 [ServerManager][0] AddServer (127.0.0.1)
+07:43:36 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+07:43:39 [ServerManager][1] AddServer (127.0.0.1)
+07:43:44 [ServerManager][2] AddServer (127.0.0.1)
+07:43:44 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+07:43:55 [ServerManager][3] AddServer (127.0.0.1)
+07:43:55 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+07:52:31 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+07:59:39 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+08:30:34 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+09:44:54 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+09:51:21 [ServerManager][3] DelServer (127.0.0.1)
+09:51:26 [ServerManager][2] DelServer (127.0.0.1)
+09:58:21 [SocketManager] Server started at port [55970]
+09:58:21 [SocketManager] Server started at port [55557]
+09:58:21 [ServerManager][0] AddServer (127.0.0.1)
+09:58:28 [ServerManager][1] AddServer (127.0.0.1)
+09:58:28 [ServerManager][1] ServerInfo (ChatServer) (55906) (65533)
+10:03:17 [SocketManager] Server started at port [55970]
+10:03:17 [SocketManager] Server started at port [55557]
+10:03:17 [ServerManager][0] AddServer (127.0.0.1)
+10:03:17 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+10:03:22 [ServerManager][1] AddServer (127.0.0.1)
+10:04:51 [ServerManager][2] AddServer (127.0.0.1)
+10:04:51 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+10:04:57 [ServerManager][2] DelServer (127.0.0.1)
+10:05:47 [ServerManager][2] AddServer (127.0.0.1)
+10:05:47 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+10:06:18 [ServerManager][2] DelServer (127.0.0.1)
+10:06:33 [ServerManager][2] AddServer (127.0.0.1)
+10:06:33 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+10:06:38 [ServerManager][2] DelServer (127.0.0.1)
+15:59:29 [SocketManager] Server started at port [55970]
+15:59:29 [SocketManager] Server started at port [55557]
+15:59:33 [ServerManager][0] AddServer (127.0.0.1)
+15:59:33 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+15:59:35 [ServerManager][1] AddServer (127.0.0.1)
+15:59:44 [ServerManager][2] AddServer (127.0.0.1)
+15:59:44 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+15:59:56 [ServerManager][3] AddServer (127.0.0.1)
+15:59:56 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+16:02:30 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+16:03:41 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+16:04:57 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+16:06:12 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+16:07:24 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+16:08:33 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+16:09:57 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+16:11:01 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+16:12:17 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+16:13:22 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+16:14:33 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+16:15:40 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+16:16:51 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+16:45:26 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+21:22:46 [ServerManager][3] DelServer (127.0.0.1)
+21:22:53 [ServerManager][2] DelServer (127.0.0.1)

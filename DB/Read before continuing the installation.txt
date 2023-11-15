@@ -1,0 +1,28 @@
+English:
+We have left two alternatives to create the database because some administrators are used to directly restore a .bak file when creating the database.
+
+From MUDevs we recommend that the database is created directly from a clean database and through the creation query that you can find inside the DB/Create with query folder.
+
+
+To create the database through the .bak files you must restore the MuOnline and BattleCore databases found in the DB/Restore .bak folder. It is mandatory to use SQL Server 2012 or higher to be able to restore them.
+
+To create the database through the creation query (recommended method), you must create two empty databases: MuOnline and BattleCore and then run the corresponding creation query on each one.
+
+
+That's all, any of the two database creation methods are equivalent, you just have to choose one.
+
+
+===================
+
+Español:
+Hemos dejado dos alternativas para crear la base de datos porque algunos administradores están acostumbrados a restaurar directamente un archivo .bak al momento de crear la base de datos.
+
+Desde MUDevs recomendamos que la base de datos se cree directamente desde una base de datos limpia y a través de la query de creación que podrás encontrar dentro de la carpeta DB/Create with query.
+
+
+Para crear la base de datos a través de los archivos .bak deberás restaurar las bases de datos MuOnline y BattleCore que se encuentran en la carpeta DB/Restore .bak. Es obligatorio utilizar SQL Server 2012 o superior para poder restaurarlas.
+
+Para crear la base de datos a través de la consulta de creación (método recomendado), deberás dos bases de datos vacías: MuOnline y BattleCore y luego ejecutar en cada una la query de creación correspondiente.
+
+
+Eso es todo, cualquiera de los dos métodos de creación de la base de datos son equivalentes, solo debes elegir uno.

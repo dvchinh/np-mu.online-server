@@ -1,0 +1,574 @@
+00:02:14 [ObjectManager][0] AddClient (192.168.1.111)
+00:02:14 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+00:02:14 [AuthManager][DelUser] Name -> Invalid Format
+00:02:14 [ObjectManager][0] DelClient (192.168.1.111)
+00:05:49 [ObjectManager][0] AddClient (192.168.1.111)
+00:05:49 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+00:05:49 [AuthManager][DelUser] Name -> Invalid Format
+00:05:49 [ObjectManager][0] DelClient (192.168.1.111)
+00:09:25 [ObjectManager][0] AddClient (192.168.1.111)
+00:09:25 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+00:09:25 [AuthManager][DelUser] Name -> Invalid Format
+00:09:25 [ObjectManager][0] DelClient (192.168.1.111)
+00:13:00 [ObjectManager][0] AddClient (192.168.1.111)
+00:13:00 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+00:13:00 [AuthManager][DelUser] Name -> Invalid Format
+00:13:00 [ObjectManager][0] DelClient (192.168.1.111)
+00:16:36 [ObjectManager][0] AddClient (192.168.1.111)
+00:16:36 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+00:16:36 [AuthManager][DelUser] Name -> Invalid Format
+00:16:36 [ObjectManager][0] DelClient (192.168.1.111)
+00:19:01 [Connection] Protocol header error (Header: 38)
+00:19:31 [Connection] Protocol header error (Header: 38)
+00:20:11 [ObjectManager][0] AddClient (192.168.1.111)
+00:20:11 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+00:20:11 [AuthManager][DelUser] Name -> Invalid Format
+00:20:11 [ObjectManager][0] DelClient (192.168.1.111)
+00:23:47 [ObjectManager][0] AddClient (192.168.1.111)
+00:23:47 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+00:23:47 [AuthManager][DelUser] Name -> Invalid Format
+00:23:47 [ObjectManager][0] DelClient (192.168.1.111)
+00:27:22 [ObjectManager][0] AddClient (192.168.1.111)
+00:27:22 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+00:27:22 [AuthManager][DelUser] Name -> Invalid Format
+00:27:22 [ObjectManager][0] DelClient (192.168.1.111)
+00:30:58 [ObjectManager][0] AddClient (192.168.1.111)
+00:30:58 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+00:30:58 [AuthManager][DelUser] Name -> Invalid Format
+00:30:58 [ObjectManager][0] DelClient (192.168.1.111)
+00:34:33 [ObjectManager][0] AddClient (192.168.1.111)
+00:34:33 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+00:34:33 [AuthManager][DelUser] Name -> Invalid Format
+00:34:33 [ObjectManager][0] DelClient (192.168.1.111)
+00:37:02 [Connection] Protocol header error (Header: 38)
+00:38:08 [ObjectManager][0] AddClient (192.168.1.111)
+00:38:08 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+00:38:08 [AuthManager][DelUser] Name -> Invalid Format
+00:38:08 [ObjectManager][0] DelClient (192.168.1.111)
+00:41:44 [ObjectManager][0] AddClient (192.168.1.111)
+00:41:44 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+00:41:44 [AuthManager][DelUser] Name -> Invalid Format
+00:41:44 [ObjectManager][0] DelClient (192.168.1.111)
+00:45:19 [ObjectManager][0] AddClient (192.168.1.111)
+00:45:19 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+00:45:19 [AuthManager][DelUser] Name -> Invalid Format
+00:45:19 [ObjectManager][0] DelClient (192.168.1.111)
+00:48:55 [ObjectManager][0] AddClient (192.168.1.111)
+00:48:55 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+00:48:55 [AuthManager][DelUser] Name -> Invalid Format
+00:48:55 [ObjectManager][0] DelClient (192.168.1.111)
+00:52:30 [ObjectManager][0] AddClient (192.168.1.111)
+00:52:30 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+00:52:30 [AuthManager][DelUser] Name -> Invalid Format
+00:52:30 [ObjectManager][0] DelClient (192.168.1.111)
+00:56:06 [ObjectManager][0] AddClient (192.168.1.111)
+00:56:06 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+00:56:06 [AuthManager][DelUser] Name -> Invalid Format
+00:56:06 [ObjectManager][0] DelClient (192.168.1.111)
+00:58:33 [Connection] Protocol header error (Header: 38)
+00:59:41 [ObjectManager][0] AddClient (192.168.1.111)
+00:59:41 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+00:59:41 [AuthManager][DelUser] Name -> Invalid Format
+00:59:41 [ObjectManager][0] DelClient (192.168.1.111)
+01:03:17 [ObjectManager][0] AddClient (192.168.1.111)
+01:03:17 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+01:03:17 [AuthManager][DelUser] Name -> Invalid Format
+01:03:17 [ObjectManager][0] DelClient (192.168.1.111)
+01:06:52 [ObjectManager][0] AddClient (192.168.1.111)
+01:06:52 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+01:06:52 [AuthManager][DelUser] Name -> Invalid Format
+01:06:52 [ObjectManager][0] DelClient (192.168.1.111)
+01:10:28 [ObjectManager][0] AddClient (192.168.1.111)
+01:10:28 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+01:10:28 [AuthManager][DelUser] Name -> Invalid Format
+01:10:28 [ObjectManager][0] DelClient (192.168.1.111)
+01:14:03 [ObjectManager][0] AddClient (192.168.1.111)
+01:14:03 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+01:14:03 [AuthManager][DelUser] Name -> Invalid Format
+01:14:03 [ObjectManager][0] DelClient (192.168.1.111)
+01:17:38 [ObjectManager][0] AddClient (192.168.1.111)
+01:17:38 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+01:17:38 [AuthManager][DelUser] Name -> Invalid Format
+01:17:38 [ObjectManager][0] DelClient (192.168.1.111)
+01:21:14 [ObjectManager][0] AddClient (192.168.1.111)
+01:21:14 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+01:21:14 [AuthManager][DelUser] Name -> Invalid Format
+01:21:14 [ObjectManager][0] DelClient (192.168.1.111)
+01:24:51 [ObjectManager][0] AddClient (192.168.1.111)
+01:24:51 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+01:24:51 [AuthManager][DelUser] Name -> Invalid Format
+01:24:51 [ObjectManager][0] DelClient (192.168.1.111)
+01:28:26 [ObjectManager][0] AddClient (192.168.1.111)
+01:28:26 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+01:28:26 [AuthManager][DelUser] Name -> Invalid Format
+01:28:26 [ObjectManager][0] DelClient (192.168.1.111)
+01:32:02 [ObjectManager][0] AddClient (192.168.1.111)
+01:32:02 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+01:32:02 [AuthManager][DelUser] Name -> Invalid Format
+01:32:02 [ObjectManager][0] DelClient (192.168.1.111)
+01:35:37 [ObjectManager][0] AddClient (192.168.1.111)
+01:35:37 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+01:35:37 [AuthManager][DelUser] Name -> Invalid Format
+01:35:37 [ObjectManager][0] DelClient (192.168.1.111)
+01:39:13 [ObjectManager][0] AddClient (192.168.1.111)
+01:39:13 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+01:39:13 [AuthManager][DelUser] Name -> Invalid Format
+01:39:13 [ObjectManager][0] DelClient (192.168.1.111)
+01:39:49 [Connection] connect() failed with error: 10061
+01:39:59 [Connection] connect() failed with error: 10061
+01:40:09 [Connection] connect() failed with error: 10061
+01:40:19 [Connection] connect() failed with error: 10061
+01:40:58 [Connection] Protocol header error (Header: 38)
+01:42:48 [ObjectManager][0] AddClient (192.168.1.111)
+01:42:48 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+01:42:48 [AuthManager][DelUser] Name -> Invalid Format
+01:42:48 [ObjectManager][0] DelClient (192.168.1.111)
+01:46:24 [ObjectManager][0] AddClient (192.168.1.111)
+01:46:24 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+01:46:24 [AuthManager][DelUser] Name -> Invalid Format
+01:46:24 [ObjectManager][0] DelClient (192.168.1.111)
+01:49:59 [ObjectManager][0] AddClient (192.168.1.111)
+01:49:59 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+01:49:59 [AuthManager][DelUser] Name -> Invalid Format
+01:49:59 [ObjectManager][0] DelClient (192.168.1.111)
+01:53:35 [ObjectManager][0] AddClient (192.168.1.111)
+01:53:35 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+01:53:35 [AuthManager][DelUser] Name -> Invalid Format
+01:53:35 [ObjectManager][0] DelClient (192.168.1.111)
+01:57:10 [ObjectManager][0] AddClient (192.168.1.111)
+01:57:10 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+01:57:10 [AuthManager][DelUser] Name -> Invalid Format
+01:57:10 [ObjectManager][0] DelClient (192.168.1.111)
+01:58:18 [Connection] Protocol header error (Header: 38)
+02:00:46 [ObjectManager][0] AddClient (192.168.1.111)
+02:00:46 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+02:00:46 [AuthManager][DelUser] Name -> Invalid Format
+02:00:46 [ObjectManager][0] DelClient (192.168.1.111)
+02:04:21 [ObjectManager][0] AddClient (192.168.1.111)
+02:04:21 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+02:04:21 [AuthManager][DelUser] Name -> Invalid Format
+02:04:21 [ObjectManager][0] DelClient (192.168.1.111)
+02:07:57 [ObjectManager][0] AddClient (192.168.1.111)
+02:07:57 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+02:07:57 [AuthManager][DelUser] Name -> Invalid Format
+02:07:57 [ObjectManager][0] DelClient (192.168.1.111)
+02:11:32 [ObjectManager][0] AddClient (192.168.1.111)
+02:11:32 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+02:11:32 [AuthManager][DelUser] Name -> Invalid Format
+02:11:32 [ObjectManager][0] DelClient (192.168.1.111)
+02:15:08 [ObjectManager][0] AddClient (192.168.1.111)
+02:15:08 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+02:15:08 [AuthManager][DelUser] Name -> Invalid Format
+02:15:08 [ObjectManager][0] DelClient (192.168.1.111)
+02:18:43 [ObjectManager][0] AddClient (192.168.1.111)
+02:18:43 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+02:18:43 [AuthManager][DelUser] Name -> Invalid Format
+02:18:43 [ObjectManager][0] DelClient (192.168.1.111)
+02:21:36 [ObjectManager][0] AddClient (192.168.1.111)
+02:21:36 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+02:21:36 [AuthManager][DelUser] Name -> Invalid Format
+02:21:36 [ObjectManager][0] DelClient (192.168.1.111)
+02:24:30 [ObjectManager][0] AddClient (192.168.1.111)
+02:24:30 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+02:24:30 [AuthManager][DelUser] Name -> Invalid Format
+02:24:30 [ObjectManager][0] DelClient (192.168.1.111)
+02:27:23 [ObjectManager][0] AddClient (192.168.1.111)
+02:27:23 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+02:27:23 [AuthManager][DelUser] Name -> Invalid Format
+02:27:23 [ObjectManager][0] DelClient (192.168.1.111)
+02:30:17 [ObjectManager][0] AddClient (192.168.1.111)
+02:30:17 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+02:30:17 [AuthManager][DelUser] Name -> Invalid Format
+02:30:17 [ObjectManager][0] DelClient (192.168.1.111)
+05:00:59 [Connection] connect() failed with error: 10061
+05:01:08 [Connection] connect() failed with error: 10061
+05:01:18 [Connection] connect() failed with error: 10061
+05:01:28 [Connection] connect() failed with error: 10061
+05:01:29 [ObjectManager][0] AddClient (192.168.1.111)
+05:01:29 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+05:01:29 [AuthManager][DelUser] Name -> Invalid Format
+05:01:29 [ObjectManager][0] DelClient (192.168.1.111)
+05:01:38 [Connection] connect() failed with error: 10061
+05:01:48 [Connection] connect() failed with error: 10061
+05:01:58 [Connection] connect() failed with error: 10061
+05:02:08 [Connection] connect() failed with error: 10061
+05:02:19 [Connection] connect() failed with error: 10061
+05:02:29 [Connection] connect() failed with error: 10061
+05:02:39 [Connection] connect() failed with error: 10061
+05:02:49 [Connection] connect() failed with error: 10061
+05:02:59 [Connection] connect() failed with error: 10061
+05:03:09 [Connection] connect() failed with error: 10061
+05:03:19 [Connection] connect() failed with error: 10061
+05:03:29 [Connection] connect() failed with error: 10061
+05:03:38 [Connection] connect() failed with error: 10061
+05:03:49 [Connection] connect() failed with error: 10061
+05:03:59 [Connection] connect() failed with error: 10061
+05:04:09 [Connection] connect() failed with error: 10061
+05:04:19 [Connection] connect() failed with error: 10061
+05:04:29 [Connection] connect() failed with error: 10061
+05:04:39 [Connection] connect() failed with error: 10061
+05:04:43 [ObjectManager][0] AddClient (192.168.1.111)
+05:04:43 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+05:04:43 [AuthManager][DelUser] Name -> Invalid Format
+05:04:43 [ObjectManager][0] DelClient (192.168.1.111)
+05:04:49 [Connection] connect() failed with error: 10061
+05:04:59 [Connection] connect() failed with error: 10061
+05:05:09 [Connection] connect() failed with error: 10061
+05:05:19 [Connection] connect() failed with error: 10061
+05:05:29 [Connection] connect() failed with error: 10061
+05:05:39 [Connection] connect() failed with error: 10061
+05:05:49 [Connection] connect() failed with error: 10061
+05:05:59 [Connection] connect() failed with error: 10061
+05:06:09 [Connection] connect() failed with error: 10061
+05:06:19 [Connection] connect() failed with error: 10061
+05:06:29 [Connection] connect() failed with error: 10061
+05:06:39 [Connection] connect() failed with error: 10061
+05:06:49 [Connection] connect() failed with error: 10061
+05:06:59 [Connection] connect() failed with error: 10061
+05:07:09 [Connection] connect() failed with error: 10061
+05:07:19 [Connection] connect() failed with error: 10061
+05:07:29 [Connection] connect() failed with error: 10061
+05:07:39 [Connection] connect() failed with error: 10061
+05:07:49 [Connection] connect() failed with error: 10061
+05:07:57 [ObjectManager][0] AddClient (192.168.1.111)
+05:07:57 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+05:07:57 [AuthManager][DelUser] Name -> Invalid Format
+05:07:57 [ObjectManager][0] DelClient (192.168.1.111)
+05:07:59 [Connection] connect() failed with error: 10061
+05:08:09 [Connection] connect() failed with error: 10061
+05:08:19 [Connection] connect() failed with error: 10061
+05:08:29 [Connection] connect() failed with error: 10061
+05:08:39 [Connection] connect() failed with error: 10061
+05:08:49 [Connection] connect() failed with error: 10061
+05:08:59 [Connection] connect() failed with error: 10061
+05:09:09 [Connection] connect() failed with error: 10061
+05:09:19 [Connection] connect() failed with error: 10061
+05:09:29 [Connection] connect() failed with error: 10061
+05:09:39 [Connection] connect() failed with error: 10061
+05:09:49 [Connection] connect() failed with error: 10061
+05:09:59 [Connection] connect() failed with error: 10061
+05:10:09 [Connection] connect() failed with error: 10061
+05:10:19 [Connection] connect() failed with error: 10061
+05:10:29 [Connection] connect() failed with error: 10061
+05:10:39 [Connection] connect() failed with error: 10061
+05:10:49 [Connection] connect() failed with error: 10061
+05:10:59 [Connection] connect() failed with error: 10061
+05:11:09 [Connection] connect() failed with error: 10061
+05:11:12 [ObjectManager][0] AddClient (192.168.1.111)
+05:11:12 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+05:11:12 [AuthManager][DelUser] Name -> Invalid Format
+05:11:12 [ObjectManager][0] DelClient (192.168.1.111)
+05:11:19 [Connection] connect() failed with error: 10061
+05:11:29 [Connection] connect() failed with error: 10061
+05:11:39 [Connection] connect() failed with error: 10061
+05:11:49 [Connection] connect() failed with error: 10061
+05:11:59 [Connection] connect() failed with error: 10061
+05:12:09 [Connection] connect() failed with error: 10061
+05:12:19 [Connection] connect() failed with error: 10061
+05:12:29 [Connection] connect() failed with error: 10061
+05:12:39 [Connection] connect() failed with error: 10061
+05:12:49 [Connection] connect() failed with error: 10061
+05:12:59 [Connection] connect() failed with error: 10061
+05:13:09 [Connection] connect() failed with error: 10061
+05:13:19 [Connection] connect() failed with error: 10061
+05:13:30 [Connection] connect() failed with error: 10061
+05:13:39 [Connection] connect() failed with error: 10061
+05:13:49 [Connection] connect() failed with error: 10061
+05:13:59 [Connection] connect() failed with error: 10061
+05:14:09 [Connection] connect() failed with error: 10061
+05:14:19 [Connection] connect() failed with error: 10061
+05:14:26 [ObjectManager][0] AddClient (192.168.1.111)
+05:14:26 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+05:14:26 [AuthManager][DelUser] Name -> Invalid Format
+05:14:26 [ObjectManager][0] DelClient (192.168.1.111)
+05:14:29 [Connection] connect() failed with error: 10061
+05:14:39 [Connection] connect() failed with error: 10061
+05:14:49 [Connection] connect() failed with error: 10061
+05:14:59 [Connection] connect() failed with error: 10061
+05:15:09 [Connection] connect() failed with error: 10061
+05:15:19 [Connection] connect() failed with error: 10061
+05:15:29 [Connection] connect() failed with error: 10061
+05:15:39 [Connection] connect() failed with error: 10061
+05:15:49 [Connection] connect() failed with error: 10061
+05:15:59 [Connection] connect() failed with error: 10061
+05:16:09 [Connection] connect() failed with error: 10061
+05:16:19 [Connection] connect() failed with error: 10061
+05:16:29 [Connection] connect() failed with error: 10061
+05:16:40 [Connection] connect() failed with error: 10061
+05:16:49 [Connection] connect() failed with error: 10061
+05:17:00 [Connection] connect() failed with error: 10061
+05:17:10 [Connection] connect() failed with error: 10061
+05:17:19 [Connection] connect() failed with error: 10061
+05:17:30 [Connection] connect() failed with error: 10061
+05:17:40 [Connection] connect() failed with error: 10061
+05:17:41 [ObjectManager][0] AddClient (192.168.1.111)
+05:17:41 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+05:17:41 [AuthManager][DelUser] Name -> Invalid Format
+05:17:41 [ObjectManager][0] DelClient (192.168.1.111)
+05:17:50 [Connection] connect() failed with error: 10061
+05:18:00 [Connection] connect() failed with error: 10061
+05:18:10 [Connection] connect() failed with error: 10061
+05:18:20 [Connection] connect() failed with error: 10061
+05:18:29 [Connection] connect() failed with error: 10061
+05:18:40 [Connection] connect() failed with error: 10061
+05:18:50 [Connection] connect() failed with error: 10061
+05:19:00 [Connection] connect() failed with error: 10061
+06:01:00 [Connection] connect() failed with error: 10061
+06:01:10 [Connection] connect() failed with error: 10061
+06:01:20 [Connection] connect() failed with error: 10061
+06:01:30 [Connection] connect() failed with error: 10061
+06:01:40 [Connection] connect() failed with error: 10061
+06:01:50 [Connection] connect() failed with error: 10061
+06:02:00 [Connection] connect() failed with error: 10061
+06:02:10 [Connection] connect() failed with error: 10061
+06:02:20 [Connection] connect() failed with error: 10061
+06:02:30 [Connection] connect() failed with error: 10061
+06:02:40 [Connection] connect() failed with error: 10061
+06:02:41 [ObjectManager][0] AddClient (192.168.1.111)
+06:02:41 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+06:02:41 [AuthManager][DelUser] Name -> Invalid Format
+06:02:41 [ObjectManager][0] DelClient (192.168.1.111)
+06:02:50 [Connection] connect() failed with error: 10061
+06:03:00 [Connection] connect() failed with error: 10061
+06:03:10 [Connection] connect() failed with error: 10061
+06:03:20 [Connection] connect() failed with error: 10061
+06:03:30 [Connection] connect() failed with error: 10061
+06:03:40 [Connection] connect() failed with error: 10061
+06:03:50 [Connection] connect() failed with error: 10061
+06:04:00 [Connection] connect() failed with error: 10061
+06:04:10 [Connection] connect() failed with error: 10061
+06:04:20 [Connection] connect() failed with error: 10061
+06:04:30 [Connection] connect() failed with error: 10061
+06:04:40 [Connection] connect() failed with error: 10061
+06:04:50 [Connection] connect() failed with error: 10061
+06:05:00 [Connection] connect() failed with error: 10061
+06:05:10 [Connection] connect() failed with error: 10061
+06:05:20 [Connection] connect() failed with error: 10061
+06:05:30 [Connection] connect() failed with error: 10061
+06:05:40 [Connection] connect() failed with error: 10061
+06:05:50 [Connection] connect() failed with error: 10061
+06:05:55 [ObjectManager][0] AddClient (192.168.1.111)
+06:05:55 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+06:05:55 [AuthManager][DelUser] Name -> Invalid Format
+06:05:55 [ObjectManager][0] DelClient (192.168.1.111)
+06:06:00 [Connection] connect() failed with error: 10061
+06:06:10 [Connection] connect() failed with error: 10061
+06:06:20 [Connection] connect() failed with error: 10061
+06:06:30 [Connection] connect() failed with error: 10061
+06:06:40 [Connection] connect() failed with error: 10061
+06:06:50 [Connection] connect() failed with error: 10061
+06:07:00 [Connection] connect() failed with error: 10061
+06:07:10 [Connection] connect() failed with error: 10061
+06:07:20 [Connection] connect() failed with error: 10061
+06:07:30 [Connection] connect() failed with error: 10061
+06:07:40 [Connection] connect() failed with error: 10061
+06:07:50 [Connection] connect() failed with error: 10061
+06:08:00 [Connection] connect() failed with error: 10061
+06:08:10 [Connection] connect() failed with error: 10061
+06:08:20 [Connection] connect() failed with error: 10061
+06:08:30 [Connection] connect() failed with error: 10061
+06:08:40 [Connection] connect() failed with error: 10061
+06:08:50 [Connection] connect() failed with error: 10061
+06:09:00 [Connection] connect() failed with error: 10061
+06:09:10 [ObjectManager][0] AddClient (192.168.1.111)
+06:09:10 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+06:09:10 [AuthManager][DelUser] Name -> Invalid Format
+06:09:10 [ObjectManager][0] DelClient (192.168.1.111)
+06:09:10 [Connection] connect() failed with error: 10061
+06:09:20 [Connection] connect() failed with error: 10061
+06:09:30 [Connection] connect() failed with error: 10061
+06:09:41 [Connection] connect() failed with error: 10061
+06:09:50 [Connection] connect() failed with error: 10061
+06:10:00 [Connection] connect() failed with error: 10061
+06:10:10 [Connection] connect() failed with error: 10061
+06:10:21 [Connection] connect() failed with error: 10061
+06:10:31 [Connection] connect() failed with error: 10061
+06:10:41 [Connection] connect() failed with error: 10061
+06:10:51 [Connection] connect() failed with error: 10061
+06:11:00 [Connection] connect() failed with error: 10061
+06:11:10 [Connection] connect() failed with error: 10061
+06:11:21 [Connection] connect() failed with error: 10061
+06:20:33 [SocketManager] Server started at port [55980]
+06:20:36 [Connection] connect() failed with error: 10061
+06:20:38 [Connection] connect() failed with error: 10061
+06:20:50 [Connection] connect() failed with error: 10061
+06:20:53 [Connection] connect() failed with error: 10061
+06:21:02 [Connection] connect() failed with error: 10061
+06:21:11 [Connection] connect() failed with error: 10061
+06:21:20 [Connection] connect() failed with error: 10061
+06:24:36 [ObjectManager][0] AddClient (192.168.1.111)
+06:24:36 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+06:24:36 [AuthManager][DelUser] Name -> Invalid Format
+06:24:36 [ObjectManager][0] DelClient (192.168.1.111)
+06:27:30 [ObjectManager][0] AddClient (192.168.1.111)
+06:27:30 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+06:27:30 [AuthManager][DelUser] Name -> Invalid Format
+06:27:30 [ObjectManager][0] DelClient (192.168.1.111)
+06:30:23 [ObjectManager][0] AddClient (192.168.1.111)
+06:30:23 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+06:30:23 [AuthManager][DelUser] Name -> Invalid Format
+06:30:23 [ObjectManager][0] DelClient (192.168.1.111)
+06:33:16 [ObjectManager][0] AddClient (192.168.1.111)
+06:33:16 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+06:33:16 [AuthManager][DelUser] Name -> Invalid Format
+06:33:16 [ObjectManager][0] DelClient (192.168.1.111)
+06:36:10 [ObjectManager][0] AddClient (192.168.1.111)
+06:36:10 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+06:36:10 [AuthManager][DelUser] Name -> Invalid Format
+06:36:10 [ObjectManager][0] DelClient (192.168.1.111)
+06:39:03 [ObjectManager][0] AddClient (192.168.1.111)
+06:39:03 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+06:39:03 [AuthManager][DelUser] Name -> Invalid Format
+06:39:03 [ObjectManager][0] DelClient (192.168.1.111)
+06:41:57 [ObjectManager][0] AddClient (192.168.1.111)
+06:41:57 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+06:41:57 [AuthManager][DelUser] Name -> Invalid Format
+06:41:57 [ObjectManager][0] DelClient (192.168.1.111)
+06:44:50 [ObjectManager][0] AddClient (192.168.1.111)
+06:44:50 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+06:44:50 [AuthManager][DelUser] Name -> Invalid Format
+06:44:50 [ObjectManager][0] DelClient (192.168.1.111)
+06:47:43 [ObjectManager][0] AddClient (192.168.1.111)
+06:47:43 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+06:47:43 [AuthManager][DelUser] Name -> Invalid Format
+06:47:43 [ObjectManager][0] DelClient (192.168.1.111)
+06:50:37 [ObjectManager][0] AddClient (192.168.1.111)
+06:50:37 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+06:50:37 [AuthManager][DelUser] Name -> Invalid Format
+06:50:37 [ObjectManager][0] DelClient (192.168.1.111)
+06:52:22 [Connection] connect() failed with error: 10061
+06:52:24 [Connection] connect() failed with error: 10061
+06:52:48 [SocketManager] Server started at port [55980]
+06:52:51 [Connection] connect() failed with error: 10061
+06:52:53 [Connection] connect() failed with error: 10061
+06:53:06 [Connection] connect() failed with error: 10061
+06:53:08 [Connection] connect() failed with error: 10061
+06:53:15 [Connection] connect() failed with error: 10061
+06:53:18 [Connection] connect() failed with error: 10061
+06:53:26 [Connection] connect() failed with error: 10061
+06:53:28 [Connection] connect() failed with error: 10061
+06:53:36 [Connection] connect() failed with error: 10061
+06:53:45 [Connection] connect() failed with error: 10061
+06:57:03 [ObjectManager][0] AddClient (192.168.1.111)
+06:57:03 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+06:57:03 [AuthManager][DelUser] Name -> Invalid Format
+06:57:03 [ObjectManager][0] DelClient (192.168.1.111)
+06:59:56 [ObjectManager][0] AddClient (192.168.1.111)
+06:59:56 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+06:59:56 [AuthManager][DelUser] Name -> Invalid Format
+06:59:56 [ObjectManager][0] DelClient (192.168.1.111)
+07:02:49 [ObjectManager][0] AddClient (192.168.1.111)
+07:02:49 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:02:49 [AuthManager][DelUser] Name -> Invalid Format
+07:02:49 [ObjectManager][0] DelClient (192.168.1.111)
+07:05:43 [ObjectManager][0] AddClient (192.168.1.111)
+07:05:43 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:05:43 [AuthManager][DelUser] Name -> Invalid Format
+07:05:43 [ObjectManager][0] DelClient (192.168.1.111)
+07:08:36 [ObjectManager][0] AddClient (192.168.1.111)
+07:08:36 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:08:36 [AuthManager][DelUser] Name -> Invalid Format
+07:08:36 [ObjectManager][0] DelClient (192.168.1.111)
+07:11:30 [ObjectManager][0] AddClient (192.168.1.111)
+07:11:30 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:11:30 [AuthManager][DelUser] Name -> Invalid Format
+07:11:30 [ObjectManager][0] DelClient (192.168.1.111)
+07:11:34 [Connection] Protocol header error (Header: 38)
+07:14:23 [ObjectManager][0] AddClient (192.168.1.111)
+07:14:23 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:14:23 [AuthManager][DelUser] Name -> Invalid Format
+07:14:23 [ObjectManager][0] DelClient (192.168.1.111)
+07:17:17 [ObjectManager][0] AddClient (192.168.1.111)
+07:17:17 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:17:17 [AuthManager][DelUser] Name -> Invalid Format
+07:17:17 [ObjectManager][0] DelClient (192.168.1.111)
+07:20:10 [ObjectManager][0] AddClient (192.168.1.111)
+07:20:10 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:20:10 [AuthManager][DelUser] Name -> Invalid Format
+07:20:10 [ObjectManager][0] DelClient (192.168.1.111)
+07:23:03 [ObjectManager][0] AddClient (192.168.1.111)
+07:23:03 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:23:03 [AuthManager][DelUser] Name -> Invalid Format
+07:23:03 [ObjectManager][0] DelClient (192.168.1.111)
+07:25:57 [ObjectManager][0] AddClient (192.168.1.111)
+07:25:57 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:25:57 [AuthManager][DelUser] Name -> Invalid Format
+07:25:57 [ObjectManager][0] DelClient (192.168.1.111)
+07:28:50 [ObjectManager][0] AddClient (192.168.1.111)
+07:28:50 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:28:50 [AuthManager][DelUser] Name -> Invalid Format
+07:28:50 [ObjectManager][0] DelClient (192.168.1.111)
+07:31:43 [ObjectManager][0] AddClient (192.168.1.111)
+07:31:43 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:31:43 [AuthManager][DelUser] Name -> Invalid Format
+07:31:43 [ObjectManager][0] DelClient (192.168.1.111)
+07:34:37 [ObjectManager][0] AddClient (192.168.1.111)
+07:34:37 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:34:37 [AuthManager][DelUser] Name -> Invalid Format
+07:34:37 [ObjectManager][0] DelClient (192.168.1.111)
+07:37:30 [ObjectManager][0] AddClient (192.168.1.111)
+07:37:30 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:37:30 [AuthManager][DelUser] Name -> Invalid Format
+07:37:30 [ObjectManager][0] DelClient (192.168.1.111)
+07:40:24 [ObjectManager][0] AddClient (192.168.1.111)
+07:40:24 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:40:24 [AuthManager][DelUser] Name -> Invalid Format
+07:40:24 [ObjectManager][0] DelClient (192.168.1.111)
+07:43:17 [ObjectManager][0] AddClient (192.168.1.111)
+07:43:17 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:43:17 [AuthManager][DelUser] Name -> Invalid Format
+07:43:17 [ObjectManager][0] DelClient (192.168.1.111)
+07:46:10 [ObjectManager][0] AddClient (192.168.1.111)
+07:46:10 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:46:10 [AuthManager][DelUser] Name -> Invalid Format
+07:46:10 [ObjectManager][0] DelClient (192.168.1.111)
+07:49:04 [ObjectManager][0] AddClient (192.168.1.111)
+07:49:04 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:49:04 [AuthManager][DelUser] Name -> Invalid Format
+07:49:04 [ObjectManager][0] DelClient (192.168.1.111)
+07:51:57 [ObjectManager][0] AddClient (192.168.1.111)
+07:51:57 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:51:57 [AuthManager][DelUser] Name -> Invalid Format
+07:51:57 [ObjectManager][0] DelClient (192.168.1.111)
+07:54:51 [ObjectManager][0] AddClient (192.168.1.111)
+07:54:51 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:54:51 [AuthManager][DelUser] Name -> Invalid Format
+07:54:51 [ObjectManager][0] DelClient (192.168.1.111)
+07:57:44 [ObjectManager][0] AddClient (192.168.1.111)
+07:57:44 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+07:57:44 [AuthManager][DelUser] Name -> Invalid Format
+07:57:44 [ObjectManager][0] DelClient (192.168.1.111)
+08:00:37 [ObjectManager][0] AddClient (192.168.1.111)
+08:00:37 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+08:00:37 [AuthManager][DelUser] Name -> Invalid Format
+08:00:37 [ObjectManager][0] DelClient (192.168.1.111)
+08:03:31 [ObjectManager][0] AddClient (192.168.1.111)
+08:03:31 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+08:03:31 [AuthManager][DelUser] Name -> Invalid Format
+08:03:31 [ObjectManager][0] DelClient (192.168.1.111)
+08:06:24 [ObjectManager][0] AddClient (192.168.1.111)
+08:06:24 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+08:06:24 [AuthManager][DelUser] Name -> Invalid Format
+08:06:24 [ObjectManager][0] DelClient (192.168.1.111)
+08:09:18 [ObjectManager][0] AddClient (192.168.1.111)
+08:09:18 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+08:09:18 [AuthManager][DelUser] Name -> Invalid Format
+08:09:18 [ObjectManager][0] DelClient (192.168.1.111)
+08:12:11 [ObjectManager][0] AddClient (192.168.1.111)
+08:12:11 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+08:12:11 [AuthManager][DelUser] Name -> Invalid Format
+08:12:11 [ObjectManager][0] DelClient (192.168.1.111)
+08:15:04 [ObjectManager][0] AddClient (192.168.1.111)
+08:15:04 [RoomManager][LogoutUser][RoomIndex:0] room not created.
+08:15:04 [AuthManager][DelUser] Name -> Invalid Format
+08:15:04 [ObjectManager][0] DelClient (192.168.1.111)
+08:33:50 [Connection] connect() failed with error: 10061
+08:34:00 [Connection] connect() failed with error: 10061
+08:34:02 [Connection] connect() failed with error: 10061
+16:34:51 [SocketManager] Server started at port [55980]
+16:34:54 [Connection] connect() failed with error: 10061
+16:34:56 [Connection] connect() failed with error: 10061
+16:35:09 [Connection] connect() failed with error: 10061
+16:35:11 [Connection] connect() failed with error: 10061
+16:35:21 [Connection] connect() failed with error: 10061
+16:35:28 [Connection] connect() failed with error: 10061

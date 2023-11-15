@@ -1,0 +1,110 @@
+00:02:14 [SocketManager] WSAAccept() failed with error: 10061
+00:05:49 [SocketManager] WSAAccept() failed with error: 10061
+00:09:25 [SocketManager] WSAAccept() failed with error: 10061
+00:13:00 [SocketManager] WSAAccept() failed with error: 10061
+00:16:36 [SocketManager] WSAAccept() failed with error: 10061
+00:20:11 [SocketManager] WSAAccept() failed with error: 10061
+00:23:47 [SocketManager] WSAAccept() failed with error: 10061
+00:27:22 [SocketManager] WSAAccept() failed with error: 10061
+00:30:58 [SocketManager] WSAAccept() failed with error: 10061
+00:34:33 [SocketManager] WSAAccept() failed with error: 10061
+00:38:08 [SocketManager] WSAAccept() failed with error: 10061
+00:41:44 [SocketManager] WSAAccept() failed with error: 10061
+00:45:19 [SocketManager] WSAAccept() failed with error: 10061
+00:48:55 [SocketManager] WSAAccept() failed with error: 10061
+00:52:30 [SocketManager] WSAAccept() failed with error: 10061
+00:56:06 [SocketManager] WSAAccept() failed with error: 10061
+00:59:41 [SocketManager] WSAAccept() failed with error: 10061
+01:03:17 [SocketManager] WSAAccept() failed with error: 10061
+01:06:52 [SocketManager] WSAAccept() failed with error: 10061
+01:10:28 [SocketManager] WSAAccept() failed with error: 10061
+01:14:03 [SocketManager] WSAAccept() failed with error: 10061
+01:17:38 [SocketManager] WSAAccept() failed with error: 10061
+01:21:14 [SocketManager] WSAAccept() failed with error: 10061
+01:24:51 [SocketManager] WSAAccept() failed with error: 10061
+01:28:26 [SocketManager] WSAAccept() failed with error: 10061
+01:32:02 [SocketManager] WSAAccept() failed with error: 10061
+01:35:37 [SocketManager] WSAAccept() failed with error: 10061
+01:39:13 [SocketManager] WSAAccept() failed with error: 10061
+01:42:48 [SocketManager] WSAAccept() failed with error: 10061
+01:46:24 [SocketManager] WSAAccept() failed with error: 10061
+01:49:59 [SocketManager] WSAAccept() failed with error: 10061
+01:53:35 [SocketManager] WSAAccept() failed with error: 10061
+01:57:10 [SocketManager] WSAAccept() failed with error: 10061
+02:00:46 [SocketManager] WSAAccept() failed with error: 10061
+02:04:21 [SocketManager] WSAAccept() failed with error: 10061
+02:07:57 [SocketManager] WSAAccept() failed with error: 10061
+02:11:32 [SocketManager] WSAAccept() failed with error: 10061
+02:15:08 [SocketManager] WSAAccept() failed with error: 10061
+02:18:43 [SocketManager] WSAAccept() failed with error: 10061
+02:21:36 [SocketManager] WSAAccept() failed with error: 10061
+02:24:30 [SocketManager] WSAAccept() failed with error: 10061
+02:27:23 [SocketManager] WSAAccept() failed with error: 10061
+02:30:17 [SocketManager] WSAAccept() failed with error: 10061
+05:01:50 [SocketManager] WSAAccept() failed with error: 10061
+05:05:04 [SocketManager] WSAAccept() failed with error: 10061
+05:08:18 [SocketManager] WSAAccept() failed with error: 10061
+05:11:33 [SocketManager] WSAAccept() failed with error: 10061
+05:14:47 [SocketManager] WSAAccept() failed with error: 10061
+05:18:02 [SocketManager] WSAAccept() failed with error: 10061
+06:03:02 [SocketManager] WSAAccept() failed with error: 10061
+06:06:16 [SocketManager] WSAAccept() failed with error: 10061
+06:09:31 [SocketManager] WSAAccept() failed with error: 10061
+06:21:05 [SocketManager] Server started at port [55981]
+06:21:28 [SocketManager] WSAAccept() failed with error: 10061
+06:21:34 [ServerManager][0] AddServer (127.0.0.1)
+06:21:34 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+06:21:42 [ServerManager][1] AddServer (127.0.0.1)
+06:21:42 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+06:24:36 [SocketManager] WSAAccept() failed with error: 10061
+06:27:30 [SocketManager] WSAAccept() failed with error: 10061
+06:30:23 [SocketManager] WSAAccept() failed with error: 10061
+06:33:16 [SocketManager] WSAAccept() failed with error: 10061
+06:36:10 [SocketManager] WSAAccept() failed with error: 10061
+06:39:03 [SocketManager] WSAAccept() failed with error: 10061
+06:41:57 [SocketManager] WSAAccept() failed with error: 10061
+06:44:50 [SocketManager] WSAAccept() failed with error: 10061
+06:47:43 [SocketManager] WSAAccept() failed with error: 10061
+06:50:37 [SocketManager] WSAAccept() failed with error: 10061
+06:52:02 [ServerManager][1] DelServer (127.0.0.1)
+06:52:08 [ServerManager][0] DelServer (127.0.0.1)
+06:53:32 [SocketManager] Server started at port [55981]
+06:53:33 [SocketManager] WSAAccept() failed with error: 10061
+06:54:09 [ServerManager][0] AddServer (127.0.0.1)
+06:54:09 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+06:54:21 [ServerManager][1] AddServer (127.0.0.1)
+06:54:21 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+06:57:03 [SocketManager] WSAAccept() failed with error: 10061
+06:59:56 [SocketManager] WSAAccept() failed with error: 10061
+07:02:49 [SocketManager] WSAAccept() failed with error: 10061
+07:05:43 [SocketManager] WSAAccept() failed with error: 10061
+07:08:36 [SocketManager] WSAAccept() failed with error: 10061
+07:11:30 [SocketManager] WSAAccept() failed with error: 10061
+07:14:23 [SocketManager] WSAAccept() failed with error: 10061
+07:17:17 [SocketManager] WSAAccept() failed with error: 10061
+07:20:10 [SocketManager] WSAAccept() failed with error: 10061
+07:23:03 [SocketManager] WSAAccept() failed with error: 10061
+07:25:57 [SocketManager] WSAAccept() failed with error: 10061
+07:28:50 [SocketManager] WSAAccept() failed with error: 10061
+07:31:43 [SocketManager] WSAAccept() failed with error: 10061
+07:34:37 [SocketManager] WSAAccept() failed with error: 10061
+07:37:30 [SocketManager] WSAAccept() failed with error: 10061
+07:40:24 [SocketManager] WSAAccept() failed with error: 10061
+07:43:17 [SocketManager] WSAAccept() failed with error: 10061
+07:46:10 [SocketManager] WSAAccept() failed with error: 10061
+07:49:04 [SocketManager] WSAAccept() failed with error: 10061
+07:51:57 [SocketManager] WSAAccept() failed with error: 10061
+07:54:51 [SocketManager] WSAAccept() failed with error: 10061
+07:57:44 [SocketManager] WSAAccept() failed with error: 10061
+08:00:37 [SocketManager] WSAAccept() failed with error: 10061
+08:03:31 [SocketManager] WSAAccept() failed with error: 10061
+08:06:24 [SocketManager] WSAAccept() failed with error: 10061
+08:09:18 [SocketManager] WSAAccept() failed with error: 10061
+08:12:11 [SocketManager] WSAAccept() failed with error: 10061
+08:15:04 [SocketManager] WSAAccept() failed with error: 10061
+08:33:54 [ServerManager][0] DelServer (127.0.0.1)
+16:35:24 [SocketManager] Server started at port [55981]
+16:35:48 [ServerManager][0] AddServer (127.0.0.1)
+16:35:48 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+16:35:57 [ServerManager][1] AddServer (127.0.0.1)
+16:35:57 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)

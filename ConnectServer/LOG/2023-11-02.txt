@@ -1,0 +1,18 @@
+00:47:03 [ServerList] GameServer offline (GameServerCS) (19)
+00:47:13 [ServerList] GameServer offline (GameServer) (20)
+00:48:06 [ServerList] JoinServer offline
+06:53:46 [SocketManager] Server started at port [44405]
+06:53:46 [ServerList] ServerList loaded successfully
+06:54:13 [ServerList] JoinServer online
+06:54:26 [ServerList] GameServer online (GameServer) (20)
+06:54:35 [ServerList] GameServer online (GameServerCS) (19)
+08:47:30 [ServerList] GameServer offline (GameServerCS) (19)
+08:47:37 [ServerList] GameServer offline (GameServer) (20)
+08:47:37 [ServerList] JoinServer offline
+08:50:24 [SocketManager] Server started at port [44405]
+08:50:24 [ServerList] ServerList loaded successfully
+08:50:48 [ServerList] JoinServer online
+08:50:59 [ServerList] GameServer online (GameServer) (20)
+08:51:07 [ServerList] GameServer online (GameServerCS) (19)
+18:53:22 [ServerList] GameServer offline (GameServerCS) (19)
+18:53:30 [ServerList] GameServer offline (GameServer) (20)

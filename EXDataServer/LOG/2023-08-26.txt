@@ -1,0 +1,7 @@
+19:22:48 [SocketManager] Server started at port [55981]
+19:23:00 [ServerManager][0] AddServer (127.0.0.1)
+19:23:00 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+19:23:08 [ServerManager][1] AddServer (127.0.0.1)
+19:23:08 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+21:54:56 [ServerManager][0] DelServer (127.0.0.1)
+21:54:57 [ServerManager][1] DelServer (127.0.0.1)

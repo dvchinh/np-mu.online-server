@@ -1,0 +1,1 @@
+20:57:10 [CommandMake][1111][LouLx1] - (Section: 13, Type: 121, Level: 0, Skill: 0, Luck: 0, Option: 0, Exc: 0, Set: 0,count:1)

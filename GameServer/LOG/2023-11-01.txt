@@ -1,0 +1,1013 @@
+07:34:56 [InvasionManager][SetMonster][Group:0][Value:0][Class:55][Map:0][X:138][Y:201]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:55][Map:0][X:129][Y:198]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:55][Map:0][X:126][Y:193]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:55][Map:0][X:127][Y:202]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:55][Map:0][X:126][Y:192]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:55][Map:0][X:127][Y:197]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:55][Map:0][X:136][Y:192]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:55][Map:0][X:135][Y:202]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:55][Map:0][X:131][Y:199]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:55][Map:0][X:126][Y:192]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:134][Y:200]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:129][Y:202]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:136][Y:194]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:134][Y:197]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:133][Y:201]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:128][Y:200]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:139][Y:190]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:133][Y:195]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:133][Y:195]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:126][Y:194]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:137][Y:199]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:128][Y:195]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:139][Y:200]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:134][Y:194]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:134][Y:196]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:134][Y:199]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:129][Y:195]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:133][Y:201]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:127][Y:196]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:135][Y:198]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:135][Y:198]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:126][Y:194]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:134][Y:193]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:132][Y:191]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:129][Y:200]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:136][Y:200]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:139][Y:196]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:125][Y:200]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:139][Y:198]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:127][Y:193]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:135][Y:196]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:130][Y:200]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:126][Y:202]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:134][Y:196]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:139][Y:192]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:125][Y:196]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:133][Y:200]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:125][Y:190]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:138][Y:190]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:136][Y:192]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:135][Y:200]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:125][Y:195]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:131][Y:193]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:138][Y:192]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:134][Y:198]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:139][Y:199]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:137][Y:200]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:134][Y:196]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:134][Y:200]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:130][Y:192]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:138][Y:198]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:133][Y:191]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:137][Y:201]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:127][Y:191]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:126][Y:190]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:136][Y:196]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:136][Y:197]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:128][Y:194]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:134][Y:201]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:129][Y:191]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:126][Y:199]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:136][Y:202]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:133][Y:202]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:129][Y:199]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:133][Y:201]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:128][Y:191]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:127][Y:199]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:132][Y:202]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:134][Y:195]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:133][Y:195]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:136][Y:199]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:126][Y:195]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:137][Y:196]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:133][Y:194]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:133][Y:193]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:133][Y:202]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:126][Y:190]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:139][Y:197]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:139][Y:195]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:127][Y:197]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:139][Y:190]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:127][Y:195]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:138][Y:194]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:139][Y:192]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:136][Y:198]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:135][Y:196]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:138][Y:199]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:135][Y:191]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:139][Y:190]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:132][Y:202]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:126][Y:199]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:135][Y:192]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:127][Y:194]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:128][Y:193]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:133][Y:202]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:136][Y:195]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:130][Y:193]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:125][Y:200]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:134][Y:197]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:136][Y:194]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:134][Y:190]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:127][Y:200]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:129][Y:194]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:138][Y:190]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:127][Y:195]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:132][Y:190]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:126][Y:198]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:129][Y:192]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:137][Y:198]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:56][Map:0][X:135][Y:200]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:137][Y:22]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:39][Y:202]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:152][Y:179]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:85][Y:136]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:86][Y:178]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:215][Y:156]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:195][Y:175]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:178][Y:209]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:232][Y:160]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:11][Y:129]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:135][Map:0][X:152][Y:50]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:136][Map:0][X:161][Y:47]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:136][Map:0][X:161][Y:64]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:136][Map:0][X:157][Y:52]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:136][Map:0][X:159][Y:55]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:136][Map:0][X:163][Y:60]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:136][Map:0][X:156][Y:56]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:136][Map:0][X:157][Y:63]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:136][Map:0][X:163][Y:47]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:136][Map:0][X:157][Y:63]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:136][Map:0][X:150][Y:49]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:137][Map:0][X:157][Y:55]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:137][Map:0][X:151][Y:49]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:137][Map:0][X:158][Y:55]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:137][Map:0][X:163][Y:59]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:137][Map:0][X:153][Y:60]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:137][Map:0][X:160][Y:56]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:137][Map:0][X:161][Y:63]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:137][Map:0][X:149][Y:58]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:137][Map:0][X:160][Y:57]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:0][Class:137][Map:0][X:151][Y:53]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:365][Map:33][X:206][Y:50]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:365][Map:33][X:117][Y:100]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:365][Map:33][X:156][Y:46]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:365][Map:33][X:220][Y:15]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:365][Map:33][X:102][Y:153]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:365][Map:33][X:114][Y:92]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:365][Map:33][X:162][Y:56]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:365][Map:33][X:99][Y:173]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:365][Map:33][X:21][Y:49]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:365][Map:33][X:193][Y:188]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:4][Class:413][Map:37][X:58][Y:104]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:4][Class:413][Map:37][X:196][Y:179]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:4][Class:413][Map:37][X:69][Y:235]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:4][Class:413][Map:37][X:107][Y:154]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:4][Class:413][Map:37][X:170][Y:171]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:4][Class:413][Map:37][X:50][Y:30]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:4][Class:413][Map:37][X:64][Y:25]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:4][Class:413][Map:37][X:60][Y:39]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:4][Class:413][Map:37][X:110][Y:163]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:4][Class:413][Map:37][X:143][Y:39]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:2][Class:463][Map:8][X:100][Y:23]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:2][Class:463][Map:8][X:40][Y:130]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:2][Class:463][Map:8][X:78][Y:64]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:2][Class:463][Map:8][X:44][Y:119]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:2][Class:463][Map:8][X:31][Y:238]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:2][Class:463][Map:8][X:71][Y:125]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:2][Class:463][Map:8][X:128][Y:71]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:2][Class:463][Map:8][X:170][Y:205]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:2][Class:463][Map:8][X:58][Y:172]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:2][Class:463][Map:8][X:13][Y:89]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:1][Class:466][Map:2][X:158][Y:22]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:1][Class:466][Map:2][X:158][Y:17]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:1][Class:466][Map:2][X:164][Y:17]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:1][Class:466][Map:2][X:164][Y:15]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:1][Class:466][Map:2][X:158][Y:19]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:1][Class:466][Map:2][X:158][Y:22]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:1][Class:466][Map:2][X:158][Y:22]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:1][Class:466][Map:2][X:158][Y:19]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:1][Class:466][Map:2][X:162][Y:21]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:1][Class:466][Map:2][X:162][Y:22]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:1][Class:476][Map:2][X:159][Y:12]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:560][Map:56][X:181][Y:127]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:560][Map:56][X:178][Y:125]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:560][Map:56][X:178][Y:118]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:560][Map:56][X:181][Y:128]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:560][Map:56][X:182][Y:116]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:560][Map:56][X:182][Y:120]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:560][Map:56][X:179][Y:128]
+07:34:57 [InvasionManager][SetMonster][Group:0][Value:3][Class:561][Map:56][X:183][Y:121]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:197][Y:216]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:169][Y:45]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:184][Y:204]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:130][Y:28]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:228][Y:73]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:217][Y:220]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:33][Y:132]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:86][Y:111]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:191][Y:201]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:35][Y:185]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:50][Y:167]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:216][Y:119]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:121][Y:58]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:54][Y:124]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:229][Y:73]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:71][Y:207]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:233][Y:105]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:112][Y:155]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:126][Y:86]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:130][Y:139]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:123][Y:89]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:36][Y:70]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:82][Y:207]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:222][Y:141]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:652][Map:33][X:216][Y:135]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:195][Y:224]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:206][Y:194]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:15][Y:217]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:101][Y:24]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:122][Y:206]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:154][Y:143]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:135][Y:143]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:215][Y:108]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:24][Y:178]
+07:34:58 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:180][Y:116]
+07:34:58 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:166][Y:170]
+07:34:58 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:235][Y:235]
+07:34:58 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:211][Y:96]
+07:34:58 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:113][Y:110]
+07:34:58 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:225][Y:53]
+07:34:58 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:90][Y:58]
+07:34:58 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:203][Y:114]
+07:34:58 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:220][Y:93]
+07:34:58 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:83][Y:233]
+07:34:58 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:44][Y:99]
+07:34:58 [InvasionManager][SetMonster][Group:2][Value:0][Class:676][Map:36][X:45][Y:77]
+07:34:58 [InvasionManager][SetMonster][Group:2][Value:0][Class:676][Map:36][X:120][Y:62]
+07:34:58 [InvasionManager][SetMonster][Group:2][Value:0][Class:676][Map:36][X:42][Y:26]
+07:34:58 [InvasionManager][SetMonster][Group:2][Value:0][Class:676][Map:36][X:43][Y:30]
+07:34:58 [InvasionManager][SetMonster][Group:2][Value:0][Class:676][Map:36][X:16][Y:30]
+07:34:58 [InvasionManager][SetMonster][Group:2][Value:0][Class:676][Map:36][X:55][Y:11]
+07:34:58 [InvasionManager][SetMonster][Group:2][Value:0][Class:676][Map:36][X:45][Y:80]
+07:34:58 [InvasionManager][SetMonster][Group:2][Value:0][Class:676][Map:36][X:94][Y:97]
+07:34:58 [InvasionManager][SetMonster][Group:2][Value:0][Class:676][Map:36][X:104][Y:69]
+07:34:58 [InvasionManager][SetMonster][Group:2][Value:0][Class:676][Map:36][X:58][Y:73]
+07:34:58 [Bot Hide][0] (BotHideDW) SetState STAND
+07:34:58 [Bot Hide][1] (BotHideBK) SetState STAND
+07:34:58 [Bot Hide][2] (BotHideFE) SetState STAND
+07:34:58 [Bot Hide][3] (BotHideMG) SetState STAND
+07:34:58 [Bot Hide][4] (BotHideDL) SetState STAND
+07:34:58 [Bot Hide][5] (BotHideSU) SetState STAND
+07:34:58 [Bot Hide][6] (BotHideRF) SetState STAND
+07:34:58 [Bot Hide][7] (BotHideGL) SetState STAND
+07:34:58 [Bot Hide][8] (BotHideRW) SetState STAND
+07:34:58 [Bot Hide][9] (BotHideSL) SetState STAND
+07:34:58 [Bot Hide][10] (BotHideGC) SetState STAND
+07:34:58 [Bot Hide][11] (BotHideKM) SetState STAND
+07:34:58 [Bot Hide][12] (BotHideLM) SetState STAND
+07:34:58 [Bot Hide][13] (BotHideIK) SetState STAND
+07:34:58 [Boss Battle Event] SetState STAND
+07:34:59 [Bot Hide] [BotHideDW] [Map:51] [X:31] [Y:150]
+07:34:59 [Bot Hide][0] (BotHideDW) SetState START
+07:34:59 [Bot Hide] [BotHideBK] [Map:1] [X:73] [Y:250]
+07:34:59 [Bot Hide][1] (BotHideBK) SetState START
+07:34:59 [Bot Hide] [BotHideFE] [Map:7] [X:74] [Y:169]
+07:34:59 [Bot Hide][2] (BotHideFE) SetState START
+07:34:59 [Bot Hide] [BotHideMG] [Map:4] [X:187] [Y:111]
+07:34:59 [Bot Hide][3] (BotHideMG) SetState START
+07:35:00 [Bot Hide] [BotHideDL] [Map:6] [X:59] [Y:82]
+07:35:00 [Bot Hide][4] (BotHideDL) SetState START
+07:35:00 [Bot Hide] [BotHideSU] [Map:37] [X:79] [Y:238]
+07:35:00 [Bot Hide][5] (BotHideSU) SetState START
+07:35:00 [Bot Hide] [BotHideRF] [Map:56] [X:233] [Y:203]
+07:35:00 [Bot Hide][6] (BotHideRF) SetState START
+07:35:00 [Bot Hide] [BotHideGL] [Map:57] [X:96] [Y:223]
+07:35:00 [Bot Hide][7] (BotHideGL) SetState START
+07:35:00 [Bot Hide] [BotHideRW] [Map:80] [X:39] [Y:111]
+07:35:00 [Bot Hide][8] (BotHideRW) SetState START
+07:35:00 [Bot Hide] [BotHideSL] [Map:100] [X:99] [Y:108]
+07:35:00 [Bot Hide][9] (BotHideSL) SetState START
+07:35:00 [Bot Hide] [BotHideGC] [Map:112] [X:140] [Y:219]
+07:35:00 [Bot Hide][10] (BotHideGC) SetState START
+07:35:00 [Bot Hide] [BotHideKM] [Map:122] [X:64] [Y:145]
+07:35:00 [Bot Hide][11] (BotHideKM) SetState START
+07:35:00 [Bot Hide] [BotHideLM] [Map:131] [X:139] [Y:193]
+07:35:00 [Bot Hide][12] (BotHideLM) SetState START
+07:35:00 [Bot Hide] [BotHideIK] [Map:138] [X:98] [Y:70]
+07:35:00 [Bot Hide][13] (BotHideIK) SetState START
+07:35:00 [Boss Battle Event] Not enough users
+07:35:00 [Boss Battle Event] Sync Start Time. [990] min remain
+07:35:00 [Boss Battle Event] SetState EMPTY
+07:48:59 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+07:49:42 [ObjectManager][20100] AddClient (117.3.219.228)
+07:49:47 [ObjectManager][20100] AddAccountInfo (1111)
+07:49:58 [ KANTURU ][ BattleStanby ] State(2) -> END
+07:49:58 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+07:49:58 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+07:49:58 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+07:49:58 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+07:50:01 [Gremory Case][GDGremoryCaseReqItemListSend][Account:1111][Name:LouLx3] Request to load Gremory Case item list
+07:50:01 [BlockChat][GDReqBlockChatList] Send Request Block List
+07:50:01 [ObjectManager][20100] AddCharacterInfo (LouLx3)
+07:50:05 [Gremory Case][DGGremoryCaseReqItemListRecv][Account:1111][Name:LouLx3] Received item list [Character:1]-[Server:0]-[MuMobil:0]-[Private:0]
+07:51:57 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+07:51:57 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+07:51:57 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+07:51:57 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+07:51:59 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+07:52:00 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+07:52:00 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+07:52:00 [ KANTURU ] State(2) -> END
+07:52:00 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+07:52:00 [ KANTURU ] State(5) -> NONE
+07:52:00 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+07:52:00 [ KANTURU ] State(0) -> STANDBY
+07:52:00 [ KANTURU ][ BattleStanby ] State(0) -> START
+07:52:43 [ObjectManager][20100] DelCharacterInfo (LouLx3)
+07:52:43 [ObjectManager][20100] DelAccountInfo (1111)
+07:52:43 [ObjectManager][20100] DelClient (117.3.219.228) [DelType:182]
+07:53:43 [ObjectManager][20100] AddClient (117.3.219.228)
+07:53:55 [ObjectManager][20100] AddAccountInfo (1111)
+07:54:03 [Gremory Case][GDGremoryCaseReqItemListSend][Account:1111][Name:LouLx3] Request to load Gremory Case item list
+07:54:03 [BlockChat][GDReqBlockChatList] Send Request Block List
+07:54:03 [ObjectManager][20100] AddCharacterInfo (LouLx3)
+07:54:08 [Gremory Case][DGGremoryCaseReqItemListRecv][Account:1111][Name:LouLx3] Received item list [Character:1]-[Server:0]-[MuMobil:0]-[Private:0]
+07:55:29 [ObjectManager][20100] DelCharacterInfo (LouLx3)
+07:55:29 [ObjectManager][20100] DelAccountInfo (1111)
+07:55:29 [ObjectManager][20100] DelClient (117.3.219.228) [DelType:182]
+07:56:25 [OK] Disconnected from DataServer
+08:13:41 [OK] Connected to DataServer successfully
+08:13:41 [ServerInfo] CashShop loaded successfully
+08:13:41 [ServerInfo] ChaosMix loaded successfully
+08:13:41 [ServerInfo] Character loaded successfully
+08:13:41 [ServerInfo] Command loaded successfully
+08:13:41 [AntiDDoS] Status: 1
+08:13:41 [Language] Load English.xml language definition
+08:13:41 [ServerInfo] Common loaded successfully
+08:13:41 [ServerInfo] Event loaded successfully
+08:13:41 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:0][MissionInx0:2]
+08:13:41 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx0:0]
+08:13:41 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx1:4]
+08:13:41 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx0:3]
+08:13:41 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx0:2]
+08:13:41 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx1:4]
+08:13:41 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:4][MissionInx0:0]
+08:13:41 [DGMonsterSoulConverterWeeklyMissionInfoRecv][Expire Mission Info] 2023-11-02 AM09:30
+08:13:41 [DGImperialGuardianRenewalWeeklyInfoRecv][UpdateType:3] MainAttribute:2
+08:13:41 [BattlePass][BattlePassCurrectID][uType:0] [BattlePassID:10][StartDate:2023-10-01 AM08:30][EndDate:2023-11-01 AM08:30]
+08:13:41 [ItemBagManager] warning, it exists in the EventItemBag folder but not in the EventItemBagManager.txt [Itembag index:434]
+08:13:41 [ItemBagManager] warning, it exists in the EventItemBag folder but not in the EventItemBagManager.txt [Itembag index:435]
+08:13:41 [ItemBagManager] warning, it exists in the EventItemBag folder but not in the EventItemBagManager.txt [Itembag index:436]
+08:13:41 [ItemBagManager] warning, it exists in the EventItemBag folder but not in the EventItemBagManager.txt [Itembag index:437]
+08:13:41 [ItemBagManager] warning, it exists in the EventItemBag folder but not in the EventItemBagManager.txt [Itembag index:438]
+08:13:41 [ServerInfo] EventItemBag loaded successfully
+08:13:41 [ServerInfo] Hack loaded successfully
+08:13:41 [ServerInfo] Item loaded successfully
+08:13:41 [FereaBossZone][SummonMonster] MonsterIndex: 735/Ferea Cryst, Map: 112, X: 24, Y: 123 
+08:13:41 FEREA BOSS ZONE:Ferea Start
+08:13:41 [FereaBossZone][CrystalBallRegen] Create
+08:13:41 [NixiesBoss][SummonMonster] MonsterIndex: 746/Nix, Map: 113, X: 30, Y: 218, Attr : 5 
+08:13:41 [NixiesBoss][Regen] Regen Boss Nix. [1], Attr:[5]
+08:13:41 [SwampMonsterAI][CreateMonster][Class:790][Name:Monster of ][Map:122][X:184][Y:18] 
+08:13:41 [ServerInfo] Monster loaded successfully
+08:13:42 [ServerInfo] Custom loaded successfully
+08:13:42 [ServerInfo] Move loaded successfully
+08:13:42 [ServerInfo] Quest loaded successfully
+08:13:42 [ServerInfo] Shop loaded successfully
+08:13:42 [ServerInfo] Skill loaded successfully
+08:13:42 [ServerInfo] Util loaded successfully
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:58 - Type:2 - MonsterClass:8 - Map:1 - Dis:30 - X:53 - Y:125 - Dir :5 - TX:0 - TY:0 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:156 - Type:2 - MonsterClass:11 - Map:1 - Dis:30 - X:240 - Y:5 - Dir :3 - TX:0 - TY:0 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:160 - Type:2 - MonsterClass:9 - Map:1 - Dis:30 - X:18 - Y:32 - Dir :7 - TX:0 - TY:0 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:264 - Type:2 - MonsterClass:20 - Map:2 - Dis:30 - X:241 - Y:206 - Dir :1 - TX:0 - TY:0 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:297 - Type:2 - MonsterClass:52 - Map:7 - Dis:30 - X:163 - Y:135 - Dir :1 - TX:0 - TY:0 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:340 - Type:2 - MonsterClass:47 - Map:7 - Dis:30 - X:218 - Y:44 - Dir :6 - TX:0 - TY:0 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:362 - Type:2 - MonsterClass:51 - Map:7 - Dis:30 - X:251 - Y:48 - Dir :5 - TX:0 - TY:0 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:393 - Type:2 - MonsterClass:51 - Map:7 - Dis:30 - X:6 - Y:50 - Dir :2 - TX:0 - TY:0 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:18 - Type:2 - MonsterClass:178 - Map:25 - Dis:30 - X:89 - Y:3 - Dir :6 - TX:0 - TY:0 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:258 - Type:2 - MonsterClass:353 - Map:37 - Dis:30 - X:222 - Y:89 - Dir :6 - TX:0 - TY:0 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:11 - Type:1 - MonsterClass:358 - Map:38 - Dis:5 - X:172 - Y:29 - Dir :1 - TX:177 - TY:34 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:12 - Type:1 - MonsterClass:358 - Map:38 - Dis:5 - X:172 - Y:29 - Dir :5 - TX:177 - TY:34 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:13 - Type:1 - MonsterClass:358 - Map:38 - Dis:5 - X:172 - Y:29 - Dir :2 - TX:177 - TY:34 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:14 - Type:1 - MonsterClass:358 - Map:38 - Dis:5 - X:172 - Y:29 - Dir :0 - TX:177 - TY:34 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:15 - Type:1 - MonsterClass:358 - Map:38 - Dis:5 - X:172 - Y:29 - Dir :0 - TX:177 - TY:34 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:75 - Type:2 - MonsterClass:359 - Map:38 - Dis:30 - X:156 - Y:75 - Dir :2 - TX:0 - TY:0 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:195 - Type:1 - MonsterClass:689 - Map:100 - Dis:0 - X:137 - Y:132 - Dir :2 - TX:138 - TY:133 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:48 - Type:1 - MonsterClass:787 - Map:122 - Dis:8 - X:214 - Y:239 - Dir :1 - TX:214 - TY:239 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:49 - Type:1 - MonsterClass:787 - Map:122 - Dis:8 - X:214 - Y:239 - Dir :2 - TX:214 - TY:239 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:50 - Type:1 - MonsterClass:787 - Map:122 - Dis:8 - X:214 - Y:239 - Dir :4 - TX:214 - TY:239 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:147 - Type:1 - MonsterClass:788 - Map:122 - Dis:8 - X:202 - Y:203 - Dir :7 - TX:202 - TY:203 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:148 - Type:1 - MonsterClass:788 - Map:122 - Dis:8 - X:202 - Y:203 - Dir :0 - TX:202 - TY:203 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:149 - Type:1 - MonsterClass:788 - Map:122 - Dis:8 - X:202 - Y:203 - Dir :6 - TX:202 - TY:203 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:150 - Type:1 - MonsterClass:788 - Map:122 - Dis:8 - X:202 - Y:203 - Dir :3 - TX:202 - TY:203 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:226 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:162 - Y:185 - Dir :7 - TX:162 - TY:185 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:227 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:162 - Y:185 - Dir :3 - TX:162 - TY:185 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:228 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:162 - Y:185 - Dir :2 - TX:162 - TY:185 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:229 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:162 - Y:185 - Dir :7 - TX:162 - TY:185 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:240 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :3 - TX:185 - TY:66 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:241 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :4 - TX:185 - TY:66 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:242 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :0 - TX:185 - TY:66 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:243 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :1 - TX:185 - TY:66 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:244 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :0 - TX:185 - TY:66 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:245 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :0 - TX:185 - TY:66 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:246 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :6 - TX:185 - TY:66 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:247 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :0 - TX:185 - TY:66 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:303 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:84 - Y:197 - Dir :6 - TX:0 - TY:0 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:316 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:54 - Y:119 - Dir :5 - TX:0 - TY:0 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:320 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:120 - Y:240 - Dir :2 - TX:0 - TY:0 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:323 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:94 - Y:242 - Dir :0 - TX:0 - TY:0 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:327 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:34 - Y:212 - Dir :3 - TX:0 - TY:0 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:329 - Type:2 - MonsterClass:786 - Map:122 - Dis:8 - X:19 - Y:171 - Dir :4 - TX:0 - TY:0 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:330 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:23 - Y:169 - Dir :7 - TX:0 - TY:0 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:332 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:34 - Y:173 - Dir :0 - TX:0 - TY:0 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:336 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:59 - Y:185 - Dir :6 - TX:0 - TY:0 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:339 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:60 - Y:225 - Dir :4 - TX:0 - TY:0 - Element:1
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:354 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:194 - Y:183 - Dir :0 - TX:0 - TY:0 - Element:4
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:372 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:179 - Y:228 - Dir :0 - TX:0 - TY:0 - Element:4
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:382 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:135 - Y:212 - Dir :6 - TX:0 - TY:0 - Element:4
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:383 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:142 - Y:211 - Dir :4 - TX:0 - TY:0 - Element:4
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:384 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:132 - Y:212 - Dir :7 - TX:0 - TY:0 - Element:4
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:397 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:238 - Y:170 - Dir :1 - TX:0 - TY:0 - Element:2
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:407 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:230 - Y:118 - Dir :6 - TX:0 - TY:0 - Element:2
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:415 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:223 - Y:63 - Dir :3 - TX:0 - TY:0 - Element:2
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:416 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:231 - Y:62 - Dir :5 - TX:0 - TY:0 - Element:2
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:418 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:178 - Y:65 - Dir :1 - TX:0 - TY:0 - Element:5
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:422 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:155 - Y:77 - Dir :2 - TX:0 - TY:0 - Element:5
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:433 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:116 - Y:22 - Dir :1 - TX:0 - TY:0 - Element:5
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:451 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:85 - Y:90 - Dir :3 - TX:0 - TY:0 - Element:3
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:452 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:90 - Y:86 - Dir :2 - TX:0 - TY:0 - Element:3
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:456 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:110 - Y:98 - Dir :6 - TX:0 - TY:0 - Element:3
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:457 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:108 - Y:93 - Dir :6 - TX:0 - TY:0 - Element:3
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:458 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:80 - Y:94 - Dir :7 - TX:0 - TY:0 - Element:3
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:480 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:186 - Y:116 - Dir :1 - TX:0 - TY:0 - Element:2
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:485 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:148 - Y:82 - Dir :4 - TX:0 - TY:0 - Element:5
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:486 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:141 - Y:82 - Dir :3 - TX:0 - TY:0 - Element:5
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:488 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:133 - Y:81 - Dir :0 - TX:0 - TY:0 - Element:5
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:495 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:116 - Y:88 - Dir :1 - TX:0 - TY:0 - Element:5
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:233 - Type:2 - MonsterClass:0 - Map:132 - Dis:0 - X:-3 - Y:-3 - Dir :0 - TX:0 - TY:0 - Element:0
+08:13:42 [gObjSetPosMonster][GetPosition] Location Error number:335 - Type:2 - MonsterClass:859 - Map:132 - Dis:10 - X:62 - Y:3 - Dir :6 - TX:0 - TY:0 - Element:1
+08:13:42 [Blood Castle] (1) SetState BLANK
+08:13:42 [Blood Castle] (2) SetState BLANK
+08:13:42 [Blood Castle] (3) SetState BLANK
+08:13:42 [Blood Castle] (4) SetState BLANK
+08:13:42 [Blood Castle] (5) SetState BLANK
+08:13:42 [Blood Castle] (6) SetState BLANK
+08:13:42 [Blood Castle] (7) SetState BLANK
+08:13:42 [Blood Castle] (8) SetState BLANK
+08:13:42 [Castle Deep] SetState BLANK
+08:13:42 [Chaos Castle] (1) SetState BLANK
+08:13:42 [Chaos Castle] (2) SetState BLANK
+08:13:42 [Chaos Castle] (3) SetState BLANK
+08:13:42 [Chaos Castle] (4) SetState BLANK
+08:13:42 [Chaos Castle] (5) SetState BLANK
+08:13:42 [Chaos Castle] (6) SetState BLANK
+08:13:42 [Chaos Castle] (7) SetState BLANK
+08:13:42 [Chaos Castle Survival] SetState BLANK
+08:13:42 [Devil Square] (1) SetState BLANK
+08:13:42 [Devil Square] (2) SetState BLANK
+08:13:42 [Devil Square] (3) SetState BLANK
+08:13:42 [Devil Square] (4) SetState BLANK
+08:13:42 [Devil Square] (5) SetState BLANK
+08:13:42 [Devil Square] (6) SetState BLANK
+08:13:42 [Devil Square] (7) SetState BLANK
+08:13:42 [ ITR ] [IllusionTemple_EventInit] Illusion Temple Renewal match event initialization
+08:13:42 [ITR] TempleNumber Reset :[0]
+08:13:42 [ ITR ] (0) Sync Open Time. [947]min remain
+08:13:42 [ITR] TempleNumber Reset :[1]
+08:13:42 [ ITR ] (1) Sync Open Time. [947]min remain
+08:13:42 [ITR] TempleNumber Reset :[2]
+08:13:42 [ ITR ] (2) Sync Open Time. [947]min remain
+08:13:42 [ITR] TempleNumber Reset :[3]
+08:13:42 [ ITR ] (3) Sync Open Time. [947]min remain
+08:13:42 [ITR] TempleNumber Reset :[4]
+08:13:42 [ ITR ] (4) Sync Open Time. [947]min remain
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:658, Map:45, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:0
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:659, Map:45, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:660, Map:45, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:2
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:661, Map:45, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:3
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:662, Map:45, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:663, Map:45, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:5
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:664, Map:45, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:665, Map:45, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:666, Map:45, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:667, Map:45, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:668, Map:45, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:10
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:658, Map:46, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:0
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:659, Map:46, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:660, Map:46, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:2
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:661, Map:46, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:3
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:662, Map:46, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:663, Map:46, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:5
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:664, Map:46, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:665, Map:46, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:666, Map:46, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:667, Map:46, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:668, Map:46, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:10
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:658, Map:47, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:0
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:659, Map:47, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:660, Map:47, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:2
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:661, Map:47, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:3
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:662, Map:47, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:663, Map:47, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:5
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:664, Map:47, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:665, Map:47, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:666, Map:47, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:667, Map:47, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:668, Map:47, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:10
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:658, Map:48, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:0
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:659, Map:48, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:660, Map:48, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:2
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:661, Map:48, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:3
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:662, Map:48, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:663, Map:48, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:5
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:664, Map:48, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:665, Map:48, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:666, Map:48, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:667, Map:48, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:668, Map:48, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:10
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:658, Map:49, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:0
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:659, Map:49, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:660, Map:49, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:2
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:661, Map:49, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:3
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:662, Map:49, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:663, Map:49, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:5
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:664, Map:49, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:665, Map:49, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:666, Map:49, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:667, Map:49, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+08:13:42 [ ITR ][AddITRNpcInfo] NpcID:668, Map:49, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:10
+08:13:42 [ ITL ] [IllusionTempleLeague_EventInit] event reset
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:658, Map:98, Dis:0, X:169, Y:84, Dir:2 ,byMapTagNpcIdentNo:0
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:659, Map:98, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:660, Map:98, Dis:0, X:151, Y:118, Dir:0 ,byMapTagNpcIdentNo:2
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:661, Map:98, Dis:0, X:151, Y:87, Dir:0 ,byMapTagNpcIdentNo:3
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:662, Map:98, Dis:0, X:166, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:663, Map:98, Dis:0, X:173, Y:66, Dir:0 ,byMapTagNpcIdentNo:5
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:664, Map:98, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:665, Map:98, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:666, Map:98, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:667, Map:98, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:668, Map:98, Dis:0, X:207, Y:47, Dir:0 ,byMapTagNpcIdentNo:10
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:658, Map:99, Dis:0, X:169, Y:84, Dir:2 ,byMapTagNpcIdentNo:0
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:659, Map:99, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:660, Map:99, Dis:0, X:151, Y:118, Dir:0 ,byMapTagNpcIdentNo:2
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:661, Map:99, Dis:0, X:151, Y:87, Dir:0 ,byMapTagNpcIdentNo:3
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:662, Map:99, Dis:0, X:166, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:663, Map:99, Dis:0, X:173, Y:66, Dir:0 ,byMapTagNpcIdentNo:5
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:664, Map:99, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:665, Map:99, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:666, Map:99, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:667, Map:99, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+08:13:42 [ ITL ][AddITLNpcInfo] NpcID:668, Map:99, Dis:0, X:207, Y:47, Dir:0 ,byMapTagNpcIdentNo:10
+08:13:42 [AcheronGuardian] Sync Start Time. [226] min remain
+08:13:42 [ RAKLION ] State(0) -> END
+08:13:42 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+08:13:43 [AcheronGuardian] Acheron Event Play [1]
+08:13:43 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+08:13:43 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+08:13:43 [Bot Hide][0] (BotHideDW) Sync Start Time. [226] min remain
+08:13:43 [Bot Hide][0] (BotHideDW) SetState EMPTY
+08:13:43 [Bot Hide][1] (BotHideBK) Sync Start Time. [286] min remain
+08:13:43 [Bot Hide][1] (BotHideBK) SetState EMPTY
+08:13:43 [Bot Hide][2] (BotHideFE) Sync Start Time. [346] min remain
+08:13:43 [Bot Hide][2] (BotHideFE) SetState EMPTY
+08:13:43 [Bot Hide][3] (BotHideMG) Sync Start Time. [406] min remain
+08:13:43 [Bot Hide][3] (BotHideMG) SetState EMPTY
+08:13:43 [Bot Hide][4] (BotHideDL) Sync Start Time. [466] min remain
+08:13:43 [Bot Hide][4] (BotHideDL) SetState EMPTY
+08:13:43 [Bot Hide][5] (BotHideSU) Sync Start Time. [526] min remain
+08:13:43 [Bot Hide][5] (BotHideSU) SetState EMPTY
+08:13:43 [Bot Hide][6] (BotHideRF) Sync Start Time. [586] min remain
+08:13:43 [Bot Hide][6] (BotHideRF) SetState EMPTY
+08:13:43 [Bot Hide][7] (BotHideGL) Sync Start Time. [646] min remain
+08:13:43 [Bot Hide][7] (BotHideGL) SetState EMPTY
+08:13:43 [Bot Hide][8] (BotHideRW) Sync Start Time. [706] min remain
+08:13:43 [Bot Hide][8] (BotHideRW) SetState EMPTY
+08:13:43 [Bot Hide][9] (BotHideSL) Sync Start Time. [766] min remain
+08:13:43 [Bot Hide][9] (BotHideSL) SetState EMPTY
+08:13:43 [Bot Hide][10] (BotHideGC) Sync Start Time. [826] min remain
+08:13:43 [Bot Hide][10] (BotHideGC) SetState EMPTY
+08:13:43 [Bot Hide][11] (BotHideKM) Sync Start Time. [886] min remain
+08:13:43 [Bot Hide][11] (BotHideKM) SetState EMPTY
+08:13:43 [Bot Hide][12] (BotHideLM) Sync Start Time. [946] min remain
+08:13:43 [Bot Hide][12] (BotHideLM) SetState EMPTY
+08:13:43 [Bot Hide][13] (BotHideIK) Sync Start Time. [1006] min remain
+08:13:43 [Bot Hide][13] (BotHideIK) SetState EMPTY
+08:13:43 [Boss Battle Event] Sync Start Time. [951] min remain
+08:13:43 [Boss Battle Event] SetState EMPTY
+08:13:44 [FreeChannelSwitch] [Add Server] [ServerCode:20][cur:0/max:100]
+08:13:45 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+08:13:45 [ KANTURU ] State(0) -> STANDBY
+08:13:45 [ KANTURU ][ BattleStanby ] State(0) -> START
+08:13:45 [ RAKLION ] State(10) -> IDLE
+08:13:45 [ArcaBattle] ArcaBattle Proc State [0]
+08:13:46 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:2) 
+08:13:46 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:3) 
+08:13:46 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:4) 
+08:13:46 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:2) 
+08:13:46 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:3) 
+08:13:46 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:4) 
+08:13:46 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:2) 
+08:13:46 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:3) 
+08:13:46 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:4) 
+08:13:59 [AcheronGuardian] Acheron Event Play [1]
+08:14:00 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+08:15:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:39][Y:167]
+08:15:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:178][Y:224]
+08:15:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:155][Y:231]
+08:15:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:86][Y:236]
+08:15:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:64][Y:43]
+08:15:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:22][Y:85]
+08:15:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:63][Y:227]
+08:15:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:227][Y:136]
+08:15:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:223][Y:195]
+08:15:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:42][Map:0][X:58][Y:67]
+08:16:19 [ObjectManager][20100] AddClient (192.168.1.111)
+08:16:25 [ObjectManager][20100] AddAccountInfo (1111)
+08:16:33 [Gremory Case][GDGremoryCaseReqItemListSend][Account:1111][Name:LouLx3] Request to load Gremory Case item list
+08:16:33 [BlockChat][GDReqBlockChatList] Send Request Block List
+08:16:33 [ObjectManager][20100] AddCharacterInfo (LouLx3)
+08:16:36 [Gremory Case][DGGremoryCaseReqItemListRecv][Account:1111][Name:LouLx3] Received item list [Character:1]-[Server:0]-[MuMobil:0]-[Private:0]
+08:25:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:43][Map:0][X:172][Y:231]
+08:25:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:43][Map:0][X:191][Y:32]
+08:25:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:43][Map:0][X:91][Y:11]
+08:25:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:43][Map:0][X:237][Y:136]
+08:25:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:43][Map:0][X:47][Y:25]
+08:25:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:43][Map:0][X:79][Y:59]
+08:25:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:43][Map:0][X:185][Y:163]
+08:25:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:43][Map:0][X:90][Y:96]
+08:25:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:43][Map:0][X:44][Y:116]
+08:25:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:43][Map:0][X:83][Y:134]
+08:25:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:43][Map:0][X:92][Y:167]
+08:25:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:43][Map:0][X:179][Y:138]
+08:25:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:43][Map:0][X:44][Y:158]
+08:25:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:43][Map:0][X:51][Y:121]
+08:25:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:43][Map:0][X:82][Y:131]
+08:25:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:53][Map:2][X:58][Y:228]
+08:25:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:53][Map:2][X:22][Y:198]
+08:25:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:53][Map:2][X:131][Y:56]
+08:25:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:53][Map:2][X:209][Y:161]
+08:25:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:53][Map:2][X:160][Y:90]
+08:25:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:53][Map:2][X:19][Y:51]
+08:25:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:53][Map:2][X:79][Y:152]
+08:25:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:53][Map:2][X:31][Y:37]
+08:25:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:53][Map:2][X:179][Y:115]
+08:25:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:53][Map:2][X:72][Y:108]
+08:25:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:53][Map:2][X:22][Y:10]
+08:25:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:53][Map:2][X:147][Y:87]
+08:25:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:53][Map:2][X:106][Y:59]
+08:25:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:53][Map:2][X:231][Y:227]
+08:25:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:53][Map:2][X:50][Y:14]
+08:25:00 [InvasionManager][SetMonster][Group:2][Value:0][Class:54][Map:2][X:172][Y:205]
+08:25:00 [InvasionManager][SetMonster][Group:2][Value:0][Class:54][Map:2][X:36][Y:17]
+08:25:00 [InvasionManager][SetMonster][Group:2][Value:0][Class:54][Map:2][X:224][Y:129]
+08:25:00 [InvasionManager][SetMonster][Group:2][Value:0][Class:54][Map:2][X:149][Y:28]
+08:25:00 [InvasionManager][SetMonster][Group:2][Value:0][Class:54][Map:2][X:159][Y:228]
+08:25:00 [InvasionManager][SetMonster][Group:2][Value:0][Class:54][Map:2][X:90][Y:170]
+08:25:00 [InvasionManager][SetMonster][Group:2][Value:0][Class:54][Map:2][X:63][Y:118]
+08:25:00 [InvasionManager][SetMonster][Group:2][Value:0][Class:54][Map:2][X:154][Y:94]
+08:25:00 [InvasionManager][SetMonster][Group:2][Value:0][Class:54][Map:2][X:128][Y:149]
+08:25:00 [InvasionManager][SetMonster][Group:2][Value:0][Class:54][Map:2][X:17][Y:225]
+08:25:00 [InvasionManager][SetMonster][Group:2][Value:0][Class:54][Map:2][X:59][Y:209]
+08:25:00 [InvasionManager][SetMonster][Group:2][Value:0][Class:54][Map:2][X:43][Y:60]
+08:25:00 [InvasionManager][SetMonster][Group:2][Value:0][Class:54][Map:2][X:39][Y:203]
+08:25:00 [InvasionManager][SetMonster][Group:2][Value:0][Class:54][Map:2][X:136][Y:170]
+08:25:00 [InvasionManager][SetMonster][Group:2][Value:0][Class:54][Map:2][X:234][Y:86]
+08:25:00 [InvasionManager][SetMonster][Group:3][Value:0][Class:78][Map:3][X:136][Y:130]
+08:25:00 [InvasionManager][SetMonster][Group:3][Value:0][Class:78][Map:3][X:47][Y:56]
+08:25:00 [InvasionManager][SetMonster][Group:3][Value:0][Class:78][Map:3][X:113][Y:191]
+08:25:00 [InvasionManager][SetMonster][Group:3][Value:0][Class:78][Map:3][X:89][Y:41]
+08:25:00 [InvasionManager][SetMonster][Group:3][Value:0][Class:78][Map:3][X:196][Y:78]
+08:25:00 [InvasionManager][SetMonster][Group:3][Value:0][Class:78][Map:3][X:139][Y:95]
+08:25:00 [InvasionManager][SetMonster][Group:3][Value:0][Class:78][Map:3][X:208][Y:101]
+08:25:00 [InvasionManager][SetMonster][Group:3][Value:0][Class:78][Map:3][X:69][Y:11]
+08:25:00 [InvasionManager][SetMonster][Group:3][Value:0][Class:78][Map:3][X:94][Y:141]
+08:25:00 [InvasionManager][SetMonster][Group:3][Value:0][Class:78][Map:3][X:21][Y:73]
+08:25:00 [InvasionManager][SetMonster][Group:3][Value:0][Class:78][Map:3][X:92][Y:147]
+08:25:00 [InvasionManager][SetMonster][Group:3][Value:0][Class:78][Map:3][X:78][Y:70]
+08:25:00 [InvasionManager][SetMonster][Group:3][Value:0][Class:78][Map:3][X:205][Y:29]
+08:25:00 [InvasionManager][SetMonster][Group:3][Value:0][Class:78][Map:3][X:52][Y:25]
+08:25:00 [InvasionManager][SetMonster][Group:3][Value:0][Class:78][Map:3][X:193][Y:31]
+08:25:00 [InvasionManager][SetMonster][Group:4][Value:0][Class:79][Map:0][X:161][Y:166]
+08:25:00 [InvasionManager][SetMonster][Group:4][Value:0][Class:79][Map:0][X:163][Y:80]
+08:25:00 [InvasionManager][SetMonster][Group:4][Value:0][Class:79][Map:0][X:188][Y:117]
+08:25:00 [InvasionManager][SetMonster][Group:4][Value:0][Class:79][Map:0][X:100][Y:77]
+08:25:00 [InvasionManager][SetMonster][Group:4][Value:0][Class:79][Map:0][X:69][Y:109]
+08:25:00 [InvasionManager][SetMonster][Group:4][Value:0][Class:79][Map:0][X:173][Y:234]
+08:25:00 [InvasionManager][SetMonster][Group:4][Value:0][Class:79][Map:0][X:206][Y:64]
+08:25:00 [InvasionManager][SetMonster][Group:4][Value:0][Class:79][Map:0][X:238][Y:71]
+08:25:00 [InvasionManager][SetMonster][Group:4][Value:0][Class:79][Map:0][X:43][Y:149]
+08:25:00 [InvasionManager][SetMonster][Group:4][Value:0][Class:79][Map:0][X:181][Y:45]
+08:25:00 [InvasionManager][SetMonster][Group:5][Value:0][Class:80][Map:7][X:213][Y:105]
+08:25:00 [InvasionManager][SetMonster][Group:5][Value:0][Class:80][Map:7][X:213][Y:175]
+08:25:00 [InvasionManager][SetMonster][Group:5][Value:0][Class:80][Map:7][X:156][Y:64]
+08:25:00 [InvasionManager][SetMonster][Group:5][Value:0][Class:80][Map:7][X:113][Y:104]
+08:25:00 [InvasionManager][SetMonster][Group:5][Value:0][Class:80][Map:7][X:112][Y:133]
+08:25:00 [InvasionManager][SetMonster][Group:5][Value:0][Class:80][Map:7][X:195][Y:27]
+08:25:00 [InvasionManager][SetMonster][Group:5][Value:0][Class:80][Map:7][X:118][Y:138]
+08:25:00 [InvasionManager][SetMonster][Group:5][Value:0][Class:80][Map:7][X:89][Y:68]
+08:25:00 [InvasionManager][SetMonster][Group:5][Value:0][Class:80][Map:7][X:239][Y:38]
+08:25:00 [InvasionManager][SetMonster][Group:5][Value:0][Class:80][Map:7][X:219][Y:71]
+08:25:00 [InvasionManager][SetMonster][Group:5][Value:0][Class:80][Map:7][X:171][Y:154]
+08:25:00 [InvasionManager][SetMonster][Group:5][Value:0][Class:80][Map:7][X:230][Y:56]
+08:25:00 [InvasionManager][SetMonster][Group:5][Value:0][Class:80][Map:7][X:235][Y:173]
+08:25:00 [InvasionManager][SetMonster][Group:6][Value:0][Class:81][Map:7][X:155][Y:24]
+08:25:00 [InvasionManager][SetMonster][Group:6][Value:0][Class:81][Map:7][X:71][Y:168]
+08:25:00 [InvasionManager][SetMonster][Group:6][Value:0][Class:81][Map:7][X:216][Y:51]
+08:25:00 [InvasionManager][SetMonster][Group:6][Value:0][Class:81][Map:7][X:200][Y:25]
+08:25:00 [InvasionManager][SetMonster][Group:6][Value:0][Class:81][Map:7][X:62][Y:26]
+08:25:00 [InvasionManager][SetMonster][Group:6][Value:0][Class:81][Map:7][X:230][Y:15]
+08:25:00 [InvasionManager][SetMonster][Group:6][Value:0][Class:81][Map:7][X:62][Y:10]
+08:25:00 [InvasionManager][SetMonster][Group:6][Value:0][Class:81][Map:7][X:83][Y:171]
+08:25:00 [InvasionManager][SetMonster][Group:6][Value:0][Class:81][Map:7][X:141][Y:179]
+08:25:00 [InvasionManager][SetMonster][Group:6][Value:0][Class:81][Map:7][X:110][Y:211]
+08:25:00 [InvasionManager][SetMonster][Group:6][Value:0][Class:81][Map:7][X:117][Y:40]
+08:25:00 [InvasionManager][SetMonster][Group:6][Value:0][Class:81][Map:7][X:24][Y:58]
+08:25:00 [InvasionManager][SetMonster][Group:6][Value:0][Class:81][Map:7][X:112][Y:85]
+08:25:00 [InvasionManager][SetMonster][Group:6][Value:0][Class:81][Map:7][X:87][Y:170]
+08:25:00 [InvasionManager][SetMonster][Group:6][Value:0][Class:81][Map:7][X:220][Y:121]
+08:25:00 [InvasionManager][SetMonster][Group:7][Value:0][Class:82][Map:8][X:41][Y:74]
+08:25:00 [InvasionManager][SetMonster][Group:7][Value:0][Class:82][Map:8][X:151][Y:157]
+08:25:00 [InvasionManager][SetMonster][Group:7][Value:0][Class:82][Map:8][X:87][Y:59]
+08:25:00 [InvasionManager][SetMonster][Group:7][Value:0][Class:82][Map:8][X:72][Y:71]
+08:25:00 [InvasionManager][SetMonster][Group:7][Value:0][Class:82][Map:8][X:93][Y:151]
+08:25:00 [InvasionManager][SetMonster][Group:7][Value:0][Class:82][Map:8][X:16][Y:233]
+08:25:00 [InvasionManager][SetMonster][Group:7][Value:0][Class:82][Map:8][X:90][Y:212]
+08:25:00 [InvasionManager][SetMonster][Group:7][Value:0][Class:82][Map:8][X:85][Y:208]
+08:25:00 [InvasionManager][SetMonster][Group:7][Value:0][Class:82][Map:8][X:126][Y:96]
+08:25:00 [InvasionManager][SetMonster][Group:7][Value:0][Class:82][Map:8][X:70][Y:88]
+08:25:00 [InvasionManager][SetMonster][Group:7][Value:0][Class:82][Map:8][X:156][Y:71]
+08:25:00 [InvasionManager][SetMonster][Group:7][Value:0][Class:82][Map:8][X:99][Y:146]
+08:25:00 [InvasionManager][SetMonster][Group:7][Value:0][Class:82][Map:8][X:42][Y:77]
+08:25:00 [InvasionManager][SetMonster][Group:8][Value:0][Class:83][Map:8][X:32][Y:160]
+08:25:00 [InvasionManager][SetMonster][Group:8][Value:0][Class:83][Map:8][X:177][Y:105]
+08:25:00 [InvasionManager][SetMonster][Group:8][Value:0][Class:83][Map:8][X:100][Y:46]
+08:25:00 [InvasionManager][SetMonster][Group:8][Value:0][Class:83][Map:8][X:165][Y:232]
+08:25:00 [InvasionManager][SetMonster][Group:8][Value:0][Class:83][Map:8][X:109][Y:209]
+08:25:00 [InvasionManager][SetMonster][Group:8][Value:0][Class:83][Map:8][X:53][Y:91]
+08:25:00 [InvasionManager][SetMonster][Group:8][Value:0][Class:83][Map:8][X:62][Y:158]
+08:25:00 [InvasionManager][SetMonster][Group:8][Value:0][Class:83][Map:8][X:113][Y:84]
+08:25:00 [InvasionManager][SetMonster][Group:8][Value:0][Class:83][Map:8][X:19][Y:238]
+08:25:00 [InvasionManager][SetMonster][Group:8][Value:0][Class:83][Map:8][X:76][Y:160]
+08:25:00 [InvasionManager][SetMonster][Group:8][Value:0][Class:83][Map:8][X:135][Y:55]
+08:25:00 [InvasionManager][SetMonster][Group:8][Value:0][Class:83][Map:8][X:61][Y:64]
+08:25:00 [InvasionManager][SetMonster][Group:8][Value:0][Class:83][Map:8][X:53][Y:119]
+08:25:00 [InvasionManager][SetMonster][Group:8][Value:0][Class:83][Map:8][X:34][Y:86]
+08:25:00 [InvasionManager][SetMonster][Group:8][Value:0][Class:83][Map:8][X:118][Y:39]
+08:25:00 [InvasionManager][SetMonster][Group:9][Value:0][Class:493][Map:1][X:35][Y:79]
+08:25:00 [InvasionManager][SetMonster][Group:9][Value:0][Class:493][Map:1][X:22][Y:88]
+08:25:00 [InvasionManager][SetMonster][Group:9][Value:0][Class:493][Map:1][X:20][Y:75]
+08:25:00 [InvasionManager][SetMonster][Group:9][Value:0][Class:493][Map:1][X:32][Y:110]
+08:25:00 [InvasionManager][SetMonster][Group:9][Value:0][Class:493][Map:1][X:42][Y:87]
+08:25:00 [InvasionManager][SetMonster][Group:9][Value:0][Class:493][Map:1][X:30][Y:52]
+08:25:00 [InvasionManager][SetMonster][Group:9][Value:0][Class:493][Map:1][X:35][Y:53]
+08:25:00 [InvasionManager][SetMonster][Group:9][Value:0][Class:493][Map:1][X:29][Y:82]
+08:25:00 [InvasionManager][SetMonster][Group:9][Value:0][Class:493][Map:1][X:33][Y:79]
+08:25:00 [InvasionManager][SetMonster][Group:9][Value:0][Class:493][Map:1][X:29][Y:113]
+08:25:00 [InvasionManager][SetMonster][Group:9][Value:0][Class:493][Map:1][X:13][Y:73]
+08:25:00 [InvasionManager][SetMonster][Group:9][Value:0][Class:493][Map:1][X:9][Y:83]
+08:25:00 [InvasionManager][SetMonster][Group:9][Value:0][Class:493][Map:1][X:32][Y:87]
+08:25:00 [InvasionManager][SetMonster][Group:10][Value:0][Class:494][Map:4][X:89][Y:209]
+08:25:00 [InvasionManager][SetMonster][Group:10][Value:0][Class:494][Map:4][X:46][Y:108]
+08:25:00 [InvasionManager][SetMonster][Group:10][Value:0][Class:494][Map:4][X:201][Y:123]
+08:25:00 [InvasionManager][SetMonster][Group:10][Value:0][Class:494][Map:4][X:162][Y:79]
+08:25:00 [InvasionManager][SetMonster][Group:10][Value:0][Class:494][Map:4][X:100][Y:222]
+08:25:00 [InvasionManager][SetMonster][Group:10][Value:0][Class:494][Map:4][X:96][Y:171]
+08:25:00 [InvasionManager][SetMonster][Group:10][Value:0][Class:494][Map:4][X:29][Y:215]
+08:25:00 [InvasionManager][SetMonster][Group:10][Value:0][Class:494][Map:4][X:43][Y:85]
+08:25:00 [InvasionManager][SetMonster][Group:10][Value:0][Class:494][Map:4][X:179][Y:166]
+08:25:00 [InvasionManager][SetMonster][Group:10][Value:0][Class:494][Map:4][X:214][Y:67]
+08:25:00 [InvasionManager][SetMonster][Group:10][Value:0][Class:494][Map:4][X:84][Y:202]
+08:25:00 [InvasionManager][SetMonster][Group:10][Value:0][Class:494][Map:4][X:55][Y:200]
+08:25:00 [InvasionManager][SetMonster][Group:10][Value:0][Class:494][Map:4][X:114][Y:234]
+08:25:00 [InvasionManager][SetMonster][Group:11][Value:0][Class:495][Map:33][X:237][Y:231]
+08:25:00 [InvasionManager][SetMonster][Group:11][Value:0][Class:495][Map:33][X:132][Y:86]
+08:25:00 [InvasionManager][SetMonster][Group:11][Value:0][Class:495][Map:33][X:143][Y:197]
+08:25:00 [InvasionManager][SetMonster][Group:11][Value:0][Class:495][Map:33][X:36][Y:108]
+08:25:00 [InvasionManager][SetMonster][Group:11][Value:0][Class:495][Map:33][X:33][Y:117]
+08:25:00 [InvasionManager][SetMonster][Group:11][Value:0][Class:495][Map:33][X:166][Y:133]
+08:25:00 [InvasionManager][SetMonster][Group:11][Value:0][Class:495][Map:33][X:160][Y:53]
+08:25:00 [InvasionManager][SetMonster][Group:11][Value:0][Class:495][Map:33][X:135][Y:227]
+08:25:00 [InvasionManager][SetMonster][Group:11][Value:0][Class:495][Map:33][X:97][Y:201]
+08:25:00 [InvasionManager][SetMonster][Group:11][Value:0][Class:495][Map:33][X:161][Y:110]
+08:25:00 [InvasionManager][SetMonster][Group:11][Value:0][Class:495][Map:33][X:161][Y:172]
+08:25:00 [InvasionManager][SetMonster][Group:11][Value:0][Class:495][Map:33][X:95][Y:170]
+08:25:00 [InvasionManager][SetMonster][Group:11][Value:0][Class:495][Map:33][X:55][Y:115]
+08:25:00 [InvasionManager][SetMonster][Group:12][Value:0][Class:496][Map:10][X:57][Y:133]
+08:25:00 [InvasionManager][SetMonster][Group:12][Value:0][Class:496][Map:10][X:80][Y:84]
+08:25:00 [InvasionManager][SetMonster][Group:12][Value:0][Class:496][Map:10][X:38][Y:217]
+08:25:00 [InvasionManager][SetMonster][Group:12][Value:0][Class:496][Map:10][X:44][Y:210]
+08:25:00 [InvasionManager][SetMonster][Group:12][Value:0][Class:496][Map:10][X:87][Y:77]
+08:25:00 [InvasionManager][SetMonster][Group:12][Value:0][Class:496][Map:10][X:36][Y:112]
+08:25:00 [InvasionManager][SetMonster][Group:12][Value:0][Class:496][Map:10][X:54][Y:193]
+08:25:00 [InvasionManager][SetMonster][Group:12][Value:0][Class:496][Map:10][X:86][Y:69]
+08:25:00 [InvasionManager][SetMonster][Group:12][Value:0][Class:496][Map:10][X:50][Y:234]
+08:25:00 [InvasionManager][SetMonster][Group:12][Value:0][Class:496][Map:10][X:54][Y:167]
+08:25:00 [InvasionManager][SetMonster][Group:12][Value:0][Class:496][Map:10][X:45][Y:136]
+08:25:00 [InvasionManager][SetMonster][Group:12][Value:0][Class:496][Map:10][X:90][Y:73]
+08:25:00 [InvasionManager][SetMonster][Group:12][Value:0][Class:496][Map:10][X:43][Y:83]
+08:25:00 [InvasionManager][SetMonster][Group:13][Value:0][Class:497][Map:37][X:40][Y:80]
+08:25:00 [InvasionManager][SetMonster][Group:13][Value:0][Class:497][Map:37][X:209][Y:139]
+08:25:00 [InvasionManager][SetMonster][Group:13][Value:0][Class:497][Map:37][X:215][Y:138]
+08:25:00 [InvasionManager][SetMonster][Group:13][Value:0][Class:497][Map:37][X:141][Y:149]
+08:25:00 [InvasionManager][SetMonster][Group:13][Value:0][Class:497][Map:37][X:74][Y:169]
+08:25:00 [InvasionManager][SetMonster][Group:13][Value:0][Class:497][Map:37][X:195][Y:180]
+08:25:00 [InvasionManager][SetMonster][Group:13][Value:0][Class:497][Map:37][X:181][Y:224]
+08:25:00 [InvasionManager][SetMonster][Group:13][Value:0][Class:497][Map:37][X:201][Y:153]
+08:25:00 [InvasionManager][SetMonster][Group:13][Value:0][Class:497][Map:37][X:57][Y:161]
+08:25:00 [InvasionManager][SetMonster][Group:13][Value:0][Class:497][Map:37][X:198][Y:156]
+08:25:00 [InvasionManager][SetMonster][Group:13][Value:0][Class:497][Map:37][X:51][Y:233]
+08:25:00 [InvasionManager][SetMonster][Group:13][Value:0][Class:497][Map:37][X:138][Y:109]
+08:25:00 [InvasionManager][SetMonster][Group:13][Value:0][Class:497][Map:37][X:237][Y:123]
+08:25:00 [InvasionManager][SetMonster][Group:14][Value:0][Class:498][Map:38][X:156][Y:103]
+08:25:00 [InvasionManager][SetMonster][Group:14][Value:0][Class:498][Map:38][X:174][Y:134]
+08:25:00 [InvasionManager][SetMonster][Group:14][Value:0][Class:498][Map:38][X:163][Y:89]
+08:25:00 [InvasionManager][SetMonster][Group:14][Value:0][Class:498][Map:38][X:126][Y:75]
+08:25:00 [InvasionManager][SetMonster][Group:14][Value:0][Class:498][Map:38][X:111][Y:157]
+08:25:00 [InvasionManager][SetMonster][Group:14][Value:0][Class:498][Map:38][X:146][Y:105]
+08:25:00 [InvasionManager][SetMonster][Group:14][Value:0][Class:498][Map:38][X:132][Y:153]
+08:25:00 [InvasionManager][SetMonster][Group:14][Value:0][Class:498][Map:38][X:162][Y:95]
+08:25:00 [InvasionManager][SetMonster][Group:14][Value:0][Class:498][Map:38][X:99][Y:80]
+08:25:00 [InvasionManager][SetMonster][Group:14][Value:0][Class:498][Map:38][X:140][Y:94]
+08:25:00 [InvasionManager][SetMonster][Group:14][Value:0][Class:498][Map:38][X:108][Y:147]
+08:25:00 [InvasionManager][SetMonster][Group:14][Value:0][Class:498][Map:38][X:107][Y:160]
+08:25:00 [InvasionManager][SetMonster][Group:14][Value:0][Class:498][Map:38][X:175][Y:146]
+08:25:00 [InvasionManager][SetMonster][Group:15][Value:0][Class:499][Map:57][X:140][Y:133]
+08:25:00 [InvasionManager][SetMonster][Group:15][Value:0][Class:499][Map:57][X:55][Y:82]
+08:25:00 [InvasionManager][SetMonster][Group:15][Value:0][Class:499][Map:57][X:210][Y:84]
+08:25:00 [InvasionManager][SetMonster][Group:15][Value:0][Class:499][Map:57][X:125][Y:179]
+08:25:00 [InvasionManager][SetMonster][Group:15][Value:0][Class:499][Map:57][X:37][Y:103]
+08:25:00 [InvasionManager][SetMonster][Group:15][Value:0][Class:499][Map:57][X:142][Y:220]
+08:25:00 [InvasionManager][SetMonster][Group:15][Value:0][Class:499][Map:57][X:47][Y:139]
+08:25:00 [InvasionManager][SetMonster][Group:15][Value:0][Class:499][Map:57][X:176][Y:71]
+08:25:00 [InvasionManager][SetMonster][Group:15][Value:0][Class:499][Map:57][X:23][Y:101]
+08:25:00 [InvasionManager][SetMonster][Group:15][Value:0][Class:499][Map:57][X:26][Y:216]
+08:25:00 [InvasionManager][SetMonster][Group:15][Value:0][Class:499][Map:57][X:132][Y:177]
+08:25:00 [InvasionManager][SetMonster][Group:15][Value:0][Class:499][Map:57][X:77][Y:119]
+08:25:00 [InvasionManager][SetMonster][Group:15][Value:0][Class:499][Map:57][X:119][Y:89]
+08:25:00 [InvasionManager][SetMonster][Group:16][Value:0][Class:500][Map:56][X:72][Y:207]
+08:25:00 [InvasionManager][SetMonster][Group:16][Value:0][Class:500][Map:56][X:66][Y:184]
+08:25:00 [InvasionManager][SetMonster][Group:16][Value:0][Class:500][Map:56][X:36][Y:189]
+08:25:00 [InvasionManager][SetMonster][Group:16][Value:0][Class:500][Map:56][X:30][Y:193]
+08:25:00 [InvasionManager][SetMonster][Group:16][Value:0][Class:500][Map:56][X:115][Y:171]
+08:25:00 [InvasionManager][SetMonster][Group:16][Value:0][Class:500][Map:56][X:30][Y:206]
+08:25:00 [InvasionManager][SetMonster][Group:16][Value:0][Class:500][Map:56][X:72][Y:186]
+08:25:00 [InvasionManager][SetMonster][Group:16][Value:0][Class:500][Map:56][X:228][Y:75]
+08:25:00 [InvasionManager][SetMonster][Group:16][Value:0][Class:500][Map:56][X:126][Y:169]
+08:25:00 [InvasionManager][SetMonster][Group:16][Value:0][Class:500][Map:56][X:74][Y:179]
+08:25:00 [InvasionManager][SetMonster][Group:16][Value:0][Class:500][Map:56][X:223][Y:150]
+08:25:00 [InvasionManager][SetMonster][Group:16][Value:0][Class:500][Map:56][X:59][Y:108]
+08:25:00 [InvasionManager][SetMonster][Group:16][Value:0][Class:500][Map:56][X:51][Y:121]
+08:25:00 [InvasionManager][SetMonster][Group:17][Value:1][Class:501][Map:57][X:64][Y:126]
+08:25:00 [InvasionManager][SetMonster][Group:17][Value:1][Class:501][Map:57][X:111][Y:209]
+08:25:00 [InvasionManager][SetMonster][Group:17][Value:1][Class:501][Map:57][X:108][Y:213]
+08:25:00 [InvasionManager][SetMonster][Group:17][Value:1][Class:501][Map:57][X:130][Y:83]
+08:25:00 [InvasionManager][SetMonster][Group:17][Value:1][Class:501][Map:57][X:34][Y:91]
+08:25:00 [InvasionManager][SetMonster][Group:17][Value:1][Class:501][Map:57][X:111][Y:149]
+08:25:00 [InvasionManager][SetMonster][Group:17][Value:1][Class:501][Map:57][X:200][Y:133]
+08:25:00 [InvasionManager][SetMonster][Group:17][Value:1][Class:501][Map:57][X:93][Y:191]
+08:25:00 [InvasionManager][SetMonster][Group:17][Value:1][Class:501][Map:57][X:77][Y:116]
+08:25:00 [InvasionManager][SetMonster][Group:17][Value:1][Class:501][Map:57][X:198][Y:154]
+08:25:00 [InvasionManager][SetMonster][Group:18][Value:0][Class:502][Map:51][X:128][Y:166]
+08:25:00 [InvasionManager][SetMonster][Group:18][Value:0][Class:502][Map:51][X:152][Y:95]
+08:25:00 [InvasionManager][SetMonster][Group:18][Value:0][Class:502][Map:51][X:213][Y:146]
+08:25:00 [InvasionManager][SetMonster][Group:18][Value:0][Class:502][Map:51][X:57][Y:147]
+08:25:00 [InvasionManager][SetMonster][Group:18][Value:0][Class:502][Map:51][X:185][Y:98]
+08:25:00 [InvasionManager][SetMonster][Group:18][Value:0][Class:502][Map:51][X:174][Y:183]
+08:25:00 [InvasionManager][SetMonster][Group:18][Value:0][Class:502][Map:51][X:200][Y:137]
+08:25:00 [InvasionManager][SetMonster][Group:18][Value:0][Class:502][Map:51][X:101][Y:214]
+08:25:00 [InvasionManager][SetMonster][Group:18][Value:0][Class:502][Map:51][X:62][Y:166]
+08:25:00 [InvasionManager][SetMonster][Group:18][Value:0][Class:502][Map:51][X:106][Y:205]
+08:25:00 [InvasionManager][SetMonster][Group:18][Value:0][Class:502][Map:51][X:40][Y:136]
+08:25:00 [InvasionManager][SetMonster][Group:18][Value:0][Class:502][Map:51][X:162][Y:55]
+08:25:00 [InvasionManager][SetMonster][Group:18][Value:0][Class:502][Map:51][X:53][Y:144]
+08:25:00 [InvasionManager][SetMonster][Group:18][Value:0][Class:502][Map:51][X:208][Y:68]
+08:25:00 [InvasionManager][SetMonster][Group:18][Value:0][Class:502][Map:51][X:81][Y:166]
+08:29:45 [ObjectManager][20100] DelCharacterInfo (LouLx3)
+08:29:45 [ObjectManager][20100] DelAccountInfo (1111)
+08:29:45 [ObjectManager][20100] DelClient (192.168.1.111) [DelType:182]
+08:31:03 [BattlePass][BattlePassCurrectID][uType:1] [BattlePassID:11][StartDate:2023-11-01 AM08:30][EndDate:2023-12-01 AM08:30]
+08:32:18 [ObjectManager][20100] AddClient (192.168.1.111)
+08:32:23 [ObjectManager][20100] AddAccountInfo (1111)
+08:32:30 [Gremory Case][GDGremoryCaseReqItemListSend][Account:1111][Name:LouLx3] Request to load Gremory Case item list
+08:32:30 [BlockChat][GDReqBlockChatList] Send Request Block List
+08:32:30 [ObjectManager][20100] AddCharacterInfo (LouLx3)
+08:32:32 [Gremory Case][DGGremoryCaseReqItemListRecv][Account:1111][Name:LouLx3] Received item list [Character:1]-[Server:0]-[MuMobil:0]-[Private:0]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:135][Map:2][X:160][Y:23]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:136][Map:2][X:165][Y:13]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:136][Map:2][X:161][Y:19]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:136][Map:2][X:161][Y:13]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:136][Map:2][X:163][Y:12]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:136][Map:2][X:163][Y:19]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:136][Map:2][X:161][Y:19]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:136][Map:2][X:160][Y:18]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:136][Map:2][X:162][Y:16]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:136][Map:2][X:166][Y:21]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:136][Map:2][X:164][Y:22]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:137][Map:2][X:164][Y:22]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:137][Map:2][X:164][Y:18]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:137][Map:2][X:162][Y:15]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:137][Map:2][X:165][Y:17]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:137][Map:2][X:159][Y:16]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:137][Map:2][X:161][Y:17]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:137][Map:2][X:165][Y:20]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:137][Map:2][X:160][Y:16]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:137][Map:2][X:166][Y:19]
+08:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:137][Map:2][X:160][Y:17]
+09:00:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:560][Map:56][X:56][Y:110]
+09:00:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:560][Map:56][X:52][Y:113]
+09:00:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:560][Map:56][X:50][Y:111]
+09:00:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:560][Map:56][X:53][Y:109]
+09:00:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:560][Map:56][X:53][Y:105]
+09:00:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:560][Map:56][X:50][Y:106]
+09:00:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:560][Map:56][X:51][Y:110]
+09:00:00 [InvasionManager][SetMonster][Group:0][Value:0][Class:561][Map:56][X:51][Y:103]
+09:00:48 [ObjectManager][20100] DelCharacterInfo (LouLx3)
+09:00:48 [ObjectManager][20100] DelAccountInfo (1111)
+09:00:48 [ObjectManager][20100] DelClient (192.168.1.111) [DelType:182]
+09:02:28 [ObjectManager][20100] AddClient (192.168.1.111)
+09:02:37 [ObjectManager][20100] AddAccountInfo (1111)
+09:02:44 [Gremory Case][GDGremoryCaseReqItemListSend][Account:1111][Name:LouLx3] Request to load Gremory Case item list
+09:02:44 [BlockChat][GDReqBlockChatList] Send Request Block List
+09:02:44 [ObjectManager][20100] AddCharacterInfo (LouLx3)
+09:02:48 [Gremory Case][DGGremoryCaseReqItemListRecv][Account:1111][Name:LouLx3] Received item list [Character:1]-[Server:0]-[MuMobil:0]-[Private:0]
+09:13:44 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:14:43 [ KANTURU ][ BattleStanby ] State(2) -> END
+09:14:43 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+09:14:43 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+09:14:43 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+09:14:43 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+09:16:42 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+09:16:42 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+09:16:42 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+09:16:42 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+09:16:44 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+09:16:44 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+09:16:44 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+09:16:44 [ KANTURU ] State(2) -> END
+09:16:45 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+09:16:45 [ KANTURU ] State(5) -> NONE
+09:16:45 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+09:16:45 [ KANTURU ] State(0) -> STANDBY
+09:16:45 [ KANTURU ][ BattleStanby ] State(0) -> START
+09:20:56 [GCMuQuestReqTeleportToMapQuestRecv][Complete] [Index:552][State:1][Account:1111][Name:LouLx3]
+09:21:16 [CGMuQuestReqCompleteMissionRecv] Complete Mission [TargetNumber:0][QuestChapter:18] [QuestIndex:552][Account:1111][Name:LouLx3]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:169][Y:38]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:81][Y:52]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:73][Y:56]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:169][Y:107]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:16][Y:17]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:217][Y:103]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:124][Y:118]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:107][Y:164]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:167][Y:109]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:85][Y:130]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:128][Y:158]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:175][Y:107]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:172][Y:122]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:213][Y:182]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:106][Y:141]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:29][Y:79]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:173][Y:191]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:96][Y:42]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:100][Y:80]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:189][Y:146]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:214][Y:167]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:112][Y:104]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:226][Y:140]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:139][Y:154]
+09:25:00 [InvasionManager][SetMonster][Group:0][Value:5][Class:652][Map:91][X:114][Y:85]
+09:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:124][Y:130]
+09:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:84][Y:119]
+09:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:76][Y:148]
+09:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:115][Y:100]
+09:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:20][Y:128]
+09:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:129][Y:78]
+09:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:105][Y:172]
+09:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:50][Y:189]
+09:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:30][Y:74]
+09:50:00 [InvasionManager][SetMonster][Group:0][Value:1][Class:674][Map:2][X:62][Y:16]
+09:50:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:50][Y:167]
+09:50:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:164][Y:128]
+09:50:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:10][Y:229]
+09:50:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:231][Y:174]
+09:50:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:97][Y:18]
+09:50:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:206][Y:212]
+09:50:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:45][Y:108]
+09:50:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:172][Y:224]
+09:50:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:200][Y:97]
+09:50:00 [InvasionManager][SetMonster][Group:1][Value:0][Class:675][Map:4][X:234][Y:211]
+09:50:00 [InvasionManager][SetMonster][Group:2][Value:2][Class:676][Map:56][X:231][Y:188]
+09:50:00 [InvasionManager][SetMonster][Group:2][Value:2][Class:676][Map:56][X:56][Y:94]
+09:50:00 [InvasionManager][SetMonster][Group:2][Value:2][Class:676][Map:56][X:185][Y:127]
+09:50:00 [InvasionManager][SetMonster][Group:2][Value:2][Class:676][Map:56][X:136][Y:202]
+09:50:00 [InvasionManager][SetMonster][Group:2][Value:2][Class:676][Map:56][X:135][Y:32]
+09:50:00 [InvasionManager][SetMonster][Group:2][Value:2][Class:676][Map:56][X:115][Y:170]
+09:50:00 [InvasionManager][SetMonster][Group:2][Value:2][Class:676][Map:56][X:45][Y:92]
+09:50:00 [InvasionManager][SetMonster][Group:2][Value:2][Class:676][Map:56][X:174][Y:40]
+09:50:00 [InvasionManager][SetMonster][Group:2][Value:2][Class:676][Map:56][X:61][Y:73]
+09:50:00 [InvasionManager][SetMonster][Group:2][Value:2][Class:676][Map:56][X:40][Y:219]
+09:55:32 [ObjectManager][20100] DelCharacterInfo (LouLx3)
+09:55:32 [ObjectManager][20100] DelAccountInfo (1111)
+09:55:32 [ObjectManager][20100] DelClient (192.168.1.111) [DelType:182]

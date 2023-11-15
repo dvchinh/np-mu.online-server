@@ -1,0 +1,125 @@
+06:21:21 [SocketManager] Server started at port [55970]
+06:21:21 [SocketManager] Server started at port [55557]
+06:21:22 [ServerManager][0] AddServer (127.0.0.1)
+06:21:28 [SocketManager] WSAAccept() failed with error: 10061
+06:21:28 [SocketManager] WSAAccept() failed with error: 10061
+06:21:28 [ServerManager][1] AddServer (127.0.0.1)
+06:21:28 [ServerManager][1] ServerInfo (ChatServer) (55906) (65533)
+06:21:34 [ServerManager][2] AddServer (127.0.0.1)
+06:21:34 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+06:21:42 [ServerManager][3] AddServer (127.0.0.1)
+06:21:42 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+06:24:36 [SocketManager] WSAAccept() failed with error: 10061
+06:24:36 [SocketManager] WSAAccept() failed with error: 10061
+06:24:45 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:27:30 [SocketManager] WSAAccept() failed with error: 10061
+06:27:30 [SocketManager] WSAAccept() failed with error: 10061
+06:30:23 [SocketManager] WSAAccept() failed with error: 10061
+06:30:23 [SocketManager] WSAAccept() failed with error: 10061
+06:33:16 [SocketManager] WSAAccept() failed with error: 10061
+06:33:16 [SocketManager] WSAAccept() failed with error: 10061
+06:36:10 [SocketManager] WSAAccept() failed with error: 10061
+06:36:10 [SocketManager] WSAAccept() failed with error: 10061
+06:39:03 [SocketManager] WSAAccept() failed with error: 10061
+06:39:03 [SocketManager] WSAAccept() failed with error: 10061
+06:41:57 [SocketManager] WSAAccept() failed with error: 10061
+06:41:57 [SocketManager] WSAAccept() failed with error: 10061
+06:44:10 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:44:50 [SocketManager] WSAAccept() failed with error: 10061
+06:44:50 [SocketManager] WSAAccept() failed with error: 10061
+06:47:32 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:47:43 [SocketManager] WSAAccept() failed with error: 10061
+06:47:43 [SocketManager] WSAAccept() failed with error: 10061
+06:50:37 [SocketManager] WSAAccept() failed with error: 10061
+06:50:37 [SocketManager] WSAAccept() failed with error: 10061
+06:51:14 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:52:02 [ServerManager][3] DelServer (127.0.0.1)
+06:52:04 [ServerManager][0] DelServer (127.0.0.1)
+06:52:08 [ServerManager][2] DelServer (127.0.0.1)
+06:53:46 [SocketManager] Server started at port [55970]
+06:53:46 [SocketManager] Server started at port [55557]
+06:53:46 [ServerManager][0] AddServer (127.0.0.1)
+06:53:48 [SocketManager] WSAAccept() failed with error: 10061
+06:53:48 [SocketManager] WSAAccept() failed with error: 10061
+06:53:53 [ServerManager][1] AddServer (127.0.0.1)
+06:53:53 [ServerManager][1] ServerInfo (ChatServer) (55906) (65533)
+06:54:09 [ServerManager][2] AddServer (127.0.0.1)
+06:54:09 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+06:54:21 [ServerManager][3] AddServer (127.0.0.1)
+06:54:21 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+06:55:23 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:56:24 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:57:03 [SocketManager] WSAAccept() failed with error: 10061
+06:57:03 [SocketManager] WSAAccept() failed with error: 10061
+06:57:17 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:57:43 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:58:38 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:59:11 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:59:56 [SocketManager] WSAAccept() failed with error: 10061
+06:59:56 [SocketManager] WSAAccept() failed with error: 10061
+07:02:49 [SocketManager] WSAAccept() failed with error: 10061
+07:02:49 [SocketManager] WSAAccept() failed with error: 10061
+07:05:43 [SocketManager] WSAAccept() failed with error: 10061
+07:05:43 [SocketManager] WSAAccept() failed with error: 10061
+07:08:36 [SocketManager] WSAAccept() failed with error: 10061
+07:08:36 [SocketManager] WSAAccept() failed with error: 10061
+07:11:30 [SocketManager] WSAAccept() failed with error: 10061
+07:11:30 [SocketManager] WSAAccept() failed with error: 10061
+07:14:23 [SocketManager] WSAAccept() failed with error: 10061
+07:14:23 [SocketManager] WSAAccept() failed with error: 10061
+07:17:17 [SocketManager] WSAAccept() failed with error: 10061
+07:17:17 [SocketManager] WSAAccept() failed with error: 10061
+07:20:10 [SocketManager] WSAAccept() failed with error: 10061
+07:20:10 [SocketManager] WSAAccept() failed with error: 10061
+07:20:21 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+07:23:03 [SocketManager] WSAAccept() failed with error: 10061
+07:23:03 [SocketManager] WSAAccept() failed with error: 10061
+07:25:57 [SocketManager] WSAAccept() failed with error: 10061
+07:25:57 [SocketManager] WSAAccept() failed with error: 10061
+07:28:50 [SocketManager] WSAAccept() failed with error: 10061
+07:28:50 [SocketManager] WSAAccept() failed with error: 10061
+07:31:43 [SocketManager] WSAAccept() failed with error: 10061
+07:31:43 [SocketManager] WSAAccept() failed with error: 10061
+07:34:37 [SocketManager] WSAAccept() failed with error: 10061
+07:34:37 [SocketManager] WSAAccept() failed with error: 10061
+07:37:30 [SocketManager] WSAAccept() failed with error: 10061
+07:37:30 [SocketManager] WSAAccept() failed with error: 10061
+07:40:24 [SocketManager] WSAAccept() failed with error: 10061
+07:40:24 [SocketManager] WSAAccept() failed with error: 10061
+07:43:17 [SocketManager] WSAAccept() failed with error: 10061
+07:43:17 [SocketManager] WSAAccept() failed with error: 10061
+07:46:10 [SocketManager] WSAAccept() failed with error: 10061
+07:46:10 [SocketManager] WSAAccept() failed with error: 10061
+07:49:04 [SocketManager] WSAAccept() failed with error: 10061
+07:49:04 [SocketManager] WSAAccept() failed with error: 10061
+07:51:57 [SocketManager] WSAAccept() failed with error: 10061
+07:51:57 [SocketManager] WSAAccept() failed with error: 10061
+07:54:51 [SocketManager] WSAAccept() failed with error: 10061
+07:54:51 [SocketManager] WSAAccept() failed with error: 10061
+07:57:44 [SocketManager] WSAAccept() failed with error: 10061
+07:57:44 [SocketManager] WSAAccept() failed with error: 10061
+08:00:37 [SocketManager] WSAAccept() failed with error: 10061
+08:00:37 [SocketManager] WSAAccept() failed with error: 10061
+08:03:31 [SocketManager] WSAAccept() failed with error: 10061
+08:03:31 [SocketManager] WSAAccept() failed with error: 10061
+08:06:24 [SocketManager] WSAAccept() failed with error: 10061
+08:06:24 [SocketManager] WSAAccept() failed with error: 10061
+08:09:18 [SocketManager] WSAAccept() failed with error: 10061
+08:09:18 [SocketManager] WSAAccept() failed with error: 10061
+08:12:11 [SocketManager] WSAAccept() failed with error: 10061
+08:12:11 [SocketManager] WSAAccept() failed with error: 10061
+08:15:04 [SocketManager] WSAAccept() failed with error: 10061
+08:15:04 [SocketManager] WSAAccept() failed with error: 10061
+08:33:44 [ServerManager][0] DelServer (127.0.0.1)
+08:33:47 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+16:35:35 [SocketManager] Server started at port [55970]
+16:35:35 [SocketManager] Server started at port [55557]
+16:35:36 [ServerManager][0] AddServer (127.0.0.1)
+16:35:36 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+16:35:41 [ServerManager][1] AddServer (127.0.0.1)
+16:35:48 [ServerManager][2] AddServer (127.0.0.1)
+16:35:48 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+16:35:57 [ServerManager][3] AddServer (127.0.0.1)
+16:35:57 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+16:44:52 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+18:19:45 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]

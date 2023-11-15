@@ -1,0 +1,5 @@
+09:21:35 [General][1111][LouLx3] - (Message: /addene 234)
+09:26:38 [General][1111][LouLx3] - (Message: Hello)
+09:26:51 [General][1111][LouLx3] - (Message: Nhập vào đây)
+09:27:06 [General][1111][LouLx3] - (Message: Chưa gia nhập)
+09:55:11 [General][1111][LouLx3] - (Message: /make 0 0)

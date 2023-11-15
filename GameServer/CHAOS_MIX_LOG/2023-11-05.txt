@@ -1,0 +1,1 @@
+12:18:46 [BloodCastleMix][Failure][1111][LouLx3] - (ChaosSuccessRate: 80, ChaosMoney: 850000)

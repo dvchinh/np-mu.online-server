@@ -1,0 +1,580 @@
+01:35:11 [SocketManager] Server started at port [55970]
+01:35:11 [SocketManager] Server started at port [55557]
+01:35:12 [ServerManager][0] AddServer (127.0.0.1)
+01:35:17 [ServerManager][1] AddServer (127.0.0.1)
+01:35:17 [ServerManager][1] ServerInfo (ChatServer) (55906) (65533)
+01:36:42 [ServerManager][2] AddServer (127.0.0.1)
+01:36:42 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+01:38:53 [ServerManager][3] AddServer (127.0.0.1)
+01:38:53 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+01:39:01 [ServerManager][3] DelServer (127.0.0.1)
+01:40:11 [SocketManager] WSAAccept() failed with error: 10061
+01:40:11 [SocketManager] WSAAccept() failed with error: 10061
+01:41:57 [ServerManager][3] AddServer (127.0.0.1)
+01:41:57 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+01:44:58 [SocketManager] WSAAccept() failed with error: 10061
+01:44:58 [SocketManager] WSAAccept() failed with error: 10061
+01:48:13 [SocketManager] WSAAccept() failed with error: 10061
+01:48:13 [SocketManager] WSAAccept() failed with error: 10061
+01:51:27 [SocketManager] WSAAccept() failed with error: 10061
+01:51:27 [SocketManager] WSAAccept() failed with error: 10061
+02:11:02 [SocketManager] WSAAccept() failed with error: 10061
+02:11:02 [SocketManager] WSAAccept() failed with error: 10061
+02:14:17 [SocketManager] WSAAccept() failed with error: 10061
+02:14:17 [SocketManager] WSAAccept() failed with error: 10061
+02:17:52 [SocketManager] WSAAccept() failed with error: 10061
+02:17:52 [SocketManager] WSAAccept() failed with error: 10061
+02:21:28 [SocketManager] WSAAccept() failed with error: 10061
+02:21:28 [SocketManager] WSAAccept() failed with error: 10061
+02:25:04 [SocketManager] WSAAccept() failed with error: 10061
+02:25:04 [SocketManager] WSAAccept() failed with error: 10061
+02:28:39 [SocketManager] WSAAccept() failed with error: 10061
+02:28:39 [SocketManager] WSAAccept() failed with error: 10061
+02:32:15 [SocketManager] WSAAccept() failed with error: 10061
+02:32:15 [SocketManager] WSAAccept() failed with error: 10061
+02:35:51 [SocketManager] WSAAccept() failed with error: 10061
+02:35:51 [SocketManager] WSAAccept() failed with error: 10061
+02:39:26 [SocketManager] WSAAccept() failed with error: 10061
+02:39:26 [SocketManager] WSAAccept() failed with error: 10061
+02:43:02 [SocketManager] WSAAccept() failed with error: 10061
+02:43:02 [SocketManager] WSAAccept() failed with error: 10061
+02:46:38 [SocketManager] WSAAccept() failed with error: 10061
+02:46:38 [SocketManager] WSAAccept() failed with error: 10061
+02:50:14 [SocketManager] WSAAccept() failed with error: 10061
+02:50:14 [SocketManager] WSAAccept() failed with error: 10061
+02:53:49 [SocketManager] WSAAccept() failed with error: 10061
+02:53:49 [SocketManager] WSAAccept() failed with error: 10061
+02:57:25 [SocketManager] WSAAccept() failed with error: 10061
+02:57:25 [SocketManager] WSAAccept() failed with error: 10061
+03:01:00 [SocketManager] WSAAccept() failed with error: 10061
+03:01:00 [SocketManager] WSAAccept() failed with error: 10061
+03:31:14 [ServerManager][3] DelServer (127.0.0.1)
+03:42:50 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+03:44:40 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+03:45:48 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+03:49:21 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+03:50:33 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+03:52:21 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+03:53:33 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+03:55:31 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+03:56:54 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+03:57:51 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+03:59:15 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:01:26 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:02:42 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:03:50 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:05:02 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:07:14 [SocketManager] WSAAccept() failed with error: 10061
+04:07:14 [SocketManager] WSAAccept() failed with error: 10061
+04:07:30 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:07:40 [SocketManager] WSAAccept() failed with error: 10061
+04:07:40 [SocketManager] WSAAccept() failed with error: 10061
+04:08:06 [SocketManager] WSAAccept() failed with error: 10061
+04:08:06 [SocketManager] WSAAccept() failed with error: 10061
+04:08:32 [SocketManager] WSAAccept() failed with error: 10061
+04:08:32 [SocketManager] WSAAccept() failed with error: 10061
+04:08:54 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:08:57 [SocketManager] WSAAccept() failed with error: 10061
+04:08:57 [SocketManager] WSAAccept() failed with error: 10061
+04:11:03 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:12:15 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:13:45 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:15:15 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:16:33 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:17:54 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:20:46 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:22:14 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:25:02 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:26:14 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:27:34 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:28:53 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:32:00 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:33:14 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:34:30 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:35:54 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:37:33 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:38:54 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:40:42 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:41:56 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:45:39 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:46:56 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:48:30 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:49:54 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:51:24 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:52:54 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:54:24 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:55:55 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+04:57:18 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+04:58:30 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:01:55 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:03:15 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:04:57 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:06:16 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:08:01 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:09:15 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:10:53 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:12:16 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:18:47 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:19:59 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:23:15 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:24:36 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:26:22 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:27:38 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:29:09 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:30:36 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:31:56 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:33:15 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:34:54 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:36:14 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:38:03 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:39:15 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:42:08 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:43:35 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:44:55 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:46:15 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:48:46 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:50:15 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:50:16 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:51:27 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:52:19 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:53:35 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:54:39 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:55:55 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:57:03 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+05:58:15 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+05:59:10 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:00:35 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:01:44 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:02:55 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:03:57 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:05:15 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:06:08 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:07:35 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:08:10 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:09:36 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:10:15 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:11:35 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:14:19 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:15:35 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:16:36 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:17:56 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:18:52 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:20:15 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:21:09 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:22:35 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:23:34 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:24:56 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:26:01 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:27:15 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:28:32 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:29:55 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:31:17 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:32:32 [ServerManager][3] AddServer (127.0.0.1)
+06:32:32 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+06:32:36 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:33:50 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:35:00 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:36:06 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:37:36 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:38:38 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:39:56 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:41:02 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:42:15 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:42:28 [SocketManager] WSAAccept() failed with error: 10061
+06:42:28 [SocketManager] WSAAccept() failed with error: 10061
+06:42:51 [SocketManager] WSAAccept() failed with error: 10061
+06:42:51 [SocketManager] WSAAccept() failed with error: 10061
+06:43:15 [SocketManager] WSAAccept() failed with error: 10061
+06:43:15 [SocketManager] WSAAccept() failed with error: 10061
+06:43:26 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:43:38 [SocketManager] WSAAccept() failed with error: 10061
+06:43:38 [SocketManager] WSAAccept() failed with error: 10061
+06:44:02 [SocketManager] WSAAccept() failed with error: 10061
+06:44:02 [SocketManager] WSAAccept() failed with error: 10061
+06:44:25 [SocketManager] WSAAccept() failed with error: 10061
+06:44:25 [SocketManager] WSAAccept() failed with error: 10061
+06:44:44 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:44:48 [SocketManager] WSAAccept() failed with error: 10061
+06:44:48 [SocketManager] WSAAccept() failed with error: 10061
+06:45:12 [SocketManager] WSAAccept() failed with error: 10061
+06:45:12 [SocketManager] WSAAccept() failed with error: 10061
+06:45:35 [SocketManager] WSAAccept() failed with error: 10061
+06:45:35 [SocketManager] WSAAccept() failed with error: 10061
+06:45:56 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:45:59 [SocketManager] WSAAccept() failed with error: 10061
+06:45:59 [SocketManager] WSAAccept() failed with error: 10061
+06:46:22 [SocketManager] WSAAccept() failed with error: 10061
+06:46:22 [SocketManager] WSAAccept() failed with error: 10061
+06:46:46 [SocketManager] WSAAccept() failed with error: 10061
+06:46:46 [SocketManager] WSAAccept() failed with error: 10061
+06:47:07 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:47:09 [SocketManager] WSAAccept() failed with error: 10061
+06:47:09 [SocketManager] WSAAccept() failed with error: 10061
+06:47:33 [SocketManager] WSAAccept() failed with error: 10061
+06:47:33 [SocketManager] WSAAccept() failed with error: 10061
+06:47:56 [SocketManager] WSAAccept() failed with error: 10061
+06:47:56 [SocketManager] WSAAccept() failed with error: 10061
+06:48:19 [SocketManager] WSAAccept() failed with error: 10061
+06:48:19 [SocketManager] WSAAccept() failed with error: 10061
+06:48:43 [SocketManager] WSAAccept() failed with error: 10061
+06:48:43 [SocketManager] WSAAccept() failed with error: 10061
+06:49:06 [SocketManager] WSAAccept() failed with error: 10061
+06:49:06 [SocketManager] WSAAccept() failed with error: 10061
+06:49:30 [SocketManager] WSAAccept() failed with error: 10061
+06:49:30 [SocketManager] WSAAccept() failed with error: 10061
+06:49:49 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:49:53 [SocketManager] WSAAccept() failed with error: 10061
+06:49:53 [SocketManager] WSAAccept() failed with error: 10061
+06:50:16 [SocketManager] WSAAccept() failed with error: 10061
+06:50:16 [SocketManager] WSAAccept() failed with error: 10061
+06:50:40 [SocketManager] WSAAccept() failed with error: 10061
+06:50:40 [SocketManager] WSAAccept() failed with error: 10061
+06:51:03 [SocketManager] WSAAccept() failed with error: 10061
+06:51:03 [SocketManager] WSAAccept() failed with error: 10061
+06:51:16 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:51:27 [SocketManager] WSAAccept() failed with error: 10061
+06:51:27 [SocketManager] WSAAccept() failed with error: 10061
+06:51:50 [SocketManager] WSAAccept() failed with error: 10061
+06:51:50 [SocketManager] WSAAccept() failed with error: 10061
+06:52:13 [SocketManager] WSAAccept() failed with error: 10061
+06:52:13 [SocketManager] WSAAccept() failed with error: 10061
+06:52:37 [SocketManager] WSAAccept() failed with error: 10061
+06:52:37 [SocketManager] WSAAccept() failed with error: 10061
+06:52:37 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:53:00 [SocketManager] WSAAccept() failed with error: 10061
+06:53:00 [SocketManager] WSAAccept() failed with error: 10061
+06:53:24 [SocketManager] WSAAccept() failed with error: 10061
+06:53:24 [SocketManager] WSAAccept() failed with error: 10061
+06:53:47 [SocketManager] WSAAccept() failed with error: 10061
+06:53:47 [SocketManager] WSAAccept() failed with error: 10061
+06:53:56 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:54:10 [SocketManager] WSAAccept() failed with error: 10061
+06:54:10 [SocketManager] WSAAccept() failed with error: 10061
+06:54:34 [SocketManager] WSAAccept() failed with error: 10061
+06:54:34 [SocketManager] WSAAccept() failed with error: 10061
+06:54:57 [SocketManager] WSAAccept() failed with error: 10061
+06:54:57 [SocketManager] WSAAccept() failed with error: 10061
+06:55:21 [SocketManager] WSAAccept() failed with error: 10061
+06:55:21 [SocketManager] WSAAccept() failed with error: 10061
+06:55:36 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:55:44 [SocketManager] WSAAccept() failed with error: 10061
+06:55:44 [SocketManager] WSAAccept() failed with error: 10061
+06:56:08 [SocketManager] WSAAccept() failed with error: 10061
+06:56:08 [SocketManager] WSAAccept() failed with error: 10061
+06:56:31 [SocketManager] WSAAccept() failed with error: 10061
+06:56:31 [SocketManager] WSAAccept() failed with error: 10061
+06:56:54 [SocketManager] WSAAccept() failed with error: 10061
+06:56:54 [SocketManager] WSAAccept() failed with error: 10061
+06:56:56 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:57:18 [SocketManager] WSAAccept() failed with error: 10061
+06:57:18 [SocketManager] WSAAccept() failed with error: 10061
+06:57:41 [SocketManager] WSAAccept() failed with error: 10061
+06:57:41 [SocketManager] WSAAccept() failed with error: 10061
+06:58:05 [SocketManager] WSAAccept() failed with error: 10061
+06:58:05 [SocketManager] WSAAccept() failed with error: 10061
+06:58:25 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+06:58:28 [SocketManager] WSAAccept() failed with error: 10061
+06:58:28 [SocketManager] WSAAccept() failed with error: 10061
+06:58:52 [SocketManager] WSAAccept() failed with error: 10061
+06:58:52 [SocketManager] WSAAccept() failed with error: 10061
+06:59:15 [SocketManager] WSAAccept() failed with error: 10061
+06:59:15 [SocketManager] WSAAccept() failed with error: 10061
+06:59:36 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+06:59:36 [SocketManager] WSAAccept() failed with error: 10061
+06:59:36 [SocketManager] WSAAccept() failed with error: 10061
+06:59:58 [SocketManager] WSAAccept() failed with error: 10061
+06:59:58 [SocketManager] WSAAccept() failed with error: 10061
+07:00:19 [SocketManager] WSAAccept() failed with error: 10061
+07:00:19 [SocketManager] WSAAccept() failed with error: 10061
+07:00:41 [SocketManager] WSAAccept() failed with error: 10061
+07:00:41 [SocketManager] WSAAccept() failed with error: 10061
+07:00:56 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+07:01:02 [SocketManager] WSAAccept() failed with error: 10061
+07:01:02 [SocketManager] WSAAccept() failed with error: 10061
+07:01:24 [SocketManager] WSAAccept() failed with error: 10061
+07:01:24 [SocketManager] WSAAccept() failed with error: 10061
+07:01:45 [SocketManager] WSAAccept() failed with error: 10061
+07:01:45 [SocketManager] WSAAccept() failed with error: 10061
+07:02:06 [SocketManager] WSAAccept() failed with error: 10061
+07:02:06 [SocketManager] WSAAccept() failed with error: 10061
+07:02:18 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+07:02:28 [SocketManager] WSAAccept() failed with error: 10061
+07:02:28 [SocketManager] WSAAccept() failed with error: 10061
+07:02:49 [SocketManager] WSAAccept() failed with error: 10061
+07:02:49 [SocketManager] WSAAccept() failed with error: 10061
+07:05:00 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+07:06:10 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+07:07:48 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+07:09:01 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+07:10:34 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+07:11:56 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+07:13:28 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+07:14:56 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+07:16:14 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+07:24:39 [ServerManager][3] DelServer (127.0.0.1)
+07:27:27 [ServerManager][2] DelServer (127.0.0.1)
+07:42:01 [SocketManager] Server started at port [55970]
+07:42:01 [SocketManager] Server started at port [55557]
+07:42:04 [ServerManager][0] AddServer (127.0.0.1)
+07:42:04 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+07:42:08 [ServerManager][1] AddServer (127.0.0.1)
+07:46:32 [ServerManager][2] AddServer (127.0.0.1)
+07:46:32 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+07:46:41 [ServerManager][3] AddServer (127.0.0.1)
+07:46:41 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+07:56:06 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+07:57:25 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+07:58:50 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+08:00:21 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+08:01:48 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+08:05:04 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+08:06:28 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+08:07:15 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+08:10:45 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+08:12:15 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+08:13:30 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+08:14:21 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+08:15:35 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+08:17:24 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+08:18:50 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+08:22:25 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+08:23:40 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+08:26:45 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+08:27:57 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+08:31:09 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+08:32:20 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+08:33:49 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+08:35:00 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+08:36:28 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+08:37:38 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+08:39:16 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+08:40:32 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+08:42:10 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+08:43:32 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+08:46:43 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+08:48:13 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+08:49:22 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+08:50:52 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+08:52:00 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:0][Account:1111]
+08:52:13 [ServerManager][1] DelServer (127.0.0.1)
+08:52:19 [ServerManager][3] DelServer (127.0.0.1)
+08:57:04 [SocketManager] Server started at port [55970]
+08:57:04 [SocketManager] Server started at port [55557]
+08:57:04 [ServerManager][0] AddServer (127.0.0.1)
+08:57:12 [ServerManager][1] AddServer (127.0.0.1)
+08:57:12 [ServerManager][1] ServerInfo (ChatServer) (55906) (65533)
+08:57:16 [ServerManager][2] AddServer (127.0.0.1)
+08:57:16 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+08:59:42 [ServerManager][3] AddServer (127.0.0.1)
+08:59:42 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+09:01:25 [ServerManager][0] DelServer (127.0.0.1)
+09:01:28 [ServerManager][3] DelServer (127.0.0.1)
+09:01:30 [ServerManager][2] DelServer (127.0.0.1)
+09:18:12 [SocketManager] Server started at port [55970]
+09:18:12 [SocketManager] Server started at port [55557]
+09:18:12 [ServerManager][0] AddServer (127.0.0.1)
+09:18:12 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+09:18:14 [ServerManager][1] AddServer (127.0.0.1)
+09:18:27 [ServerManager][2] AddServer (127.0.0.1)
+09:18:27 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+09:18:39 [ServerManager][3] AddServer (127.0.0.1)
+09:18:39 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+09:24:22 [ServerManager][3] DelServer (127.0.0.1)
+09:24:26 [ServerManager][2] DelServer (127.0.0.1)
+09:25:44 [SocketManager] Server started at port [55970]
+09:25:44 [SocketManager] Server started at port [55557]
+09:25:47 [ServerManager][0] AddServer (127.0.0.1)
+09:25:47 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+09:25:52 [ServerManager][1] AddServer (127.0.0.1)
+09:26:09 [ServerManager][2] AddServer (127.0.0.1)
+09:26:09 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+09:27:00 [ServerManager][1] DelServer (127.0.0.1)
+09:27:23 [ServerManager][1] AddServer (127.0.0.1)
+16:11:09 [ServerManager][1] DelServer (127.0.0.1)
+16:11:16 [ServerManager][2] DelServer (127.0.0.1)
+16:13:26 [SocketManager] Server started at port [55970]
+16:13:26 [SocketManager] Server started at port [55557]
+16:13:29 [ServerManager][0] AddServer (127.0.0.1)
+16:13:29 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+16:13:31 [ServerManager][1] AddServer (127.0.0.1)
+16:13:44 [ServerManager][2] AddServer (127.0.0.1)
+16:13:44 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+16:14:00 [ServerManager][3] AddServer (127.0.0.1)
+16:14:00 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+16:17:40 [ServerManager][1] DelServer (127.0.0.1)
+16:17:45 [ServerManager][3] DelServer (127.0.0.1)
+16:17:49 [ServerManager][2] DelServer (127.0.0.1)
+16:43:55 [SocketManager] Server started at port [55970]
+16:43:55 [SocketManager] Server started at port [55557]
+16:43:56 [ServerManager][0] AddServer (127.0.0.1)
+16:43:56 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+16:43:58 [ServerManager][1] AddServer (127.0.0.1)
+16:43:58 [SocketManager] WSAAccept() failed with error: 10061
+16:43:58 [SocketManager] WSAAccept() failed with error: 10061
+16:43:58 [SocketManager] WSAAccept() failed with error: 10061
+16:43:58 [SocketManager] WSAAccept() failed with error: 10061
+16:46:02 [SocketManager] Server started at port [55970]
+16:46:02 [SocketManager] Server started at port [55557]
+16:46:04 [SocketManager] WSAAccept() failed with error: 10061
+16:46:04 [SocketManager] WSAAccept() failed with error: 10061
+16:46:04 [SocketManager] WSAAccept() failed with error: 10061
+16:46:04 [SocketManager] WSAAccept() failed with error: 10061
+16:46:09 [ServerManager][0] AddServer (127.0.0.1)
+16:46:10 [ServerManager][1] AddServer (127.0.0.1)
+16:46:10 [ServerManager][1] ServerInfo (ChatServer) (55906) (65533)
+16:47:02 [ServerManager][0] DelServer (127.0.0.1)
+16:47:06 [ServerManager][1] DelServer (127.0.0.1)
+18:55:01 [SocketManager] Server started at port [55970]
+18:55:01 [SocketManager] Server started at port [55557]
+18:55:01 [ServerManager][0] AddServer (127.0.0.1)
+18:55:06 [ServerManager][1] AddServer (127.0.0.1)
+18:55:06 [ServerManager][1] ServerInfo (ChatServer) (55906) (65533)
+18:56:27 [SocketManager] WSAAccept() failed with error: 10061
+18:56:27 [SocketManager] WSAAccept() failed with error: 10061
+18:56:27 [SocketManager] WSAAccept() failed with error: 10061
+18:56:27 [SocketManager] WSAAccept() failed with error: 10061
+18:58:17 [SocketManager] WSAAccept() failed with error: 10061
+18:58:17 [SocketManager] WSAAccept() failed with error: 10061
+19:03:17 [SocketManager] WSAAccept() failed with error: 10061
+19:03:17 [SocketManager] WSAAccept() failed with error: 10061
+19:08:17 [SocketManager] WSAAccept() failed with error: 10061
+19:08:17 [SocketManager] WSAAccept() failed with error: 10061
+19:13:16 [SocketManager] WSAAccept() failed with error: 10061
+19:13:16 [SocketManager] WSAAccept() failed with error: 10061
+19:18:16 [SocketManager] WSAAccept() failed with error: 10061
+19:18:16 [SocketManager] WSAAccept() failed with error: 10061
+19:22:58 [ServerManager][0] DelServer (127.0.0.1)
+19:23:06 [ServerManager][2] AddServer (127.0.0.1)
+19:23:15 [SocketManager] WSAAccept() failed with error: 10061
+19:23:15 [SocketManager] WSAAccept() failed with error: 10061
+19:28:15 [SocketManager] WSAAccept() failed with error: 10061
+19:28:15 [SocketManager] WSAAccept() failed with error: 10061
+20:24:43 [SocketManager] WSAAccept() failed with error: 10061
+20:24:43 [SocketManager] WSAAccept() failed with error: 10061
+20:25:10 [ServerManager][2] DelServer (127.0.0.1)
+20:31:31 [SocketManager] Server started at port [55970]
+20:31:31 [SocketManager] Server started at port [55557]
+20:31:31 [ServerManager][0] AddServer (127.0.0.1)
+20:31:31 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+20:31:32 [ServerManager][1] AddServer (127.0.0.1)
+20:31:44 [ServerManager][2] AddServer (127.0.0.1)
+20:31:44 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+20:31:55 [ServerManager][3] AddServer (127.0.0.1)
+20:31:55 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+20:33:56 [SocketManager] WSAAccept() failed with error: 10061
+20:33:56 [SocketManager] WSAAccept() failed with error: 10061
+20:34:58 [AllowConectionManager][ADD][+][HWID:22D4BF3F-A2CA84DA-B268E074-B01EEDA1-69746E65-0000000D-178BFBFF-7ED8320B][ConectionCount:1][Account:1111]
+20:37:32 [SocketManager] WSAAccept() failed with error: 10061
+20:37:32 [SocketManager] WSAAccept() failed with error: 10061
+20:41:07 [SocketManager] WSAAccept() failed with error: 10061
+20:41:07 [SocketManager] WSAAccept() failed with error: 10061
+20:44:43 [SocketManager] WSAAccept() failed with error: 10061
+20:44:43 [SocketManager] WSAAccept() failed with error: 10061
+20:48:18 [SocketManager] WSAAccept() failed with error: 10061
+20:48:18 [SocketManager] WSAAccept() failed with error: 10061
+20:51:54 [SocketManager] WSAAccept() failed with error: 10061
+20:51:54 [SocketManager] WSAAccept() failed with error: 10061
+20:55:29 [SocketManager] WSAAccept() failed with error: 10061
+20:55:29 [SocketManager] WSAAccept() failed with error: 10061
+20:59:05 [SocketManager] WSAAccept() failed with error: 10061
+20:59:05 [SocketManager] WSAAccept() failed with error: 10061
+21:02:40 [SocketManager] WSAAccept() failed with error: 10061
+21:02:40 [SocketManager] WSAAccept() failed with error: 10061
+21:06:16 [SocketManager] WSAAccept() failed with error: 10061
+21:06:16 [SocketManager] WSAAccept() failed with error: 10061
+21:09:51 [SocketManager] WSAAccept() failed with error: 10061
+21:09:51 [SocketManager] WSAAccept() failed with error: 10061
+21:13:27 [SocketManager] WSAAccept() failed with error: 10061
+21:13:27 [SocketManager] WSAAccept() failed with error: 10061
+21:17:02 [SocketManager] WSAAccept() failed with error: 10061
+21:17:02 [SocketManager] WSAAccept() failed with error: 10061
+21:20:38 [SocketManager] WSAAccept() failed with error: 10061
+21:20:38 [SocketManager] WSAAccept() failed with error: 10061
+21:24:13 [SocketManager] WSAAccept() failed with error: 10061
+21:24:13 [SocketManager] WSAAccept() failed with error: 10061
+21:27:49 [SocketManager] WSAAccept() failed with error: 10061
+21:27:49 [SocketManager] WSAAccept() failed with error: 10061
+21:31:24 [SocketManager] WSAAccept() failed with error: 10061
+21:31:24 [SocketManager] WSAAccept() failed with error: 10061
+21:34:59 [SocketManager] WSAAccept() failed with error: 10061
+21:34:59 [SocketManager] WSAAccept() failed with error: 10061
+21:38:35 [SocketManager] WSAAccept() failed with error: 10061
+21:38:35 [SocketManager] WSAAccept() failed with error: 10061
+21:42:10 [SocketManager] WSAAccept() failed with error: 10061
+21:42:10 [SocketManager] WSAAccept() failed with error: 10061
+21:45:46 [SocketManager] WSAAccept() failed with error: 10061
+21:45:46 [SocketManager] WSAAccept() failed with error: 10061
+21:49:21 [SocketManager] WSAAccept() failed with error: 10061
+21:49:21 [SocketManager] WSAAccept() failed with error: 10061
+21:52:57 [SocketManager] WSAAccept() failed with error: 10061
+21:52:57 [SocketManager] WSAAccept() failed with error: 10061
+21:56:32 [SocketManager] WSAAccept() failed with error: 10061
+21:56:32 [SocketManager] WSAAccept() failed with error: 10061
+22:00:08 [SocketManager] WSAAccept() failed with error: 10061
+22:00:08 [SocketManager] WSAAccept() failed with error: 10061
+22:03:43 [SocketManager] WSAAccept() failed with error: 10061
+22:03:43 [SocketManager] WSAAccept() failed with error: 10061
+22:07:19 [SocketManager] WSAAccept() failed with error: 10061
+22:07:19 [SocketManager] WSAAccept() failed with error: 10061
+22:10:54 [SocketManager] WSAAccept() failed with error: 10061
+22:10:54 [SocketManager] WSAAccept() failed with error: 10061
+22:14:30 [SocketManager] WSAAccept() failed with error: 10061
+22:14:30 [SocketManager] WSAAccept() failed with error: 10061
+22:18:05 [SocketManager] WSAAccept() failed with error: 10061
+22:18:05 [SocketManager] WSAAccept() failed with error: 10061
+22:21:41 [SocketManager] WSAAccept() failed with error: 10061
+22:21:41 [SocketManager] WSAAccept() failed with error: 10061
+22:25:16 [SocketManager] WSAAccept() failed with error: 10061
+22:25:16 [SocketManager] WSAAccept() failed with error: 10061
+22:28:52 [SocketManager] WSAAccept() failed with error: 10061
+22:28:52 [SocketManager] WSAAccept() failed with error: 10061
+22:32:27 [SocketManager] WSAAccept() failed with error: 10061
+22:32:27 [SocketManager] WSAAccept() failed with error: 10061
+22:36:03 [SocketManager] WSAAccept() failed with error: 10061
+22:36:03 [SocketManager] WSAAccept() failed with error: 10061
+22:39:38 [SocketManager] WSAAccept() failed with error: 10061
+22:39:38 [SocketManager] WSAAccept() failed with error: 10061
+22:43:14 [SocketManager] WSAAccept() failed with error: 10061
+22:43:14 [SocketManager] WSAAccept() failed with error: 10061
+22:46:49 [SocketManager] WSAAccept() failed with error: 10061
+22:46:49 [SocketManager] WSAAccept() failed with error: 10061
+22:50:25 [SocketManager] WSAAccept() failed with error: 10061
+22:50:25 [SocketManager] WSAAccept() failed with error: 10061
+22:54:00 [SocketManager] WSAAccept() failed with error: 10061
+22:54:00 [SocketManager] WSAAccept() failed with error: 10061
+22:57:36 [SocketManager] WSAAccept() failed with error: 10061
+22:57:36 [SocketManager] WSAAccept() failed with error: 10061
+23:01:11 [SocketManager] WSAAccept() failed with error: 10061
+23:01:11 [SocketManager] WSAAccept() failed with error: 10061
+23:04:47 [SocketManager] WSAAccept() failed with error: 10061
+23:04:47 [SocketManager] WSAAccept() failed with error: 10061
+23:08:22 [SocketManager] WSAAccept() failed with error: 10061
+23:08:22 [SocketManager] WSAAccept() failed with error: 10061
+23:11:57 [SocketManager] WSAAccept() failed with error: 10061
+23:11:57 [SocketManager] WSAAccept() failed with error: 10061
+23:15:33 [SocketManager] WSAAccept() failed with error: 10061
+23:15:33 [SocketManager] WSAAccept() failed with error: 10061
+23:19:08 [SocketManager] WSAAccept() failed with error: 10061
+23:19:08 [SocketManager] WSAAccept() failed with error: 10061
+23:22:44 [SocketManager] WSAAccept() failed with error: 10061
+23:22:44 [SocketManager] WSAAccept() failed with error: 10061
+23:26:19 [SocketManager] WSAAccept() failed with error: 10061
+23:26:19 [SocketManager] WSAAccept() failed with error: 10061
+23:29:55 [SocketManager] WSAAccept() failed with error: 10061
+23:29:55 [SocketManager] WSAAccept() failed with error: 10061
+23:33:30 [SocketManager] WSAAccept() failed with error: 10061
+23:33:30 [SocketManager] WSAAccept() failed with error: 10061
+23:37:06 [SocketManager] WSAAccept() failed with error: 10061
+23:37:06 [SocketManager] WSAAccept() failed with error: 10061
+23:40:41 [SocketManager] WSAAccept() failed with error: 10061
+23:40:41 [SocketManager] WSAAccept() failed with error: 10061
+23:44:17 [SocketManager] WSAAccept() failed with error: 10061
+23:44:17 [SocketManager] WSAAccept() failed with error: 10061
+23:47:52 [SocketManager] WSAAccept() failed with error: 10061
+23:47:52 [SocketManager] WSAAccept() failed with error: 10061
+23:51:28 [SocketManager] WSAAccept() failed with error: 10061
+23:51:28 [SocketManager] WSAAccept() failed with error: 10061
+23:55:03 [SocketManager] WSAAccept() failed with error: 10061
+23:55:03 [SocketManager] WSAAccept() failed with error: 10061
+23:58:39 [SocketManager] WSAAccept() failed with error: 10061
+23:58:39 [SocketManager] WSAAccept() failed with error: 10061

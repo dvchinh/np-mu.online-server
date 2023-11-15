@@ -1,0 +1,25 @@
+07:43:15 [SocketManager] Server started at port [55981]
+07:43:44 [ServerManager][0] AddServer (127.0.0.1)
+07:43:44 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+07:43:55 [ServerManager][1] AddServer (127.0.0.1)
+07:43:55 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+09:51:21 [ServerManager][1] DelServer (127.0.0.1)
+09:51:26 [ServerManager][0] DelServer (127.0.0.1)
+09:58:08 [SocketManager] Server started at port [55981]
+10:02:30 [SocketManager] Server started at port [55981]
+10:04:51 [ServerManager][0] AddServer (127.0.0.1)
+10:04:51 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+10:04:57 [ServerManager][0] DelServer (127.0.0.1)
+10:05:47 [ServerManager][0] AddServer (127.0.0.1)
+10:05:47 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+10:06:18 [ServerManager][0] DelServer (127.0.0.1)
+10:06:33 [ServerManager][0] AddServer (127.0.0.1)
+10:06:33 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+10:06:38 [ServerManager][0] DelServer (127.0.0.1)
+15:59:17 [SocketManager] Server started at port [55981]
+15:59:44 [ServerManager][0] AddServer (127.0.0.1)
+15:59:44 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+15:59:56 [ServerManager][1] AddServer (127.0.0.1)
+15:59:56 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+21:22:46 [ServerManager][1] DelServer (127.0.0.1)
+21:22:53 [ServerManager][0] DelServer (127.0.0.1)

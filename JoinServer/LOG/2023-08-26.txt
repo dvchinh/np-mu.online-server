@@ -1,0 +1,21 @@
+19:22:53 [SocketManager] Server started at port [55970]
+19:22:53 [SocketManager] Server started at port [55557]
+19:22:53 [ServerManager][0] AddServer (127.0.0.1)
+19:22:54 [ServerManager][1] AddServer (127.0.0.1)
+19:22:54 [ServerManager][1] ServerInfo (ChatServer) (55906) (65533)
+19:23:00 [ServerManager][2] AddServer (127.0.0.1)
+19:23:00 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+19:23:08 [ServerManager][3] AddServer (127.0.0.1)
+19:23:08 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+19:42:13 [AllowConectionManager][ADD][+][HWID:7B9FB15D-A6CEF7BD-CC018F7C-CB79EAD6-49656E69-00000016-BFEBFBFF-4FFAEBBF][ConectionCount:1][Account:1111]
+19:43:50 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:7B9FB15D-A6CEF7BD-CC018F7C-CB79EAD6-49656E69-00000016-BFEBFBFF-4FFAEBBF][ConectionCount:0][Account:1111]
+19:43:55 [AllowConectionManager][ADD][+][HWID:7B9FB15D-A6CEF7BD-CC018F7C-CB79EAD6-49656E69-00000016-BFEBFBFF-4FFAEBBF][ConectionCount:1][Account:2222]
+19:46:48 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:7B9FB15D-A6CEF7BD-CC018F7C-CB79EAD6-49656E69-00000016-BFEBFBFF-4FFAEBBF][ConectionCount:0][Account:2222]
+20:01:39 [AllowConectionManager][ADD][+][HWID:7B9FB15D-A6CEF7BD-CC018F7C-CB79EAD6-49656E69-00000016-BFEBFBFF-4FFAEBBF][ConectionCount:1][Account:1111]
+20:56:41 [AllowConectionManager][CHANGE][OK][HWID:7B9FB15D-A6CEF7BD-CC018F7C-CB79EAD6-49656E69-00000016-BFEBFBFF-4FFAEBBF][Account:1111][ServerCode:19][LastServerCode:20]
+21:09:35 [AllowConectionManager][CHANGE][OK][HWID:7B9FB15D-A6CEF7BD-CC018F7C-CB79EAD6-49656E69-00000016-BFEBFBFF-4FFAEBBF][Account:1111][ServerCode:20][LastServerCode:19]
+21:48:35 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:7B9FB15D-A6CEF7BD-CC018F7C-CB79EAD6-49656E69-00000016-BFEBFBFF-4FFAEBBF][ConectionCount:0][Account:1111]
+21:52:23 [AllowConectionManager][ADD][+][HWID:7B9FB15D-A6CEF7BD-CC018F7C-CB79EAD6-49656E69-00000016-BFEBFBFF-4FFAEBBF][ConectionCount:1][Account:1111]
+21:54:49 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:7B9FB15D-A6CEF7BD-CC018F7C-CB79EAD6-49656E69-00000016-BFEBFBFF-4FFAEBBF][ConectionCount:0][Account:1111]
+21:54:56 [ServerManager][2] DelServer (127.0.0.1)
+21:54:57 [ServerManager][3] DelServer (127.0.0.1)
