@@ -118,7 +118,7 @@ CommandPKClearMoney_AL3 = 0
 ; Money Command Settings
 ; /money <number>
 ;==================================================
-CommandMoneySwitch = 1
+CommandMoneySwitch = 0
 CommandMoneyEnable_AL0 = 1
 CommandMoneyEnable_AL1 = 1
 CommandMoneyEnable_AL2 = 1
@@ -128,7 +128,7 @@ CommandMoneyEnable_AL3 = 1
 ; Change Evolution Class Command Settings
 ; /change
 ;==================================================
-CommandChangeSwitch = 1
+CommandChangeSwitch = 0
 CommandChangeEnable_AL0 = 1
 CommandChangeEnable_AL1 = 1
 CommandChangeEnable_AL2 = 1
