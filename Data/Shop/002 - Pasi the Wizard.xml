@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Shop>
-<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 	<!-- SM -->
 	<TabInfo Index="1">
 		<Item Section="07" Type="002" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Excellent="0" SetOption="0" HarmonyOption="0" OptionEx="0" SocketOption0="-1" SocketOption1="-1" SocketOption2="-1" SocketOption3="-1" SocketOption4="-1" SocketOptionBonus="-1" SocketOptionEx0="-1" SocketOptionEx1="-1" SocketOptionEx2="-1" HarmonyOptionEx0="-1" HarmonyOptionEx1="-1" HarmonyOptionEx2="-1" Duration="0" Name="Pad Helm"  />
@@ -29,7 +28,6 @@
 		<Item Section="05" Type="005" Level="3" Durability="0" Skill="1" Luck="1" Option="4" Excellent="0" SetOption="0" HarmonyOption="0" OptionEx="0" SocketOption0="-1" SocketOption1="-1" SocketOption2="-1" SocketOption3="-1" SocketOption4="-1" SocketOptionBonus="-1" SocketOptionEx0="-1" SocketOptionEx1="-1" SocketOptionEx2="-1" HarmonyOptionEx0="-1" HarmonyOptionEx1="-1" HarmonyOptionEx2="-1" Duration="0" Name="Legendary Staff"  />		
 		<Item Section="06" Type="014" Level="3" Durability="0" Skill="1" Luck="1" Option="4" Excellent="0" SetOption="0" HarmonyOption="0" OptionEx="0" SocketOption0="-1" SocketOption1="-1" SocketOption2="-1" SocketOption3="-1" SocketOption4="-1" SocketOptionBonus="-1" SocketOptionEx0="-1" SocketOptionEx1="-1" SocketOptionEx2="-1" HarmonyOptionEx0="-1" HarmonyOptionEx1="-1" HarmonyOptionEx2="-1" Duration="0" Name="Legendary Shield"  />
 	</TabInfo>
-	<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 	<!-- RW -->
 	<TabInfo Index="2">
 	
@@ -62,7 +60,6 @@
 		
 
 	</TabInfo>
-	<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 	<!-- Skills -->
 	<TabInfo Index="3">
 		<Item Section="15" Type="001" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Excellent="0" SetOption="0" HarmonyOption="0" OptionEx="0" SocketOption0="-1" SocketOption1="-1" SocketOption2="-1" SocketOption3="-1" SocketOption4="-1" SocketOptionBonus="-1" SocketOptionEx0="-1" SocketOptionEx1="-1" SocketOptionEx2="-1" HarmonyOptionEx0="-1" HarmonyOptionEx1="-1" HarmonyOptionEx2="-1" Duration="0" Name="Scroll of Meteorite"  />
@@ -110,7 +107,6 @@
 		<Item Section="15" Type="49" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Excellent="0" SetOption="0" HarmonyOption="0" OptionEx="0" SocketOption0="-1" SocketOption1="-1" SocketOption2="-1" SocketOption3="-1" SocketOption4="-1" SocketOptionBonus="-1" SocketOptionEx0="-1" SocketOptionEx1="-1" SocketOptionEx2="-1" HarmonyOptionEx0="-1" HarmonyOptionEx1="-1" HarmonyOptionEx2="-1" Duration="0" Name="Crusher Charge Orb"  />
 		<Item Section="15" Type="50" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Excellent="0" SetOption="0" HarmonyOption="0" OptionEx="0" SocketOption0="-1" SocketOption1="-1" SocketOption2="-1" SocketOption3="-1" SocketOption4="-1" SocketOptionBonus="-1" SocketOptionEx0="-1" SocketOptionEx1="-1" SocketOptionEx2="-1" HarmonyOptionEx0="-1" HarmonyOptionEx1="-1" HarmonyOptionEx2="-1" Duration="0" Name="Crusher Charge Orb"  />
 	</TabInfo>
-	<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 	<!-- Potions -->
 	<TabInfo Index="4">
 		<Item Section="14" Type="000" Level="0" Durability="001" Skill="0" Luck="0" Option="0" Excellent="0" SetOption="0" HarmonyOption="0" OptionEx="0" SocketOption0="-1" SocketOption1="-1" SocketOption2="-1" SocketOption3="-1" SocketOption4="-1" SocketOptionBonus="-1" SocketOptionEx0="-1" SocketOptionEx1="-1" SocketOptionEx2="-1" HarmonyOptionEx0="-1" HarmonyOptionEx1="-1" HarmonyOptionEx2="-1" Duration="0" Name="Apple"  />
@@ -179,6 +175,13 @@
 		<Item Section="12" Type="070" Level="0" Durability="000" Skill="0" Luck="0" Option="0" Excellent="0" SetOption="0" HarmonyOption="0" OptionEx="0" SocketOption0="-1" SocketOption1="-1" SocketOption2="-1" SocketOption3="-1" SocketOption4="-1" SocketOptionBonus="-1" SocketOptionEx0="-1" SocketOptionEx1="-1" SocketOptionEx2="-1" HarmonyOptionEx0="-1" HarmonyOptionEx1="-1" HarmonyOptionEx2="-1" Duration="0" Name="Sphere"  />
 		<Item Section="13" Type="029" Level="0" Durability="000" Skill="0" Luck="0" Option="0" Excellent="0" SetOption="0" HarmonyOption="0" OptionEx="0" SocketOption0="-1" SocketOption1="-1" SocketOption2="-1" SocketOption3="-1" SocketOption4="-1" SocketOptionBonus="-1" SocketOptionEx0="-1" SocketOptionEx1="-1" SocketOptionEx2="-1" HarmonyOptionEx0="-1" HarmonyOptionEx1="-1" HarmonyOptionEx2="-1" Duration="0" Name="Armor of Guardsman"  />
 	</TabInfo>
-<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-
+	<!-- DL's Skills -->
+	<TabInfo Index="5">
+		<Item Section="12" Type="021" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Excellent="0" SetOption="0" HarmonyOption="0" OptionEx="0" SocketOption0="-1" SocketOption1="-1" SocketOption2="-1" SocketOption3="-1" SocketOption4="-1" SocketOptionBonus="-1" SocketOptionEx0="-1" SocketOptionEx1="-1" SocketOptionEx2="-1" HarmonyOptionEx0="-1" HarmonyOptionEx1="-1" HarmonyOptionEx2="-1" Duration="0" Name="Scroll of Fire Burst" />
+		<Item Section="12" Type="023" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Excellent="0" SetOption="0" HarmonyOption="0" OptionEx="0" SocketOption0="-1" SocketOption1="-1" SocketOption2="-1" SocketOption3="-1" SocketOption4="-1" SocketOptionBonus="-1" SocketOptionEx0="-1" SocketOptionEx1="-1" SocketOptionEx2="-1" HarmonyOptionEx0="-1" HarmonyOptionEx1="-1" HarmonyOptionEx2="-1" Duration="0" Name="Scroll of Critical Damage" />
+		<Item Section="12" Type="024" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Excellent="0" SetOption="0" HarmonyOption="0" OptionEx="0" SocketOption0="-1" SocketOption1="-1" SocketOption2="-1" SocketOption3="-1" SocketOption4="-1" SocketOptionBonus="-1" SocketOptionEx0="-1" SocketOptionEx1="-1" SocketOptionEx2="-1" HarmonyOptionEx0="-1" HarmonyOptionEx1="-1" HarmonyOptionEx2="-1" Duration="0" Name="Scroll of Electric Spark" />
+		<Item Section="12" Type="035" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Excellent="0" SetOption="0" HarmonyOption="0" OptionEx="0" SocketOption0="-1" SocketOption1="-1" SocketOption2="-1" SocketOption3="-1" SocketOption4="-1" SocketOptionBonus="-1" SocketOptionEx0="-1" SocketOptionEx1="-1" SocketOptionEx2="-1" HarmonyOptionEx0="-1" HarmonyOptionEx1="-1" HarmonyOptionEx2="-1" Duration="0" Name="Scroll of Fire Scream" />
+		<Item Section="12" Type="022" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Excellent="0" SetOption="0" HarmonyOption="0" OptionEx="0" SocketOption0="-1" SocketOption1="-1" SocketOption2="-1" SocketOption3="-1" SocketOption4="-1" SocketOptionBonus="-1" SocketOptionEx0="-1" SocketOptionEx1="-1" SocketOptionEx2="-1" HarmonyOptionEx0="-1" HarmonyOptionEx1="-1" HarmonyOptionEx2="-1" Duration="0" Name="Scroll of Summon" />
+		<Item Section="12" Type="048" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Excellent="0" SetOption="0" HarmonyOption="0" OptionEx="0" SocketOption0="-1" SocketOption1="-1" SocketOption2="-1" SocketOption3="-1" SocketOption4="-1" SocketOptionBonus="-1" SocketOptionEx0="-1" SocketOptionEx1="-1" SocketOptionEx2="-1" HarmonyOptionEx0="-1" HarmonyOptionEx1="-1" HarmonyOptionEx2="-1" Duration="0" Name="Scroll of Chaotic Diseier" />
+	</TabInfo>
 </Shop>
