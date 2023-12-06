@@ -165,10 +165,10 @@ CommandResetEnable_AL0 = 1
 CommandResetEnable_AL1 = 1
 CommandResetEnable_AL2 = 1
 CommandResetEnable_AL3 = 1
-CommandResetAutoEnable_AL0 = 1
-CommandResetAutoEnable_AL1 = 1
-CommandResetAutoEnable_AL2 = 1
-CommandResetAutoEnable_AL3 = 1
+CommandResetAutoEnable_AL0 = 0
+CommandResetAutoEnable_AL1 = 0
+CommandResetAutoEnable_AL2 = 0
+CommandResetAutoEnable_AL3 = 0
 CommandResetCheckItem_AL0 = 0
 CommandResetCheckItem_AL1 = 0
 CommandResetCheckItem_AL2 = 0
@@ -196,20 +196,20 @@ CommandResetMoney_AL3 = 1000
 CommandResetCount_AL0 = 1
 CommandResetCount_AL1 = 1
 CommandResetCount_AL2 = 1
-CommandResetCount_AL3 = 1	
+CommandResetCount_AL3 = 1
 CommandResetLimit_AL0 = 500
 CommandResetLimit_AL1 = 500
 CommandResetLimit_AL2 = 500
 CommandResetLimit_AL3 = 500
-CommandResetLimitDay_AL0 = 200
+CommandResetLimitDay_AL0 = 10
 CommandResetLimitDay_AL1 = 200
 CommandResetLimitDay_AL2 = 200
 CommandResetLimitDay_AL3 = 200
-CommandResetLimitWek_AL0 = 200
+CommandResetLimitWek_AL0 = 999
 CommandResetLimitWek_AL1 = 200
 CommandResetLimitWek_AL2 = 200
 CommandResetLimitWek_AL3 = 200
-CommandResetLimitMon_AL0 = 200
+CommandResetLimitMon_AL0 = 9999
 CommandResetLimitMon_AL1 = 200
 CommandResetLimitMon_AL2 = 200
 CommandResetLimitMon_AL3 = 200
@@ -221,7 +221,6 @@ CommandResetPoint_AL0 = 500
 CommandResetPoint_AL1 = 500
 CommandResetPoint_AL2 = 500
 CommandResetPoint_AL3 = 500
-
 CommandResetPointRateDW = 100
 CommandResetPointRateDK = 100
 CommandResetPointRateFE = 100
@@ -241,7 +240,7 @@ CommandResetPointRateIK = 100
 ; Master Reset (Master Level - 400+) Command Settings
 ; /mreset
 ;==================================================
-CommandMasterResetSwitch = 1
+CommandMasterResetSwitch = 0
 CommandMasterResetType = 0
 CommandMasterResetEnable_AL0 = 1
 CommandMasterResetEnable_AL1 = 1
@@ -326,7 +325,7 @@ CommandMasterResetPointRateIK = 100
 ; Enhance Reset (Enhanced Level - 800+) Command Settings
 ; /ereset
 ;==================================================
-CommandEnhanceResetSwitch = 1
+CommandEnhanceResetSwitch = 0
 CommandEnhanceResetType = 0
 CommandEnhanceResetEnable_AL0 = 1
 CommandEnhanceResetEnable_AL1 = 1
