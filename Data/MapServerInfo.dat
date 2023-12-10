@@ -2,8 +2,8 @@
 // MapServerInfo MuDevs S18.2-2
 0
 //ServerCode	MapServerGroup	InitSetVal		IpAddress			Port
-20				0				1				S27.70.234.240				55901		//GameServer
-19				0				0				S27.70.234.240				55919		//GameServerCS
+20				0				1				Smu.hopto.org				55901		//GameServer
+19				0				0				Smu.hopto.org				55919		//GameServerCS
 end
 
 1
