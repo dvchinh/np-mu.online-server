@@ -18,14 +18,18 @@
 	SELECT * FROM BanMacInfo WHERE HardwareId = ?
 
 --# [reset.history]
-	SELECT TOP 100 * FROM np_reset_history WITH(NOLOCK) ORDER BY id DESC;
+	SELECT TOP 100 H.*
+	FROM np_reset_history H WITH(NOLOCK)
+	WHERE H.character IN ('Galleon')
+	ORDER BY H.id DESC;
+
 	;WITH cte AS (
 		SELECT H.account, H.character
 			, COUNT(1) total
 			, MIN(H.created_at) AS created_min
 			, MAX(H.created_at) AS created_max
 		FROM np_reset_history H WITH(NOLOCK)
-		WHERE CAST(H.created_at AS DATE) = '2023-12-10'
+		WHERE CAST(H.created_at AS DATE) = '2023-12-13'
 		GROUP BY H.account, H.character)
 	SELECT H.*, C.ResetCount
 	FROM cte H
