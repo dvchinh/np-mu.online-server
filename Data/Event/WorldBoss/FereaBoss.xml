@@ -2,6 +2,7 @@
 	<!--
 	CrystalBallRegenFail - If Spawn Boss and cannot kill him, Crystal will appears in x Days, x Hours, x Minuts
 	IsOriginalTime - (0 / 1) = 1 Random time to respawn (18, 19, 20, 21, 22 hours) / 0 Static Time configured
+	 > [useless] It doesn't seem to affect.
 	CrystalBallRegenSuccess - If Spawn Boss and have success to kill him, Crystal will appears in x Days, x Hours, x Minuts
 	-->
 <FereaBoss Enable="1">
@@ -24,5 +25,5 @@
 	<ReFillLife Life="70000" />
 	<Skill WhirlwindDamagePer="80" WhirlwindDis="3" LandMinePer="95" RoarofLordDis="6" />
 	<CrystalBallRegenFail IsOriginalTime="0" Day="0" Hour="0" Min="5" />
-	<CrystalBallRegenSuccess IsOriginalTime="1" Day="0" Hour="0" Min="5" />
+	<CrystalBallRegenSuccess IsOriginalTime="0" Day="1" Hour="0" Min="0" />
 </FereaBoss>

@@ -215,7 +215,7 @@
 <Msg ID="306" Text="Ice Walker đã bị đánh bại!" />
 <Msg ID="320" Text="Selupan đã xuất hiện! Cổng trại giống sẽ đóng sau %d phút" />
 <Msg ID="321" Text="Cổng ấp đã đóng" />
-<Msg ID="322" Text="Người chơi %s đã bị đánh bại Selupan!" />
+<Msg ID="322" Text="Người chơi %s đã đánh bại Selupan!" />
 <Msg ID="323" Text="Cổng trại giống sẽ mở lại sau %d phút" />
 <Msg ID="324" Text="Cổng trại giống đã mở!" />
 <Msg ID="325" Text="Cổng ấp đã được đóng" />
