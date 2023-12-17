@@ -20,7 +20,7 @@
 --# [reset.history]
 	SELECT TOP 100 H.*
 	FROM np_reset_history H WITH(NOLOCK)
-	WHERE H.character IN ('Galleon')
+	WHERE H.character IN ('Kundunhehe')
 	ORDER BY H.id DESC;
 
 	;WITH cte AS (
@@ -29,12 +29,14 @@
 			, MIN(H.created_at) AS created_min
 			, MAX(H.created_at) AS created_max
 		FROM np_reset_history H WITH(NOLOCK)
-		WHERE CAST(H.created_at AS DATE) = '2023-12-13'
+		WHERE CAST(H.created_at AS DATE) = '2023-12-16'
 		GROUP BY H.account, H.character)
 	SELECT H.*, C.ResetCount
 	FROM cte H
 		INNER JOIN Character C WITH(NOLOCK) ON C.AccountID = H.account AND C.Name = H.character
 	ORDER BY H.total DESC, C.ResetCount DESC;
+
+	EXEC [dbo].[WZ_GetResetInfo] @Account = '1111', @Name = 'LouLx3';
 
 --#
 	SELECT @@VERSION AS version;
