@@ -919,7 +919,7 @@
 		<Msg ID="8" Text="Invasion of Medusa bắt đầu!" />
 		<Msg ID="9" Text="Invasion of invoking Demons đã bắt đầu!" />
 		<Msg ID="10" Text="Invasion of eggs Event đã bắt đầu!" />
-<Msg ID="11" Text="Người chơi %s đã bị đánh bại Skeleton King! %d còn lại. Bị giết trong bản đồ:%s X:%d Y:%d"/>
+		<Msg ID="11" Text="Người chơi %s đã bị đánh bại Skeleton King! %d còn lại. Bị giết trong bản đồ:%s X:%d Y:%d"/>
 		<Msg ID="12" Text="Người chơi %s đã bị đánh bại Red Dragon! %d còn lại. Bị giết trong bản đồ:%s X:%d Y:%d"/>
 		<Msg ID="13" Text="Người chơi %s đã bị đánh bại Golden Great Dragon! %d còn lại. Bị giết trong bản đồ:%s X:%d Y:%d"/>
 		<Msg ID="14" Text="Người chơi %s đã bị đánh bại White Wizard! %d còn lại. Bị giết trong bản đồ:%s X:%d Y:%d"/>
@@ -927,7 +927,7 @@
 		<Msg ID="16" Text="Người chơi %s đã bị đánh bại Medusa! %d còn lại. Bị giết trong bản đồ:%s X:%d Y:%d"/>
 	</InvacionMsg>
 	<Notice>
-		<Msg ID="0" Text="[ - LOULX GAME - ]" />
+		<Msg ID="0" Text="[ - MU BLUE: mu.hopto.org - ]" />
 	</Notice>
 	<NoticeSystem>
 		<Tags>
