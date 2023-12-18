@@ -1,6 +1,6 @@
 0
 //AppearanceDelay   BossZoneCloseDelay   BossZoneOpenDelay
-600		    600		         43200
+60		    600		         43200
 end
 
 1

@@ -8,10 +8,14 @@
 
 --# [character]
 	SELECT TOP 1000 C.AccountID, C.Name, C.Class, C.ResetCount, C.Clevel, C.LevelUpPoint, C.Money, C.RuudMoney, C.PkLevel, C.PKcount
+	SELECT TOP 100 C.*
 	FROM Character C WITH(NOLOCK)
 	WHERE 1 = 1
-		AND C.Name = 'LouLx3'
+		AND C.Name = 'Bing'
 	ORDER BY C.ResetCount DESC;
+	SELECT * FROM INFORMATION_SCHEMA.COLUMNS WHERE COLUMN_NAME LIKE '%online%';
+	SELECT TOP 1000 * FROM MEMB_STAT
+	UPDATE MEMB_STAT SET ConnectStat = 0 WHERE memb___id = 'atamd'
 
 --# [account]
 	SELECT memb___id, memb__pwd, * FROM MEMB_INFO WHERE memb___id = 'loukoala';

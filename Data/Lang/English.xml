@@ -112,7 +112,7 @@
 		<Msg ID="127" Text="Yêu cầu đã nhận: Tắt" />
 		<Msg ID="128" Text="Yêu cầu đã nhận: Tự động" />
 		<Msg ID="129" Text="Bạn chỉ có thể Reset %d lần một ngày" />
-		<Msg ID="130" Text="ERR: 2 lần reset liên tiếp phải cách nhau ít nhất 1 giờ." />
+		<Msg ID="130" Text="ERR: 2 lần reset liên tiếp phải cách nhau ít nhất 30 phút." />
 		<Msg ID="131" Text="ERR: Vượt quá giới hạn số lần reset trong ngày, link: mu.hopto.org/news/1/" />
 		<Msg ID="132" Text="Bạn chỉ có thể reset master %d lần một ngày" />
 		<Msg ID="133" Text="Bạn chỉ có thể reset master %d lần mỗi tuần" />
