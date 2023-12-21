@@ -11,9 +11,9 @@ IllusionTempleDamageRate = 50
 CastleSiegeDamageRate1 = 40
 CastleSiegeDamageRate2 = 0
 CastleSiegeDamageRate3 = 5
-GeneralDamageRatePvP = 100
+GeneralDamageRatePvP = 10
 GeneralDamageRatePvM = 100
-ReflectDamageRatePvP = 100
+ReflectDamageRatePvP = 60
 ReflectDamageRatePvM = 100
 AddDamageSuccessRate = 5
 
@@ -280,20 +280,20 @@ IKDamageRateToIK = 100
 ;==================================================
 ; Character Stuck Rate Settings
 ;==================================================
-DWDamageStuckRate = 15
-DKDamageStuckRate = 15
-FEDamageStuckRate = 15
-MGDamageStuckRate = 15
-DLDamageStuckRate = 15
-SUDamageStuckRate = 15
-RFDamageStuckRate = 15
-GLDamageStuckRate = 15
-RWDamageStuckRate = 15
-SLDamageStuckRate = 15
-GCDamageStuckRate = 15
-KMDamageStuckRate = 15
-LMDamageStuckRate = 15
-IKDamageStuckRate = 15
+DWDamageStuckRate = 10
+DKDamageStuckRate = 10
+FEDamageStuckRate = 10
+MGDamageStuckRate = 10
+DLDamageStuckRate = 10
+SUDamageStuckRate = 10
+RFDamageStuckRate = 10
+GLDamageStuckRate = 10
+RWDamageStuckRate = 10
+SLDamageStuckRate = 10
+GCDamageStuckRate = 10
+KMDamageStuckRate = 10
+LMDamageStuckRate = 10
+IKDamageStuckRate = 10
 
 ;==================================================
 ; Character Damage Multiplier Settings

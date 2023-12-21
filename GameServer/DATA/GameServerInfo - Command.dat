@@ -104,7 +104,7 @@ CommandAddPointMoney_AL3 = 0
 ; PK Clear Command Settings
 ; /pkclear
 ;==================================================
-CommandPKClearSwitch = 1
+CommandPKClearSwitch = 0
 CommandPKClearEnable_AL0 = 1
 CommandPKClearEnable_AL1 = 1
 CommandPKClearEnable_AL2 = 1
