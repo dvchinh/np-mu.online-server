@@ -928,6 +928,7 @@
 	</InvacionMsg>
 	<Notice>
 		<Msg ID="0" Text="[ - MU BLUE: mu.hopto.org - ]" />
+		<Msg ID="1" Text="Bảo trì hàng ngày: <FONT color='#00FF00'>1AM - 7AM</FONT><BR><FONT color='#C8C800'>- Tối thứ 6: Online 24/24 -</FONT>" />
 	</Notice>
 	<NoticeSystem>
 		<Tags>

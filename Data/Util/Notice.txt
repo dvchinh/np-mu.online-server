@@ -1,3 +1,4 @@
 //Index(LANG) Type   Count   Opacity   Delay   Red   Green   Blue   Speed   RepeatTime
 0				0      0       0         0       0     0       0      0       60
+1				0      0       0         0       0     0       0      0       1800
 end
