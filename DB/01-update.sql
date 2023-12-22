@@ -1,4 +1,14 @@
-﻿--# [reset.increase]
+﻿--# [disconnect], error: "The character <name> is online"
+	EXEC [dbo].[WZ_DISCONNECT_MEMB] @memb___id = 'atamd', @ServerName = NULL, @IP = NULL, @HarwareID = NULL
+	;
+
+--# [castle.schedule]
+	UPDATE MuCastle_DATA SET
+		SIEGE_START_DATE = DATEADD(day, DATEDIFF(day, SIEGE_START_DATE, GETDATE()), SIEGE_START_DATE),
+		SIEGE_END_DATE = DATEADD(day, DATEDIFF(day, SIEGE_END_DATE, DATEADD(day, 7, GETDATE())), SIEGE_END_DATE)
+	;
+
+--# [reset.increase]
 	DECLARE @account VARCHAR(10), @character VARCHAR(10), @reset INT, @point INT
 	DECLARE cursor1 CURSOR FOR
 		SELECT TOP 100 C.AccountID, C.Name, C.ResetCount, C.LevelUpPoint
