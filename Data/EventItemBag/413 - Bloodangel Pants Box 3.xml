@@ -61,6 +61,6 @@
 		<ItemEx Section="16" Index="4820" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Gunner Pants GC"/>
 		<ItemEx Section="17" Index="4849" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel White Wizard Pants | KM" />
 		<ItemEx Section="18" Index="4867" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Mage Pants | LM" />
-		<ItemEx Section="19" Index="4402" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Illusion Knight Pants | IK" />
+		<ItemEx Section="19" Index="4914" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Illusion Knight Pants | IK" />
 	</BagItemsEx>
 </ItemBag>

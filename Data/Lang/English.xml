@@ -158,12 +158,12 @@
 		<Msg ID="198" Text="Invasion of summer đã bắt đầu!" />
 		<Msg ID="199" Text="Christmas invasion đã bắt đầu!" />
 		<Msg ID="200" Text="Invasion of Medusa bắt đầu!" />
-		<Msg ID="202" Text="Người chơi %s đã bị đánh bại Skeleton King!" />
-		<Msg ID="203" Text="Người chơi %s đã bị đánh bại Red Dragon!" />
-		<Msg ID="204" Text="Người chơi %s đã bị đánh bại Golden Great Dragon!" />
-		<Msg ID="205" Text="Người chơi %s đã bị đánh bại White Wizard!" />
-		<Msg ID="206" Text="Người chơi %s đã bị đánh bại Cursed Santa!" />
-		<Msg ID="207" Text="Người chơi %s đã bị đánh bại Medusa!" />
+		<Msg ID="202" Text="Người chơi %s đã đánh bại Skeleton King!" />
+		<Msg ID="203" Text="Người chơi %s đã đánh bại Red Dragon!" />
+		<Msg ID="204" Text="Người chơi %s đã đánh bại Golden Great Dragon!" />
+		<Msg ID="205" Text="Người chơi %s đã đánh bại White Wizard!" />
+		<Msg ID="206" Text="Người chơi %s đã đánh bại Cursed Santa!" />
+		<Msg ID="207" Text="Người chơi %s đã đánh bại Medusa!" />
 		<Msg ID="208" Text="Merchant Moss đã xuất hiện!" />
 		<Msg ID="209" Text="Merchant Moss đã rời đi!" />
 		<Msg ID="210" Text="Invasion of invoking Demons đã bắt đầu!" />
@@ -510,7 +510,7 @@
 <Msg ID="692" Text="Chức năng khôi phục mục hiện đã bị tắt." />
 <Msg ID="693" Text="Không thể tải thông tin DB khôi phục mục hiện tại." />
 <Msg ID="694" Text="Bạn không thể sử dụng chức năng khôi phục mặt hàng và bạn không thể khôi phục các mặt hàng hiện đang được giảm giá." />
-		<Msg ID="695" Text="Người chơi %s đã bị đánh bại Core Magrifi!" />
+<Msg ID="695" Text="Người chơi %s đã đánh bại Core Magrifi!" />
 <Msg ID="696" Text="Bạn không đủ cấp độ để có thể vào" />
 <Msg ID="697" Text="Bạn không có đủ cấp độ chính để có thể tham gia." />
 <Msg ID="698" Text="Bạn chưa đủ thiết lập lại để có thể đăng nhập." />
