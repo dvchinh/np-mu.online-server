@@ -109,7 +109,7 @@ CommandPKClearEnable_AL0 = 1
 CommandPKClearEnable_AL1 = 1
 CommandPKClearEnable_AL2 = 1
 CommandPKClearEnable_AL3 = 1
-CommandPKClearMoney_AL0 = 0
+CommandPKClearMoney_AL0 = 10000000
 CommandPKClearMoney_AL1 = 0
 CommandPKClearMoney_AL2 = 0
 CommandPKClearMoney_AL3 = 0
@@ -118,7 +118,7 @@ CommandPKClearMoney_AL3 = 0
 ; Money Command Settings
 ; /money <number>
 ;==================================================
-CommandMoneySwitch = 1
+CommandMoneySwitch = 0
 CommandMoneyEnable_AL0 = 1
 CommandMoneyEnable_AL1 = 1
 CommandMoneyEnable_AL2 = 1
@@ -128,7 +128,7 @@ CommandMoneyEnable_AL3 = 1
 ; Change Evolution Class Command Settings
 ; /change
 ;==================================================
-CommandChangeSwitch = 1
+CommandChangeSwitch = 0
 CommandChangeEnable_AL0 = 1
 CommandChangeEnable_AL1 = 1
 CommandChangeEnable_AL2 = 1
@@ -160,15 +160,15 @@ CommandWareNumber_AL3 = 1
 ; /reset
 ;==================================================
 CommandResetSwitch = 1
-CommandResetType = 0
+CommandResetType = 1
 CommandResetEnable_AL0 = 1
 CommandResetEnable_AL1 = 1
 CommandResetEnable_AL2 = 1
 CommandResetEnable_AL3 = 1
-CommandResetAutoEnable_AL0 = 1
-CommandResetAutoEnable_AL1 = 1
-CommandResetAutoEnable_AL2 = 1
-CommandResetAutoEnable_AL3 = 1
+CommandResetAutoEnable_AL0 = 0
+CommandResetAutoEnable_AL1 = 0
+CommandResetAutoEnable_AL2 = 0
+CommandResetAutoEnable_AL3 = 0
 CommandResetCheckItem_AL0 = 0
 CommandResetCheckItem_AL1 = 0
 CommandResetCheckItem_AL2 = 0
@@ -196,23 +196,23 @@ CommandResetMoney_AL3 = 0
 CommandResetCount_AL0 = 1
 CommandResetCount_AL1 = 1
 CommandResetCount_AL2 = 1
-CommandResetCount_AL3 = 1	
-CommandResetLimit_AL0 = 10000
-CommandResetLimit_AL1 = 10000
-CommandResetLimit_AL2 = 10000
-CommandResetLimit_AL3 = 10000
-CommandResetLimitDay_AL0 = 10000
-CommandResetLimitDay_AL1 = 10000
-CommandResetLimitDay_AL2 = 10000
-CommandResetLimitDay_AL3 = 10000
-CommandResetLimitWek_AL0 = 10000
-CommandResetLimitWek_AL1 = 10000
-CommandResetLimitWek_AL2 = 10000
-CommandResetLimitWek_AL3 = 10000
-CommandResetLimitMon_AL0 = 10000
-CommandResetLimitMon_AL1 = 10000
-CommandResetLimitMon_AL2 = 10000
-CommandResetLimitMon_AL3 = 10000
+CommandResetCount_AL3 = 1
+CommandResetLimit_AL0 = 500
+CommandResetLimit_AL1 = 500
+CommandResetLimit_AL2 = 500
+CommandResetLimit_AL3 = 500
+CommandResetLimitDay_AL0 = 10
+CommandResetLimitDay_AL1 = 200
+CommandResetLimitDay_AL2 = 200
+CommandResetLimitDay_AL3 = 200
+CommandResetLimitWek_AL0 = 999
+CommandResetLimitWek_AL1 = 200
+CommandResetLimitWek_AL2 = 200
+CommandResetLimitWek_AL3 = 200
+CommandResetLimitMon_AL0 = 9999
+CommandResetLimitMon_AL1 = 200
+CommandResetLimitMon_AL2 = 200
+CommandResetLimitMon_AL3 = 200
 CommandResetStartLevel_AL0 = 1
 CommandResetStartLevel_AL1 = 1
 CommandResetStartLevel_AL2 = 1
@@ -246,7 +246,7 @@ CommandResetPointRateIK = 100
 ; Master Reset (Master Level - 400+) Command Settings
 ; /mreset
 ;==================================================
-CommandMasterResetSwitch = 1
+CommandMasterResetSwitch = 0
 CommandMasterResetType = 0
 CommandMasterResetEnable_AL0 = 1
 CommandMasterResetEnable_AL1 = 1
@@ -331,7 +331,7 @@ CommandMasterResetPointRateIK = 100
 ; Enhance Reset (Enhanced Level - 800+) Command Settings
 ; /ereset
 ;==================================================
-CommandEnhanceResetSwitch = 1
+CommandEnhanceResetSwitch = 0
 CommandEnhanceResetType = 0
 CommandEnhanceResetEnable_AL0 = 1
 CommandEnhanceResetEnable_AL1 = 1
