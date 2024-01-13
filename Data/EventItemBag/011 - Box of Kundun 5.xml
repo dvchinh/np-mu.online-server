@@ -32,5 +32,6 @@
 		<Item Section="6" Type="21" MinLevel="0" MaxLevel="0" Durability="0" Skill="13" Luck="13" Option="10" Excellent="2"  SetOption="0" SocketOption="0" SocketProbalty1="0" SocketProbalty2="0" SocketProbalty3="0" SocketProbalty4="0" SocketProbalty5="0" Name="Cross Shield"/>
 		<Item Section="6" Type="22" MinLevel="0" MaxLevel="0" Durability="0" Skill="13" Luck="13" Option="10" Excellent="2"  SetOption="0" SocketOption="0" SocketProbalty1="0" SocketProbalty2="0" SocketProbalty3="0" SocketProbalty4="0" SocketProbalty5="0" Name="Lazy Wind Shield"/>
 		<Item Section="6" Type="30" MinLevel="0" MaxLevel="0" Durability="0" Skill="13" Luck="13" Option="10" Excellent="2"  SetOption="0" SocketOption="0" SocketProbalty1="0" SocketProbalty2="0" SocketProbalty3="0" SocketProbalty4="0" SocketProbalty5="0" Name="Pluma Shield"/>
+		<Item Section="20" Type="108" MinLevel="0" MaxLevel="0" Durability="0" Skill="0" Luck="0" Option="0" Excellent="0"  SetOption="0" SocketOption="0" SocketProbalty1="0" SocketProbalty2="0" SocketProbalty3="0" SocketProbalty4="0" SocketProbalty5="0" Name="Access Ticket to Varka Renew" />
 	</BagItems>
 </ItemBag>

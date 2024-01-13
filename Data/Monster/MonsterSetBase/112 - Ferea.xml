@@ -34,7 +34,17 @@
 		<Config Class="730" Range="30" BeginPosX="64" BeginPosY="7" EndPosX="71" EndPosY="18" Direction="-1" Quantity="2" Element="5" /> <!-- "Ferea Knight" -->
 		<Config Class="730" Range="30" BeginPosX="55" BeginPosY="50" EndPosX="63" EndPosY="59" Direction="-1" Quantity="3" Element="5" /> <!-- "Ferea Knight" -->
 		<Config Class="730" Range="30" BeginPosX="109" BeginPosY="16" EndPosX="119" EndPosY="26" Direction="-1" Quantity="3" Element="5" /> <!-- "Ferea Knight" -->
-		<Config Class="730" Range="30" BeginPosX="92" BeginPosY="40" EndPosX="102" EndPosY="47" Direction="-1" Quantity="2" Element="5" /> <!-- "Ferea Knight" -->
+
+		<Config Class="730" Range="30" BeginPosX="92" BeginPosY="40" EndPosX="102" EndPosY="46" Direction="-1" Quantity="6" Element="5" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" BeginPosX="98" BeginPosY="41" EndPosX="102" EndPosY="45" Direction="-1" Quantity="6" Element="5" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" BeginPosX="97" BeginPosY="44" EndPosX="102" EndPosY="44" Direction="-1" Quantity="6" Element="5" /> <!-- "Ferea Knight" -->
+		<Config Class="731" Range="30" BeginPosX="100" BeginPosY="42" EndPosX="102" EndPosY="43" Direction="-1" Quantity="6" Element="5" /> <!-- "Ferea Archer" -->
+
+		<Config Class="732" Range="30" BeginPosX="120" BeginPosY="12" EndPosX="121" EndPosY="18" Direction="-1" Quantity="5" Element="5" /> <!-- "Ferea Fighter" -->
+		<Config Class="732" Range="30" BeginPosX="118" BeginPosY="18" EndPosX="121" EndPosY="19" Direction="-1" Quantity="5" Element="5" /> <!-- "Ferea Fighter" -->
+		<Config Class="732" Range="30" BeginPosX="117" BeginPosY="15" EndPosX="121" EndPosY="18" Direction="-1" Quantity="5" Element="4" /> <!-- "Ferea Fighter" -->
+		<Config Class="732" Range="30" BeginPosX="116" BeginPosY="18" EndPosX="121" EndPosY="18" Direction="-1" Quantity="5" Element="4" /> <!-- "Ferea Fighter" -->	
+
 		<Config Class="731" Range="30" BeginPosX="223" BeginPosY="209" EndPosX="235" EndPosY="214" Direction="-1" Quantity="3" Element="1" /> <!-- "Ferea Archer" -->
 		<Config Class="731" Range="30" BeginPosX="198" BeginPosY="205" EndPosX="206" EndPosY="211" Direction="-1" Quantity="4" Element="1" /> <!-- "Ferea Archer" -->
 		<Config Class="731" Range="30" BeginPosX="175" BeginPosY="216" EndPosX="185" EndPosY="225" Direction="-1" Quantity="4" Element="1" /> <!-- "Ferea Archer" -->
