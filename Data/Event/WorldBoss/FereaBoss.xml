@@ -25,5 +25,5 @@
 	<ReFillLife Life="70000" />
 	<Skill WhirlwindDamagePer="80" WhirlwindDis="3" LandMinePer="95" RoarofLordDis="6" />
 	<CrystalBallRegenFail IsOriginalTime="0" Day="0" Hour="0" Min="5" />
-	<CrystalBallRegenSuccess IsOriginalTime="0" Day="1" Hour="0" Min="0" />
+	<CrystalBallRegenSuccess IsOriginalTime="0" Day="0" Hour="4" Min="0" />
 </FereaBoss>
