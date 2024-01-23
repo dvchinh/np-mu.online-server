@@ -18,6 +18,31 @@
 		<Config Class="743" Range="30" BeginPosX="202" BeginPosY="27" EndPosX="212" EndPosY="37" Direction="-1" Quantity="4" Element="2" /> <!-- "Paraca" -->
 		<Config Class="743" Range="30" BeginPosX="208" BeginPosY="60" EndPosX="213" EndPosY="66" Direction="-1" Quantity="2" Element="2" /> <!-- "Paraca" -->
 		<Config Class="743" Range="30" BeginPosX="211" BeginPosY="105" EndPosX="222" EndPosY="114" Direction="-1" Quantity="2" Element="2" /> <!-- "Paraca" -->
+
+		<Config Class="743" Range="30" BeginPosX="160" BeginPosY="85" EndPosX="162" EndPosY="87" Direction="-1" Quantity="5" Element="2" /> <!-- "Paraca" -->
+		<Config Class="744" Range="30" BeginPosX="160" BeginPosY="85" EndPosX="162" EndPosY="87" Direction="-1" Quantity="5" Element="1" /> <!-- "Bass" -->
+		<Config Class="745" Range="30" BeginPosX="160" BeginPosY="85" EndPosX="162" EndPosY="87" Direction="-1" Quantity="5" Element="4" /> <!-- "Vasuki" -->
+
+		<Config Class="743" Range="30" BeginPosX="165" BeginPosY="55" EndPosX="166" EndPosY="56" Direction="-1" Quantity="5" Element="2" /> <!-- "Paraca" -->
+		<Config Class="744" Range="30" BeginPosX="165" BeginPosY="55" EndPosX="166" EndPosY="56" Direction="-1" Quantity="5" Element="1" /> <!-- "Bass" -->
+		<Config Class="745" Range="30" BeginPosX="165" BeginPosY="55" EndPosX="166" EndPosY="56" Direction="-1" Quantity="5" Element="4" /> <!-- "Vasuki" -->
+
+		<Config Class="743" Range="30" BeginPosX="183" BeginPosY="28" EndPosX="184" EndPosY="27" Direction="-1" Quantity="8" Element="2" /> <!-- "Paraca" -->
+		<Config Class="744" Range="30" BeginPosX="183" BeginPosY="28" EndPosX="184" EndPosY="27" Direction="-1" Quantity="8" Element="1" /> <!-- "Bass" -->
+		<Config Class="745" Range="30" BeginPosX="183" BeginPosY="28" EndPosX="184" EndPosY="27" Direction="-1" Quantity="9" Element="4" /> <!-- "Vasuki" -->
+
+		<Config Class="743" Range="30" BeginPosX="47" BeginPosY="120" EndPosX="48" EndPosY="121" Direction="-1" Quantity="5" Element="2" /> <!-- "Paraca" -->
+		<Config Class="744" Range="30" BeginPosX="47" BeginPosY="120" EndPosX="48" EndPosY="121" Direction="-1" Quantity="5" Element="1" /> <!-- "Bass" -->
+		<Config Class="745" Range="30" BeginPosX="47" BeginPosY="120" EndPosX="48" EndPosY="121" Direction="-1" Quantity="5" Element="4" /> <!-- "Vasuki" -->
+
+		<Config Class="743" Range="30" BeginPosX="168" BeginPosY="120" EndPosX="167" EndPosY="121" Direction="-1" Quantity="5" Element="2" /> <!-- "Paraca" -->
+		<Config Class="744" Range="30" BeginPosX="168" BeginPosY="120" EndPosX="167" EndPosY="121" Direction="-1" Quantity="5" Element="1" /> <!-- "Bass" -->
+		<Config Class="745" Range="30" BeginPosX="168" BeginPosY="120" EndPosX="167" EndPosY="121" Direction="-1" Quantity="5" Element="4" /> <!-- "Vasuki" -->
+
+		<Config Class="743" Range="30" BeginPosX="176" BeginPosY="15" EndPosX="177" EndPosY="16" Direction="-1" Quantity="8" Element="2" /> <!-- "Paraca" -->
+		<Config Class="744" Range="30" BeginPosX="176" BeginPosY="15" EndPosX="177" EndPosY="16" Direction="-1" Quantity="8" Element="1" /> <!-- "Bass" -->
+		<Config Class="745" Range="30" BeginPosX="176" BeginPosY="15" EndPosX="177" EndPosY="16" Direction="-1" Quantity="9" Element="4" /> <!-- "Vasuki" -->
+
 		<Config Class="743" Range="30" BeginPosX="195" BeginPosY="90" EndPosX="204" EndPosY="100" Direction="-1" Quantity="3" Element="2" /> <!-- "Paraca" -->
 		<Config Class="743" Range="30" BeginPosX="234" BeginPosY="83" EndPosX="243" EndPosY="92" Direction="-1" Quantity="3" Element="2" /> <!-- "Paraca" -->
 		<Config Class="743" Range="30" BeginPosX="178" BeginPosY="111" EndPosX="189" EndPosY="124" Direction="-1" Quantity="3" Element="4" /> <!-- "Paraca" -->
