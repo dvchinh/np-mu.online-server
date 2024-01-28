@@ -7,7 +7,7 @@
 		LEFT JOIN EnhanceSkillTree MT4 WITH(NOLOCK) ON MT4.Name = C.Name
 		LEFT JOIN MEMB_STAT MS WITH(NOLOCK) ON MS.memb___id = C.AccountID
 	WHERE 1 = 1
-		AND C.Name IN ('LouLx3', 'Galleon', 'Nephthys', '1hytyoudie')
+		AND C.Name IN ('LouLx3', 'LouLx12', 'Galleon', 'Nephthys', '1hytyoudie', 'Faker', 'Deathcleav', 'LadyLBH', 'Manta')
 	ORDER BY C.ResetCount DESC
 	;
 
@@ -29,7 +29,7 @@
 			, MIN(H.created_at) AS created_min
 			, MAX(H.created_at) AS created_max
 		FROM np_reset_history H WITH(NOLOCK)
-		WHERE CAST(H.created_at AS DATE) = '2023-12-29'
+		WHERE CAST(H.created_at AS DATE) = '2024-01-04'
 		GROUP BY H.account, H.character)
 	SELECT H.*, C.ResetCount
 	FROM cte H
