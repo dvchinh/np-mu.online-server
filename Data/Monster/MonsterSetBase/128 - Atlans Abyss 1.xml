@@ -1,14 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MonsterSetBase>
-<!-- ================================================================================================================================================================================================================================================================================= -->
 	<NPC>
 	</NPC>
-<!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
 	</SPOT>
-<!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>
 		<Config Class="832" Range="4" PositionX="139" PositionY="140" Direction="-1" Element="1" /> <!-- "" -->
+
+		<Config Class="832" Range="4" PositionX="177" PositionY="111" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="177" PositionY="111" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="177" PositionY="111" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="177" PositionY="111" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="177" PositionY="111" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="177" PositionY="111" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="177" PositionY="111" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="177" PositionY="111" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="177" PositionY="111" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="177" PositionY="111" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="177" PositionY="111" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="177" PositionY="111" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="177" PositionY="111" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="177" PositionY="111" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="177" PositionY="111" Direction="-1" Element="1" /> <!-- "" -->
+
+		<Config Class="832" Range="4" PositionX="108" PositionY="109" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="108" PositionY="109" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="108" PositionY="109" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="108" PositionY="109" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="108" PositionY="109" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="108" PositionY="109" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="108" PositionY="109" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="108" PositionY="109" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="108" PositionY="109" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="108" PositionY="109" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="108" PositionY="109" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="108" PositionY="109" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="108" PositionY="109" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="108" PositionY="109" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="108" PositionY="109" Direction="-1" Element="1" /> <!-- "" -->
+
+		<Config Class="833" Range="4" PositionX="74" PositionY="150" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="74" PositionY="150" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="74" PositionY="150" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="74" PositionY="150" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="74" PositionY="150" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="74" PositionY="150" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="74" PositionY="150" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="74" PositionY="150" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="74" PositionY="150" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="74" PositionY="150" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="74" PositionY="150" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="74" PositionY="150" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="74" PositionY="150" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="74" PositionY="150" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="74" PositionY="150" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="74" PositionY="150" Direction="-1" Element="1" /> <!-- "" -->
+
+		<Config Class="833" Range="4" PositionX="106" PositionY="177" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="106" PositionY="177" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="106" PositionY="177" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="106" PositionY="177" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="106" PositionY="177" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="106" PositionY="177" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="106" PositionY="177" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="106" PositionY="177" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="106" PositionY="177" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="106" PositionY="177" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="106" PositionY="177" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="106" PositionY="177" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="106" PositionY="177" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="106" PositionY="177" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="106" PositionY="177" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="106" PositionY="177" Direction="-1" Element="1" /> <!-- "" -->
+
+		<Config Class="833" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="137" PositionY="204" Direction="-1" Element="1" /> <!-- "" -->
+
+		<Config Class="833" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="1" /> <!-- "" -->
+		<Config Class="833" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="2" /> <!-- "" -->
+		<Config Class="832" Range="4" PositionX="236" PositionY="52" Direction="-1" Element="1" /> <!-- "" -->
+
 		<Config Class="832" Range="4" PositionX="142" PositionY="145" Direction="-1" Element="1" /> <!-- "" -->
 		<Config Class="832" Range="4" PositionX="157" PositionY="158" Direction="-1" Element="1" /> <!-- "" -->
 		<Config Class="832" Range="4" PositionX="165" PositionY="152" Direction="-1" Element="1" /> <!-- "" -->
@@ -350,8 +466,6 @@
 		<Config Class="833" Range="4" PositionX="202" PositionY="40" Direction="-1" Element="2" /> <!-- "" -->
 		<Config Class="833" Range="4" PositionX="198" PositionY="28" Direction="-1" Element="2" /> <!-- "" -->
 	</MONSTER>
-<!-- ================================================================================================================================================================================================================================================================================= -->
 	<EVENT>
 	</EVENT>
-<!-- ================================================================================================================================================================================================================================================================================= -->
 </MonsterSetBase>

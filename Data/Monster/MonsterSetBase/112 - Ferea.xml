@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MonsterSetBase>
-<!-- ================================================================================================================================================================================================================================================================================= -->
 	<NPC>
 	</NPC>
-<!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
 		<Config Class="730" Range="30" BeginPosX="219" BeginPosY="124" EndPosX="225" EndPosY="133" Direction="-1" Quantity="2" Element="3" /> <!-- "Ferea Knight" -->
 		<Config Class="730" Range="30" BeginPosX="217" BeginPosY="82" EndPosX="223" EndPosY="106" Direction="-1" Quantity="2" Element="3" /> <!-- "Ferea Knight" -->
@@ -35,15 +33,21 @@
 		<Config Class="730" Range="30" BeginPosX="55" BeginPosY="50" EndPosX="63" EndPosY="59" Direction="-1" Quantity="3" Element="5" /> <!-- "Ferea Knight" -->
 		<Config Class="730" Range="30" BeginPosX="109" BeginPosY="16" EndPosX="119" EndPosY="26" Direction="-1" Quantity="3" Element="5" /> <!-- "Ferea Knight" -->
 
-		<Config Class="730" Range="30" BeginPosX="92" BeginPosY="40" EndPosX="102" EndPosY="46" Direction="-1" Quantity="6" Element="5" /> <!-- "Ferea Knight" -->
-		<Config Class="730" Range="30" BeginPosX="98" BeginPosY="41" EndPosX="102" EndPosY="45" Direction="-1" Quantity="6" Element="5" /> <!-- "Ferea Knight" -->
-		<Config Class="730" Range="30" BeginPosX="97" BeginPosY="44" EndPosX="102" EndPosY="44" Direction="-1" Quantity="6" Element="5" /> <!-- "Ferea Knight" -->
-		<Config Class="731" Range="30" BeginPosX="100" BeginPosY="42" EndPosX="102" EndPosY="43" Direction="-1" Quantity="6" Element="5" /> <!-- "Ferea Archer" -->
+		<Config Class="732" Range="30" BeginPosX="97" BeginPosY="40" EndPosX="98" EndPosY="41" Direction="-1" Quantity="6" Element="5" /> <!-- "Ferea Knight" -->
+		<Config Class="732" Range="30" BeginPosX="97" BeginPosY="40" EndPosX="98" EndPosY="41" Direction="-1" Quantity="6" Element="5" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" BeginPosX="97" BeginPosY="40" EndPosX="98" EndPosY="41" Direction="-1" Quantity="6" Element="5" /> <!-- "Ferea Knight" -->
+		<Config Class="731" Range="30" BeginPosX="97" BeginPosY="40" EndPosX="98" EndPosY="41" Direction="-1" Quantity="6" Element="5" /> <!-- "Ferea Archer" -->
 
 		<Config Class="732" Range="30" BeginPosX="120" BeginPosY="12" EndPosX="121" EndPosY="18" Direction="-1" Quantity="5" Element="5" /> <!-- "Ferea Fighter" -->
 		<Config Class="732" Range="30" BeginPosX="118" BeginPosY="18" EndPosX="121" EndPosY="19" Direction="-1" Quantity="5" Element="5" /> <!-- "Ferea Fighter" -->
 		<Config Class="732" Range="30" BeginPosX="117" BeginPosY="15" EndPosX="121" EndPosY="18" Direction="-1" Quantity="5" Element="4" /> <!-- "Ferea Fighter" -->
-		<Config Class="732" Range="30" BeginPosX="116" BeginPosY="18" EndPosX="121" EndPosY="18" Direction="-1" Quantity="5" Element="4" /> <!-- "Ferea Fighter" -->	
+		<Config Class="732" Range="30" BeginPosX="116" BeginPosY="18" EndPosX="121" EndPosY="18" Direction="-1" Quantity="5" Element="4" /> <!-- "Ferea Fighter" -->
+
+		<Config Class="731" Range="30" BeginPosX="171" BeginPosY="13" EndPosX="172" EndPosY="14" Direction="-1" Quantity="5" Element="5" /> <!-- "Ferea Fighter" -->
+		<Config Class="730" Range="30" BeginPosX="171" BeginPosY="13" EndPosX="172" EndPosY="14" Direction="-1" Quantity="5" Element="5" /> <!-- "Ferea Fighter" -->
+		<Config Class="732" Range="30" BeginPosX="171" BeginPosY="13" EndPosX="172" EndPosY="14" Direction="-1" Quantity="5" Element="4" /> <!-- "Ferea Fighter" -->
+		<Config Class="731" Range="30" BeginPosX="171" BeginPosY="13" EndPosX="172" EndPosY="14" Direction="-1" Quantity="5" Element="4" /> <!-- "Ferea Fighter" -->
+		<Config Class="732" Range="30" BeginPosX="171" BeginPosY="13" EndPosX="172" EndPosY="14" Direction="-1" Quantity="5" Element="4" /> <!-- "Ferea Fighter" -->
 
 		<Config Class="731" Range="30" BeginPosX="223" BeginPosY="209" EndPosX="235" EndPosY="214" Direction="-1" Quantity="3" Element="1" /> <!-- "Ferea Archer" -->
 		<Config Class="731" Range="30" BeginPosX="198" BeginPosY="205" EndPosX="206" EndPosY="211" Direction="-1" Quantity="4" Element="1" /> <!-- "Ferea Archer" -->
@@ -123,11 +127,8 @@
 		<Config Class="732" Range="30" BeginPosX="138" BeginPosY="14" EndPosX="148" EndPosY="22" Direction="-1" Quantity="4" Element="3" /> <!-- "Ferea Fighter" -->
 		<Config Class="732" Range="30" BeginPosX="193" BeginPosY="23" EndPosX="198" EndPosY="32" Direction="-1" Quantity="3" Element="3" /> <!-- "Ferea Fighter" -->
 	</SPOT>
-<!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>
 	</MONSTER>
-<!-- ================================================================================================================================================================================================================================================================================= -->
 	<EVENT>
 	</EVENT>
-<!-- ================================================================================================================================================================================================================================================================================= -->
 </MonsterSetBase>

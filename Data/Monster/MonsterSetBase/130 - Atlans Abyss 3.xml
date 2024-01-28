@@ -26,30 +26,40 @@
 		<Config Class="838" Range="0" PositionX="31" PositionY="80" Direction="3" Element="0" />
 	</NPC>
 	<SPOT>
-		<Config Class="836" Range="4" BeginPosX="123" BeginPosY="152" EndPosX="123" EndPosY="152" Direction="-1" Quantity="2" Element="5" />
-		<Config Class="837" Range="4" BeginPosX="123" BeginPosY="152" EndPosX="123" EndPosY="152" Direction="-1" Quantity="2" Element="5" />
-		<Config Class="839" Range="4" BeginPosX="123" BeginPosY="152" EndPosX="123" EndPosY="152" Direction="-1" Quantity="2" Element="5" />
-		<Config Class="840" Range="4" BeginPosX="123" BeginPosY="152" EndPosX="123" EndPosY="152" Direction="-1" Quantity="1" Element="5" />
+		<Config Class="836" Range="4" BeginPosX="123" BeginPosY="152" EndPosX="123" EndPosY="152" Direction="-1" Quantity="4" Element="5" />
+		<Config Class="837" Range="4" BeginPosX="123" BeginPosY="152" EndPosX="123" EndPosY="152" Direction="-1" Quantity="4" Element="5" />
+		<Config Class="839" Range="4" BeginPosX="123" BeginPosY="152" EndPosX="123" EndPosY="152" Direction="-1" Quantity="4" Element="5" />
+		<Config Class="840" Range="4" BeginPosX="123" BeginPosY="152" EndPosX="123" EndPosY="152" Direction="-1" Quantity="4" Element="5" />
 
-		<Config Class="836" Range="4" BeginPosX="147" BeginPosY="143" EndPosX="147" EndPosY="143" Direction="-1" Quantity="2" Element="3" />
-		<Config Class="837" Range="4" BeginPosX="147" BeginPosY="143" EndPosX="147" EndPosY="143" Direction="-1" Quantity="2" Element="3" />
-		<Config Class="839" Range="4" BeginPosX="147" BeginPosY="143" EndPosX="147" EndPosY="143" Direction="-1" Quantity="2" Element="3" />
-		<Config Class="840" Range="4" BeginPosX="147" BeginPosY="143" EndPosX="147" EndPosY="143" Direction="-1" Quantity="1" Element="3" />
+		<Config Class="836" Range="4" BeginPosX="147" BeginPosY="143" EndPosX="147" EndPosY="143" Direction="-1" Quantity="4" Element="3" />
+		<Config Class="837" Range="4" BeginPosX="147" BeginPosY="143" EndPosX="147" EndPosY="143" Direction="-1" Quantity="4" Element="3" />
+		<Config Class="839" Range="4" BeginPosX="147" BeginPosY="143" EndPosX="147" EndPosY="143" Direction="-1" Quantity="4" Element="3" />
+		<Config Class="840" Range="4" BeginPosX="147" BeginPosY="143" EndPosX="147" EndPosY="143" Direction="-1" Quantity="4" Element="3" />
 
-		<Config Class="836" Range="4" BeginPosX="151" BeginPosY="112" EndPosX="151" EndPosY="112" Direction="-1" Quantity="2" Element="1" />
-		<Config Class="837" Range="4" BeginPosX="151" BeginPosY="112" EndPosX="151" EndPosY="112" Direction="-1" Quantity="2" Element="1" />
-		<Config Class="839" Range="4" BeginPosX="151" BeginPosY="112" EndPosX="151" EndPosY="112" Direction="-1" Quantity="2" Element="1" />
-		<Config Class="840" Range="4" BeginPosX="151" BeginPosY="112" EndPosX="151" EndPosY="112" Direction="-1" Quantity="1" Element="1" />
+		<Config Class="836" Range="4" BeginPosX="72" BeginPosY="37" EndPosX="74" EndPosY="38" Direction="-1" Quantity="6" Element="3" />
+		<Config Class="837" Range="4" BeginPosX="72" BeginPosY="37" EndPosX="74" EndPosY="38" Direction="-1" Quantity="6" Element="4" />
+		<Config Class="839" Range="4" BeginPosX="72" BeginPosY="37" EndPosX="74" EndPosY="38" Direction="-1" Quantity="6" Element="5" />
+		<Config Class="840" Range="4" BeginPosX="72" BeginPosY="37" EndPosX="74" EndPosY="38" Direction="-1" Quantity="6" Element="3" />
 
-		<Config Class="836" Range="4" BeginPosX="123" BeginPosY="92" EndPosX="123" EndPosY="92" Direction="-1" Quantity="2" Element="4" />
-		<Config Class="837" Range="4" BeginPosX="123" BeginPosY="92" EndPosX="123" EndPosY="92" Direction="-1" Quantity="2" Element="4" />
-		<Config Class="839" Range="4" BeginPosX="123" BeginPosY="92" EndPosX="123" EndPosY="92" Direction="-1" Quantity="2" Element="4" />
-		<Config Class="840" Range="4" BeginPosX="123" BeginPosY="92" EndPosX="123" EndPosY="92" Direction="-1" Quantity="1" Element="4" />
+		<Config Class="836" Range="4" BeginPosX="200" BeginPosY="57" EndPosX="201" EndPosY="55" Direction="-1" Quantity="6" Element="3" />
+		<Config Class="837" Range="4" BeginPosX="200" BeginPosY="57" EndPosX="201" EndPosY="55" Direction="-1" Quantity="6" Element="4" />
+		<Config Class="839" Range="4" BeginPosX="200" BeginPosY="57" EndPosX="201" EndPosY="55" Direction="-1" Quantity="8" Element="5" />
+		<Config Class="840" Range="4" BeginPosX="200" BeginPosY="57" EndPosX="201" EndPosY="55" Direction="-1" Quantity="8" Element="3" />
 
-		<Config Class="836" Range="4" BeginPosX="104" BeginPosY="81" EndPosX="104" EndPosY="81" Direction="-1" Quantity="2" Element="4" />
-		<Config Class="837" Range="4" BeginPosX="104" BeginPosY="81" EndPosX="104" EndPosY="81" Direction="-1" Quantity="2" Element="4" />
-		<Config Class="839" Range="4" BeginPosX="104" BeginPosY="81" EndPosX="104" EndPosY="81" Direction="-1" Quantity="2" Element="4" />
-		<Config Class="840" Range="4" BeginPosX="104" BeginPosY="81" EndPosX="104" EndPosY="81" Direction="-1" Quantity="1" Element="4" />
+		<Config Class="836" Range="4" BeginPosX="151" BeginPosY="112" EndPosX="151" EndPosY="112" Direction="-1" Quantity="4" Element="1" />
+		<Config Class="837" Range="4" BeginPosX="151" BeginPosY="112" EndPosX="151" EndPosY="112" Direction="-1" Quantity="4" Element="1" />
+		<Config Class="839" Range="4" BeginPosX="151" BeginPosY="112" EndPosX="151" EndPosY="112" Direction="-1" Quantity="4" Element="1" />
+		<Config Class="840" Range="4" BeginPosX="151" BeginPosY="112" EndPosX="151" EndPosY="112" Direction="-1" Quantity="4" Element="1" />
+
+		<Config Class="836" Range="4" BeginPosX="123" BeginPosY="92" EndPosX="123" EndPosY="92" Direction="-1" Quantity="4" Element="4" />
+		<Config Class="837" Range="4" BeginPosX="123" BeginPosY="92" EndPosX="123" EndPosY="92" Direction="-1" Quantity="4" Element="4" />
+		<Config Class="839" Range="4" BeginPosX="123" BeginPosY="92" EndPosX="123" EndPosY="92" Direction="-1" Quantity="4" Element="4" />
+		<Config Class="840" Range="4" BeginPosX="123" BeginPosY="92" EndPosX="123" EndPosY="92" Direction="-1" Quantity="4" Element="4" />
+
+		<Config Class="836" Range="4" BeginPosX="104" BeginPosY="81" EndPosX="104" EndPosY="81" Direction="-1" Quantity="4" Element="4" />
+		<Config Class="837" Range="4" BeginPosX="104" BeginPosY="81" EndPosX="104" EndPosY="81" Direction="-1" Quantity="4" Element="4" />
+		<Config Class="839" Range="4" BeginPosX="104" BeginPosY="81" EndPosX="104" EndPosY="81" Direction="-1" Quantity="4" Element="4" />
+		<Config Class="840" Range="4" BeginPosX="104" BeginPosY="81" EndPosX="104" EndPosY="81" Direction="-1" Quantity="4" Element="4" />
 	</SPOT>
 	<MONSTER></MONSTER>
 	<EVENT></EVENT>
